@@ -1,0 +1,22 @@
+{
+  "name": "하루하나불교",
+  "short_name": "하루불교",
+  "description": "매일 하나의 불교 경전 구절로 하루를 시작하세요.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EEECEA",
+  "theme_color": "#1a1a1a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
