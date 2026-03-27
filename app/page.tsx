@@ -62,6 +62,9 @@ export default function Home() {
           <Link href="/timer" className="text-[13px] text-[#1a1a1a] tracking-[0.04em] hover:opacity-60 transition-opacity">
             명상
           </Link>
+          <Link href="/calendar" className="text-[13px] text-[#1a1a1a] tracking-[0.04em] hover:opacity-60 transition-opacity">
+            달력
+          </Link>
           <Link href="/archive" className="text-[13px] text-[#1a1a1a] tracking-[0.04em] hover:opacity-60 transition-opacity">
             아카이브
           </Link>
