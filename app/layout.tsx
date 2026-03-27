@@ -59,6 +59,8 @@ export const metadata: Metadata = {
     "apple-mobile-web-app-status-bar-style": "default",
     "apple-mobile-web-app-title": "하루하나불교",
     "theme-color": "#EEECEA",
+    // 네이버 웹마스터 도구 사이트 검증 코드 — 발급 후 아래 값을 교체하세요
+    // "naver-site-verification": "YOUR_NAVER_VERIFICATION_CODE",
   },
 };
 

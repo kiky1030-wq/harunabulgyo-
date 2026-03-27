@@ -7,6 +7,7 @@ const links = [
   { href: "/sacha",   label: "사경" },
   { href: "/timer",   label: "명상" },
   { href: "/calendar",label: "달력" },
+  { href: "/topic",   label: "주제별" },
   { href: "/archive", label: "아카이브" },
   { href: "/about",   label: "소개" },
 ];
