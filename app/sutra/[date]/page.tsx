@@ -99,7 +99,7 @@ export default async function SutraDetailPage({
       {/* HERO */}
       <main className="flex-1 flex items-center justify-center px-4 sm:px-8 py-10 sm:py-20">
         <div className="max-w-4xl w-full text-center">
-          <p className="text-[12px] text-[#888] tracking-[0.2em] uppercase mb-8 sm:mb-10">
+          <p className="text-[12px] text-[#555] tracking-[0.2em] uppercase mb-8 sm:mb-10">
             {month}월 {day}일의 경전
           </p>
           <blockquote>

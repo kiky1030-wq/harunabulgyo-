@@ -56,7 +56,7 @@ export default function NavMenu({ today }: { today: string }) {
               {l.label}
             </Link>
           ))}
-          <span className="text-[12px] text-[#888] tracking-[0.04em] pt-2 border-t border-[#d5d2cf]">{today}</span>
+          <span className="text-[12px] text-[#555] tracking-[0.04em] pt-2 border-t border-[#d5d2cf]">{today}</span>
         </div>
       )}
     </>

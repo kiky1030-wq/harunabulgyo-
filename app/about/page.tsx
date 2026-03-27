@@ -23,7 +23,7 @@ export default function AboutPage() {
 
       {/* OPENING — 큰 선언 */}
       <header className="px-8 pt-16 pb-24 max-w-4xl">
-        <p className="text-[11px] tracking-[0.25em] text-[#888] uppercase mb-8">About</p>
+        <p className="text-[11px] tracking-[0.25em] text-[#555] uppercase mb-8">About</p>
         <h1
           className="font-light leading-tight text-[#1a1a1a]"
           style={{
@@ -40,7 +40,7 @@ export default function AboutPage() {
 
       {/* STORY SECTION 1 */}
       <section className="px-8 py-20 max-w-2xl">
-        <p className="text-[11px] tracking-[0.25em] text-[#888] uppercase mb-8">01</p>
+        <p className="text-[11px] tracking-[0.25em] text-[#555] uppercase mb-8">01</p>
         <p
           className="font-light text-[#1a1a1a] leading-loose"
           style={{ fontSize: "clamp(1.1rem, 2.2vw, 1.4rem)", lineHeight: "2" }}
@@ -63,7 +63,7 @@ export default function AboutPage() {
 
       {/* STORY SECTION 2 — 전환점, 인용 강조 */}
       <section className="px-8 py-20">
-        <p className="text-[11px] tracking-[0.25em] text-[#888] uppercase mb-12">02</p>
+        <p className="text-[11px] tracking-[0.25em] text-[#555] uppercase mb-12">02</p>
 
         <p
           className="font-light text-[#1a1a1a] leading-loose max-w-2xl mb-16"
@@ -86,7 +86,7 @@ export default function AboutPage() {
             <br />
             진흙에 물들지 않는다."
           </p>
-          <p className="text-[12px] text-[#888] tracking-[0.15em] uppercase mt-4">— 법구경</p>
+          <p className="text-[12px] text-[#555] tracking-[0.15em] uppercase mt-4">— 법구경</p>
         </blockquote>
 
         <p
@@ -103,7 +103,7 @@ export default function AboutPage() {
 
       {/* STORY SECTION 3 — 확장 */}
       <section className="px-8 py-20 max-w-2xl">
-        <p className="text-[11px] tracking-[0.25em] text-[#888] uppercase mb-8">03</p>
+        <p className="text-[11px] tracking-[0.25em] text-[#555] uppercase mb-8">03</p>
         <p
           className="font-light text-[#1a1a1a] leading-loose"
           style={{ fontSize: "clamp(1.1rem, 2.2vw, 1.4rem)", lineHeight: "2" }}

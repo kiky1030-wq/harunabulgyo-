@@ -54,10 +54,10 @@ export default function SachaNote({ sutra, dateKey, standalone = false }: Props)
     <div className={standalone ? "" : "border-t border-[#d5d2cf] pt-8 pb-10"}>
       {!standalone && (
         <div className="flex items-center justify-between mb-6">
-          <p className="text-[12px] tracking-[0.2em] text-[#888]">사경</p>
+          <p className="text-[12px] tracking-[0.2em] text-[#555]">사경</p>
           <button
             onClick={() => setOpen(false)}
-            className="text-[12px] text-[#aaa] hover:text-[#1a1a1a] tracking-[0.06em] transition-colors"
+            className="text-[12px] text-[#666] hover:text-[#1a1a1a] tracking-[0.06em] transition-colors"
           >
             닫기
           </button>
@@ -65,17 +65,17 @@ export default function SachaNote({ sutra, dateKey, standalone = false }: Props)
       )}
 
       {/* 원문 참고 */}
-      <p className="text-[13px] sm:text-[15px] text-[#aaa] leading-relaxed whitespace-pre-line mb-6 border-l-2 border-[#d5d2cf] pl-4">
+      <p className="text-[13px] sm:text-[15px] text-[#666] leading-relaxed whitespace-pre-line mb-6 border-l-2 border-[#d5d2cf] pl-4">
         {sutra}
       </p>
 
       {done ? (
         <div className="text-center py-8">
           <p className="text-[13px] tracking-[0.2em] text-[#1a1a1a] mb-1">사경 완료</p>
-          <p className="text-[12px] text-[#aaa]">오늘도 마음을 모았습니다.</p>
+          <p className="text-[12px] text-[#666]">오늘도 마음을 모았습니다.</p>
           <button
             onClick={handleClear}
-            className="mt-6 text-[11px] text-[#aaa] hover:text-[#1a1a1a] tracking-[0.1em] transition-colors underline underline-offset-2"
+            className="mt-6 text-[11px] text-[#666] hover:text-[#1a1a1a] tracking-[0.1em] transition-colors underline underline-offset-2"
           >
             다시 쓰기
           </button>
@@ -88,7 +88,7 @@ export default function SachaNote({ sutra, dateKey, standalone = false }: Props)
             onChange={handleChange}
             placeholder="여기에 구절을 따라 써보세요..."
             rows={standalone ? 6 : 4}
-            className="w-full bg-transparent border border-[#d5d2cf] focus:border-[#1a1a1a] outline-none px-4 py-3 text-[16px] sm:text-[14px] text-[#1a1a1a] leading-relaxed resize-none transition-colors placeholder:text-[#ccc]"
+            className="w-full bg-transparent border border-[#d5d2cf] focus:border-[#1a1a1a] outline-none px-4 py-3 text-[16px] sm:text-[14px] text-[#1a1a1a] leading-relaxed resize-none transition-colors placeholder:text-[#999]"
           />
           <div className="mt-3 flex items-center justify-between">
             <div className="flex-1 h-px bg-[#d5d2cf] mr-4">
@@ -97,12 +97,12 @@ export default function SachaNote({ sutra, dateKey, standalone = false }: Props)
                 style={{ width: `${percent}%` }}
               />
             </div>
-            <span className="text-[11px] text-[#aaa] tabular-nums">{percent}%</span>
+            <span className="text-[11px] text-[#666] tabular-nums">{percent}%</span>
           </div>
           {value.length > 0 && (
             <button
               onClick={handleClear}
-              className="mt-2 text-[11px] text-[#ccc] hover:text-[#aaa] tracking-[0.1em] transition-colors"
+              className="mt-2 text-[11px] text-[#999] hover:text-[#666] tracking-[0.1em] transition-colors"
             >
               지우기
             </button>
@@ -119,7 +119,7 @@ export default function SachaNote({ sutra, dateKey, standalone = false }: Props)
       {!open ? (
         <button
           onClick={() => setOpen(true)}
-          className="w-full py-4 border-t border-[#d5d2cf] text-[12px] tracking-[0.2em] text-[#888] hover:text-[#1a1a1a] transition-colors flex items-center justify-center gap-2"
+          className="w-full py-4 border-t border-[#d5d2cf] text-[12px] tracking-[0.2em] text-[#555] hover:text-[#1a1a1a] transition-colors flex items-center justify-center gap-2"
         >
           {done ? (
             <>

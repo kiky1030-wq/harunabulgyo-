@@ -23,7 +23,7 @@ export default function SachaPage() {
       </nav>
 
       <main className="flex-1 flex flex-col items-center justify-center px-4 py-16">
-        <p className="text-[12px] tracking-[0.2em] uppercase text-[#888] mb-12">사경</p>
+        <p className="text-[12px] tracking-[0.2em] uppercase text-[#555] mb-12">사경</p>
         <SachaNote sutra={sutra.korean} dateKey={sutra.date} standalone />
       </main>
 

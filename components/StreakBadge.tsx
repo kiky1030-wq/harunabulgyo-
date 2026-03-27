@@ -65,7 +65,7 @@ export default function StreakBadge() {
       title={`${streak}일 연속 독경 중`}
       className="inline-flex items-center gap-2 px-3 py-1.5 rounded-lg bg-[#1a1a1a] text-[#EEECEA] text-[12px] tracking-[0.06em]"
     >
-      <span className={`w-1.5 h-1.5 rounded-full inline-block ${isNew ? "bg-white" : "bg-[#888]"}`} />
+      <span className={`w-1.5 h-1.5 rounded-full inline-block ${isNew ? "bg-white" : "bg-[#555]"}`} />
       <span>
         <span className="font-semibold">{streak}일</span> 연속
       </span>

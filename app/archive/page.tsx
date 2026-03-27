@@ -36,7 +36,7 @@ export default function ArchivePage() {
 
       {/* HEADER */}
       <header className="px-4 sm:px-8 pt-6 sm:pt-8 pb-10 sm:pb-16">
-        <p className="text-[11px] tracking-[0.25em] text-[#888] uppercase mb-4">Archive</p>
+        <p className="text-[11px] tracking-[0.25em] text-[#555] uppercase mb-4">Archive</p>
         <h1
           className="font-light leading-tight text-[#1a1a1a]"
           style={{ fontSize: "clamp(2rem, 6vw, 5rem)", letterSpacing: "-0.02em" }}
@@ -52,7 +52,7 @@ export default function ArchivePage() {
       <main className="px-4 sm:px-8 pb-16 sm:pb-20">
         {Object.entries(byMonth).map(([month, list]) => (
           <div key={month} className="mb-10 sm:mb-14">
-            <p className="text-[11px] tracking-[0.25em] text-[#888] uppercase mb-4 sm:mb-6">
+            <p className="text-[11px] tracking-[0.25em] text-[#555] uppercase mb-4 sm:mb-6">
               {monthNames[month] ?? `${month}월`}
             </p>
             <div className="space-y-0">
@@ -64,10 +64,10 @@ export default function ArchivePage() {
                     href={`/sutra/${sutra.date}`}
                     className="group flex items-baseline gap-3 sm:gap-6 py-4 sm:py-5 border-b border-[#d5d2cf] hover:border-[#1a1a1a] transition-colors"
                   >
-                    <span className="text-[12px] text-[#aaa] w-7 sm:w-8 flex-shrink-0">
+                    <span className="text-[12px] text-[#666] w-7 sm:w-8 flex-shrink-0">
                       {d}일
                     </span>
-                    <span className="hidden sm:inline text-[11px] tracking-[0.15em] text-[#888] uppercase w-20 flex-shrink-0">
+                    <span className="hidden sm:inline text-[11px] tracking-[0.15em] text-[#555] uppercase w-20 flex-shrink-0">
                       {sutra.source}
                     </span>
                     <p
@@ -75,7 +75,7 @@ export default function ArchivePage() {
                     >
                       {sutra.korean.split("\n")[0]}
                     </p>
-                    <span className="text-[12px] text-[#ccc] group-hover:text-[#1a1a1a] transition-colors flex-shrink-0">
+                    <span className="text-[12px] text-[#999] group-hover:text-[#1a1a1a] transition-colors flex-shrink-0">
                       →
                     </span>
                   </Link>

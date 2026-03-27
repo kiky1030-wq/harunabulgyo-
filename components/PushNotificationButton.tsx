@@ -46,7 +46,7 @@ export default function PushNotificationButton() {
 
   if (status === "denied") {
     return (
-      <p className="text-[12px] text-[#aaa]">알림이 차단되어 있습니다. 브라우저 설정에서 허용해주세요.</p>
+      <p className="text-[12px] text-[#666]">알림이 차단되어 있습니다. 브라우저 설정에서 허용해주세요.</p>
     );
   }
 

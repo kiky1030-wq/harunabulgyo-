@@ -116,7 +116,7 @@ export default function MeditationTimer() {
               >
                 {fmt(remaining)}
               </p>
-              <p className="text-[11px] tracking-[0.2em] text-[#888] mt-1">
+              <p className="text-[11px] tracking-[0.2em] text-[#555] mt-1">
                 {running ? "명상 중" : remaining === total ? "시작 전" : "일시정지"}
               </p>
             </>
@@ -159,7 +159,7 @@ export default function MeditationTimer() {
         )}
       </div>
 
-      <p className="text-[12px] text-[#aaa] tracking-[0.06em] text-center max-w-xs">
+      <p className="text-[12px] text-[#666] tracking-[0.06em] text-center max-w-xs">
         타이머 종료 시 종소리가 울립니다.
         <br />
         화면을 켜둔 채 눈을 감으세요.
