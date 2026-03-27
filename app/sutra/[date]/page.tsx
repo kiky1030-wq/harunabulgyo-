@@ -106,7 +106,7 @@ export default async function SutraDetailPage({
           <blockquote>
             <p
               className="font-light leading-tight text-[#1a1a1a] whitespace-pre-line"
-              style={{ fontSize: "clamp(1.6rem, 5.5vw, 4.2rem)", letterSpacing: "-0.01em", lineHeight: "1.4" }}
+              style={{ fontSize: "clamp(1.28rem, 4.4vw, 3.36rem)", letterSpacing: "-0.01em", lineHeight: "1.4" }}
             >
               {sutra.korean}
             </p>
