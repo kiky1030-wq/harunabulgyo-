@@ -58,6 +58,9 @@ export default function Home() {
       <nav className="px-4 sm:px-8 py-5 sm:py-6 flex items-center justify-between flex-shrink-0">
         <span className="text-[13px] font-medium tracking-[0.08em]">하루하나불교</span>
         <div className="flex items-center gap-4 sm:gap-6">
+          <Link href="/timer" className="text-[13px] text-[#1a1a1a] tracking-[0.04em] hover:opacity-60 transition-opacity">
+            명상
+          </Link>
           <Link href="/archive" className="text-[13px] text-[#1a1a1a] tracking-[0.04em] hover:opacity-60 transition-opacity">
             아카이브
           </Link>
