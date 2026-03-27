@@ -62,12 +62,8 @@ export default function Home() {
 
       <SutraDisplay
         sutra={sutra}
-        left={
-          <div className="flex flex-col gap-2">
-            <StreakBadge />
-            <PushNotificationButton />
-          </div>
-        }
+        badge={<StreakBadge />}
+        left={<PushNotificationButton />}
         actions={
           <>
             <AudioButton text={sutra.korean} />

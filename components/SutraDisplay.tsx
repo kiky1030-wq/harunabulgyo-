@@ -12,10 +12,11 @@ interface Props {
   lang?: "ko" | "en";
   actions?: React.ReactNode; // AudioButton, KakaoShareButton, ShareButton 등
   left?: React.ReactNode;    // PushNotificationButton 등
+  badge?: React.ReactNode;   // StreakBadge 등 텍스트 위 가운데 배치
   copyright?: React.ReactNode;
 }
 
-export default function SutraDisplay({ sutra, lang = "ko", actions, left, copyright }: Props) {
+export default function SutraDisplay({ sutra, lang = "ko", actions, left, badge, copyright }: Props) {
   const text = lang === "en" ? (sutra.english ?? sutra.korean) : sutra.korean;
   const note = lang === "en" ? (sutra.english_commentary ?? sutra.commentary) : sutra.commentary;
   const [fontSize, setFontSize] = useState<FontSize>("md");
@@ -30,6 +31,11 @@ export default function SutraDisplay({ sutra, lang = "ko", actions, left, copyri
       {/* ── HERO ── */}
       <main className="flex-1 flex items-center justify-center px-4 sm:px-8 py-10 sm:py-20">
         <div className="max-w-4xl w-full text-center">
+          {badge && (
+            <div className="flex justify-center mb-6 sm:mb-8">
+              {badge}
+            </div>
+          )}
           <blockquote>
             <p
               className="font-light text-[#1a1a1a] whitespace-pre-line"
