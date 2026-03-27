@@ -1,4 +1,4 @@
-import { getTodaySutra } from "@/lib/sutra";
+import { getTodaySutra, getAllSources, getAllTopics, TOPICS } from "@/lib/sutra";
 import ShareButton from "@/components/ShareButton";
 import KakaoShareButton from "@/components/KakaoShareButton";
 import PushNotificationButton from "@/components/PushNotificationButton";
@@ -19,6 +19,8 @@ export const metadata: Metadata = {
 
 export default function Home() {
   const sutra = getTodaySutra();
+  const sources = getAllSources();
+  const topics = getAllTopics();
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -77,6 +79,43 @@ export default function Home() {
           </>
         }
       />
+
+      {/* 내부 링크 섹션 */}
+      <section className="px-4 sm:px-8 pb-16 border-t border-[#d5d2cf] mt-0">
+        <div className="pt-10 sm:pt-12 grid grid-cols-1 sm:grid-cols-2 gap-10 sm:gap-16">
+          {/* 경전별 */}
+          <div>
+            <p className="text-[11px] tracking-[0.2em] text-[#888] uppercase mb-5">경전별</p>
+            <div className="flex flex-wrap gap-2">
+              {sources.map((src) => (
+                <Link
+                  key={src}
+                  href={`/source/${encodeURIComponent(src)}`}
+                  className="text-[13px] text-[#1a1a1a] border border-[#d5d2cf] px-3 py-1.5 hover:border-[#1a1a1a] transition-colors"
+                >
+                  {src}
+                </Link>
+              ))}
+            </div>
+          </div>
+
+          {/* 주제별 */}
+          <div>
+            <p className="text-[11px] tracking-[0.2em] text-[#888] uppercase mb-5">주제별</p>
+            <div className="flex flex-wrap gap-2">
+              {topics.map((topic) => (
+                <Link
+                  key={topic}
+                  href={`/topic/${encodeURIComponent(topic)}`}
+                  className="text-[13px] text-[#1a1a1a] border border-[#d5d2cf] px-3 py-1.5 hover:border-[#1a1a1a] transition-colors"
+                >
+                  {TOPICS[topic].label}
+                </Link>
+              ))}
+            </div>
+          </div>
+        </div>
+      </section>
 
     </div>
   );
