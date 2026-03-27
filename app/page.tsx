@@ -53,26 +53,26 @@ export default function Home() {
       />
 
       {/* ── NAV ── */}
-      <nav className="px-8 py-6 flex items-center justify-between flex-shrink-0">
+      <nav className="px-4 sm:px-8 py-5 sm:py-6 flex items-center justify-between flex-shrink-0">
         <span className="text-[13px] font-medium tracking-[0.08em]">하루하나불교</span>
-        <div className="flex items-center gap-6">
+        <div className="flex items-center gap-4 sm:gap-6">
           <Link href="/archive" className="text-[13px] text-[#1a1a1a] tracking-[0.04em] hover:opacity-60 transition-opacity">
             아카이브
           </Link>
           <Link href="/about" className="text-[13px] text-[#1a1a1a] tracking-[0.04em] hover:opacity-60 transition-opacity">
             소개
           </Link>
-          <span className="text-[13px] text-[#1a1a1a] tracking-[0.04em]">{today}</span>
+          <span className="hidden sm:inline text-[13px] text-[#1a1a1a] tracking-[0.04em]">{today}</span>
         </div>
       </nav>
 
       {/* ── HERO: 구절이 화면 정중앙 ── */}
-      <main className="flex-1 flex items-center justify-center px-8 py-20">
+      <main className="flex-1 flex items-center justify-center px-4 sm:px-8 py-10 sm:py-20">
         <div className="max-w-4xl w-full text-center">
           <blockquote>
             <p
               className="font-light leading-tight text-[#1a1a1a] whitespace-pre-line"
-              style={{ fontSize: "clamp(2rem, 5.5vw, 4.2rem)", letterSpacing: "-0.01em", lineHeight: "1.35" }}
+              style={{ fontSize: "clamp(1.6rem, 5.5vw, 4.2rem)", letterSpacing: "-0.01em", lineHeight: "1.4" }}
             >
               {sutra.korean}
             </p>
@@ -81,13 +81,13 @@ export default function Home() {
       </main>
 
       {/* ── 하단 메타 정보 ── */}
-      <footer className="px-8 pb-12 flex-shrink-0">
+      <footer className="px-4 sm:px-8 pb-10 sm:pb-12 flex-shrink-0">
         {/* 출처 + 해설 — 중앙 정렬 */}
-        <div className="text-center mb-10">
+        <div className="text-center mb-8 sm:mb-10">
           <p className="text-[12px] text-[#1a1a1a] tracking-[0.2em] uppercase mb-3">
             {sutra.source}{sutra.chapter ? `  ·  ${sutra.chapter}` : ""}
           </p>
-          <p className="text-[15px] text-[#1a1a1a] leading-relaxed max-w-md mx-auto">
+          <p className="text-[14px] sm:text-[15px] text-[#1a1a1a] leading-relaxed max-w-md mx-auto">
             {sutra.commentary}
           </p>
           {sutra.original && (
@@ -98,12 +98,12 @@ export default function Home() {
         </div>
 
         {/* 구분선 */}
-        <div className="w-full h-px bg-[#d5d2cf] mb-8" />
+        <div className="w-full h-px bg-[#d5d2cf] mb-6 sm:mb-8" />
 
         {/* 공유 + 저작 */}
-        <div className="flex items-center justify-between">
+        <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
           <PushNotificationButton />
-          <div className="flex items-center gap-3">
+          <div className="flex items-center gap-2 sm:gap-3">
             <AudioButton text={sutra.korean} />
             <KakaoShareButton sutra={sutra} />
             <ShareButton sutra={sutra} />

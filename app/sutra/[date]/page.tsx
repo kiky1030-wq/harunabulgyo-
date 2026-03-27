@@ -87,7 +87,7 @@ export default async function SutraDetailPage({
       />
 
       {/* NAV */}
-      <nav className="px-8 py-6 flex items-center justify-between flex-shrink-0">
+      <nav className="px-4 sm:px-8 py-5 sm:py-6 flex items-center justify-between flex-shrink-0">
         <Link href="/" className="text-[13px] font-medium tracking-[0.08em] hover:opacity-60 transition-opacity">
           하루하나불교
         </Link>
@@ -97,15 +97,15 @@ export default async function SutraDetailPage({
       </nav>
 
       {/* HERO */}
-      <main className="flex-1 flex items-center justify-center px-8 py-20">
+      <main className="flex-1 flex items-center justify-center px-4 sm:px-8 py-10 sm:py-20">
         <div className="max-w-4xl w-full text-center">
-          <p className="text-[12px] text-[#888] tracking-[0.2em] uppercase mb-10">
+          <p className="text-[12px] text-[#888] tracking-[0.2em] uppercase mb-8 sm:mb-10">
             {month}월 {day}일의 경전
           </p>
           <blockquote>
             <p
               className="font-light leading-tight text-[#1a1a1a] whitespace-pre-line"
-              style={{ fontSize: "clamp(2rem, 5.5vw, 4.2rem)", letterSpacing: "-0.01em", lineHeight: "1.35" }}
+              style={{ fontSize: "clamp(1.6rem, 5.5vw, 4.2rem)", letterSpacing: "-0.01em", lineHeight: "1.4" }}
             >
               {sutra.korean}
             </p>
@@ -114,12 +114,12 @@ export default async function SutraDetailPage({
       </main>
 
       {/* 하단 메타 */}
-      <footer className="px-8 pb-12 flex-shrink-0">
-        <div className="text-center mb-10">
+      <footer className="px-4 sm:px-8 pb-10 sm:pb-12 flex-shrink-0">
+        <div className="text-center mb-8 sm:mb-10">
           <p className="text-[12px] text-[#1a1a1a] tracking-[0.2em] uppercase mb-3">
             {sutra.source}{sutra.chapter ? `  ·  ${sutra.chapter}` : ""}
           </p>
-          <p className="text-[15px] text-[#1a1a1a] leading-relaxed max-w-md mx-auto">
+          <p className="text-[14px] sm:text-[15px] text-[#1a1a1a] leading-relaxed max-w-md mx-auto">
             {sutra.commentary}
           </p>
           {sutra.original && (
@@ -129,11 +129,11 @@ export default async function SutraDetailPage({
           )}
         </div>
 
-        <div className="w-full h-px bg-[#d5d2cf] mb-8" />
+        <div className="w-full h-px bg-[#d5d2cf] mb-6 sm:mb-8" />
 
-        <div className="flex items-center justify-between">
+        <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
           <span className="text-[12px] text-[#1a1a1a] tracking-[0.06em]">매일 하나의 경전</span>
-          <div className="flex items-center gap-3">
+          <div className="flex items-center gap-2 sm:gap-3">
             <KakaoShareButton sutra={sutra} />
             <ShareButton sutra={sutra} />
           </div>

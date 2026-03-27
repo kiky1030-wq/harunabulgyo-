@@ -27,7 +27,7 @@ export default function ArchivePage() {
     <div className="min-h-screen bg-[#EEECEA] text-[#1a1a1a]">
 
       {/* NAV */}
-      <nav className="px-8 py-6 flex items-center justify-between">
+      <nav className="px-4 sm:px-8 py-5 sm:py-6 flex items-center justify-between">
         <Link href="/" className="text-[13px] font-medium tracking-[0.08em] hover:opacity-60 transition-opacity">
           하루하나불교
         </Link>
@@ -35,44 +35,43 @@ export default function ArchivePage() {
       </nav>
 
       {/* HEADER */}
-      <header className="px-8 pt-8 pb-16">
+      <header className="px-4 sm:px-8 pt-6 sm:pt-8 pb-10 sm:pb-16">
         <p className="text-[11px] tracking-[0.25em] text-[#888] uppercase mb-4">Archive</p>
         <h1
           className="font-light leading-tight text-[#1a1a1a]"
-          style={{ fontSize: "clamp(2.5rem, 6vw, 5rem)", letterSpacing: "-0.02em" }}
+          style={{ fontSize: "clamp(2rem, 6vw, 5rem)", letterSpacing: "-0.02em" }}
         >
           모든 경전.
         </h1>
       </header>
 
       {/* DIVIDER */}
-      <div className="h-px bg-[#d5d2cf] mx-8 mb-12" />
+      <div className="h-px bg-[#d5d2cf] mx-4 sm:mx-8 mb-8 sm:mb-12" />
 
       {/* LIST BY MONTH */}
-      <main className="px-8 pb-20">
+      <main className="px-4 sm:px-8 pb-16 sm:pb-20">
         {Object.entries(byMonth).map(([month, list]) => (
-          <div key={month} className="mb-14">
-            <p className="text-[11px] tracking-[0.25em] text-[#888] uppercase mb-6">
+          <div key={month} className="mb-10 sm:mb-14">
+            <p className="text-[11px] tracking-[0.25em] text-[#888] uppercase mb-4 sm:mb-6">
               {monthNames[month] ?? `${month}월`}
             </p>
             <div className="space-y-0">
-              {list.map((sutra, i) => {
-                const [m, d] = sutra.date.split("-");
+              {list.map((sutra) => {
+                const [, d] = sutra.date.split("-");
                 return (
                   <Link
                     key={sutra.id}
                     href={`/sutra/${sutra.date}`}
-                    className="group flex items-baseline gap-6 py-5 border-b border-[#d5d2cf] hover:border-[#1a1a1a] transition-colors"
+                    className="group flex items-baseline gap-3 sm:gap-6 py-4 sm:py-5 border-b border-[#d5d2cf] hover:border-[#1a1a1a] transition-colors"
                   >
-                    <span className="text-[12px] text-[#aaa] w-8 flex-shrink-0">
+                    <span className="text-[12px] text-[#aaa] w-7 sm:w-8 flex-shrink-0">
                       {d}일
                     </span>
-                    <span className="text-[11px] tracking-[0.15em] text-[#888] uppercase w-20 flex-shrink-0">
+                    <span className="hidden sm:inline text-[11px] tracking-[0.15em] text-[#888] uppercase w-20 flex-shrink-0">
                       {sutra.source}
                     </span>
                     <p
-                      className="font-light text-[#1a1a1a] leading-snug truncate flex-1"
-                      style={{ fontSize: "clamp(0.9rem, 2vw, 1.15rem)" }}
+                      className="font-light text-[#1a1a1a] leading-snug truncate flex-1 text-[0.9rem] sm:text-[1rem]"
                     >
                       {sutra.korean.split("\n")[0]}
                     </p>
@@ -88,8 +87,8 @@ export default function ArchivePage() {
       </main>
 
       {/* FOOTER */}
-      <div className="h-px bg-[#d5d2cf] mx-8" />
-      <footer className="px-8 py-6 flex items-center justify-between">
+      <div className="h-px bg-[#d5d2cf] mx-4 sm:mx-8" />
+      <footer className="px-4 sm:px-8 py-6 flex items-center justify-between">
         <span className="text-[12px] text-[#1a1a1a] tracking-[0.06em]">매일 하나의 경전</span>
         <span className="text-[12px] text-[#1a1a1a] tracking-[0.06em]">© 하루하나불교</span>
       </footer>
