@@ -33,3 +33,21 @@ export function getSutraByDate(dateStr: string): Sutra | undefined {
 export function getAllSutras(): Sutra[] {
   return sutras as Sutra[];
 }
+
+export function getSutrasBySource(source: string): Sutra[] {
+  return (sutras as Sutra[]).filter((s) => s.source === source);
+}
+
+export function getAllSources(): string[] {
+  return [...new Set((sutras as Sutra[]).map((s) => s.source))];
+}
+
+export function getPrevNextSutra(dateStr: string): { prev: Sutra | null; next: Sutra | null } {
+  const all = sutras as Sutra[];
+  const idx = all.findIndex((s) => s.date === dateStr);
+  if (idx === -1) return { prev: null, next: null };
+  return {
+    prev: idx > 0 ? all[idx - 1] : null,
+    next: idx < all.length - 1 ? all[idx + 1] : null,
+  };
+}

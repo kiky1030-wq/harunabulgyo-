@@ -1,4 +1,4 @@
-import { getSutraByDate, getAllSutras } from "@/lib/sutra";
+import { getSutraByDate, getAllSutras, getPrevNextSutra } from "@/lib/sutra";
 import ShareButton from "@/components/ShareButton";
 import KakaoShareButton from "@/components/KakaoShareButton";
 import Link from "next/link";
@@ -53,6 +53,7 @@ export default async function SutraDetailPage({
   const { date } = await params;
   const sutra = getSutraByDate(date);
   if (!sutra) notFound();
+  const { prev, next } = getPrevNextSutra(date);
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -116,9 +117,12 @@ export default async function SutraDetailPage({
       {/* 하단 메타 */}
       <footer className="px-4 sm:px-8 pb-10 sm:pb-12 flex-shrink-0">
         <div className="text-center mb-8 sm:mb-10">
-          <p className="text-[12px] text-[#1a1a1a] tracking-[0.2em] uppercase mb-3">
+          <Link
+            href={`/source/${encodeURIComponent(sutra.source)}`}
+            className="text-[12px] text-[#1a1a1a] tracking-[0.2em] uppercase mb-3 hover:opacity-60 transition-opacity inline-block"
+          >
             {sutra.source}{sutra.chapter ? `  ·  ${sutra.chapter}` : ""}
-          </p>
+          </Link>
           <p className="text-[14px] sm:text-[15px] text-[#1a1a1a] leading-relaxed max-w-md mx-auto">
             {sutra.commentary}
           </p>
@@ -131,12 +135,36 @@ export default async function SutraDetailPage({
 
         <div className="w-full h-px bg-[#d5d2cf] mb-6 sm:mb-8" />
 
-        <div className="flex items-center justify-between">
-          <span className="text-[12px] text-[#1a1a1a] tracking-[0.06em]">매일 하나의 경전</span>
+        {/* 이전/다음 네비게이션 */}
+        <div className="flex items-center justify-between mb-6 sm:mb-8">
+          {prev ? (
+            <Link
+              href={`/sutra/${prev.date}`}
+              className="flex items-center gap-2 text-[12px] text-[#555] hover:text-[#1a1a1a] transition-colors"
+            >
+              <span>←</span>
+              <span className="hidden sm:inline">{prev.date.replace("-", "월 ")}일</span>
+              <span className="sm:hidden">이전</span>
+            </Link>
+          ) : <span />}
           <div className="flex items-center gap-2">
             <KakaoShareButton sutra={sutra} />
             <ShareButton sutra={sutra} />
           </div>
+          {next ? (
+            <Link
+              href={`/sutra/${next.date}`}
+              className="flex items-center gap-2 text-[12px] text-[#555] hover:text-[#1a1a1a] transition-colors"
+            >
+              <span className="hidden sm:inline">{next.date.replace("-", "월 ")}일</span>
+              <span className="sm:hidden">다음</span>
+              <span>→</span>
+            </Link>
+          ) : <span />}
+        </div>
+
+        <div className="flex items-center justify-between">
+          <span className="text-[12px] text-[#1a1a1a] tracking-[0.06em]">매일 하나의 경전</span>
           <span className="text-[12px] text-[#1a1a1a] tracking-[0.06em]">© 하루하나불교</span>
         </div>
       </footer>
