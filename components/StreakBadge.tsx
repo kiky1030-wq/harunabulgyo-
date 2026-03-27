@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 
 const KEY_STREAK = "harunabulgyo-streak";
 const KEY_LAST = "harunabulgyo-last-visit";
+const KEY_VISITED = "harunabulgyo-visited-dates";
 
 function toDateStr(d: Date) {
   return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
@@ -46,6 +47,14 @@ export default function StreakBadge() {
 
     localStorage.setItem(KEY_STREAK, String(next));
     localStorage.setItem(KEY_LAST, today);
+
+    // 방문 이력 누적 저장
+    const visited: string[] = JSON.parse(localStorage.getItem(KEY_VISITED) ?? "[]");
+    if (!visited.includes(today)) {
+      visited.push(today);
+      localStorage.setItem(KEY_VISITED, JSON.stringify(visited));
+    }
+
     setStreak(next);
   }, []);
 
@@ -54,13 +63,11 @@ export default function StreakBadge() {
   return (
     <div
       title={`${streak}일 연속 독경 중`}
-      className="flex items-center gap-1.5 text-[12px] text-[#1a1a1a] tracking-[0.06em]"
+      className="inline-flex items-center gap-2 px-3 py-1.5 rounded-lg bg-[#1a1a1a] text-[#EEECEA] text-[12px] tracking-[0.06em]"
     >
-      <span
-        className={`w-1.5 h-1.5 rounded-full inline-block ${isNew ? "bg-[#1a1a1a]" : "bg-[#aaa]"}`}
-      />
+      <span className={`w-1.5 h-1.5 rounded-full inline-block ${isNew ? "bg-white" : "bg-[#888]"}`} />
       <span>
-        <span className="font-medium">{streak}일</span> 연속
+        <span className="font-semibold">{streak}일</span> 연속
       </span>
     </div>
   );
