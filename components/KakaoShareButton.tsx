@@ -55,13 +55,13 @@ export default function KakaoShareButton({ sutra }: Props) {
   return (
     <button
       onClick={handleKakaoShare}
-      className="flex items-center gap-2 px-5 py-2.5 bg-[#FAE100] text-[#3A1D1D] text-[12px] font-medium tracking-[0.06em] hover:bg-[#f0d800] active:scale-95 transition-all"
+      className="flex items-center gap-2 px-3 sm:px-5 py-2.5 bg-[#FAE100] text-[#3A1D1D] text-[12px] font-medium tracking-[0.06em] hover:bg-[#f0d800] active:scale-95 transition-all"
     >
       {/* 카카오 말풍선 아이콘 */}
       <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
         <path d="M12 3C6.477 3 2 6.477 2 11c0 2.814 1.528 5.284 3.875 6.857L5 21l3.563-1.781C9.316 19.399 10.638 19.5 12 19.5c5.523 0 10-3.477 10-8.5S17.523 3 12 3z" />
       </svg>
-      카카오톡 공유
+      <span className="hidden sm:inline">카카오톡 공유</span>
     </button>
   );
 }

@@ -101,9 +101,9 @@ export default function Home() {
         <div className="w-full h-px bg-[#d5d2cf] mb-6 sm:mb-8" />
 
         {/* 공유 + 저작 */}
-        <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+        <div className="flex items-center justify-between sm:justify-between">
           <PushNotificationButton />
-          <div className="flex items-center gap-2 sm:gap-3">
+          <div className="flex items-center gap-2">
             <AudioButton text={sutra.korean} />
             <KakaoShareButton sutra={sutra} />
             <ShareButton sutra={sutra} />

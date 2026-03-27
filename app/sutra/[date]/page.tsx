@@ -131,9 +131,9 @@ export default async function SutraDetailPage({
 
         <div className="w-full h-px bg-[#d5d2cf] mb-6 sm:mb-8" />
 
-        <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+        <div className="flex items-center justify-between">
           <span className="text-[12px] text-[#1a1a1a] tracking-[0.06em]">매일 하나의 경전</span>
-          <div className="flex items-center gap-2 sm:gap-3">
+          <div className="flex items-center gap-2">
             <KakaoShareButton sutra={sutra} />
             <ShareButton sutra={sutra} />
           </div>
