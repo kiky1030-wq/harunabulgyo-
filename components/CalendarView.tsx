@@ -66,7 +66,7 @@ export default function CalendarView() {
   ).length;
 
   return (
-    <div className="w-full max-w-sm mx-auto">
+    <div className="w-full max-w-sm mx-auto px-2 sm:px-0">
       {/* 헤더 */}
       <div className="flex items-center justify-between mb-8">
         <button
@@ -116,10 +116,10 @@ export default function CalendarView() {
           const isFuture = dateStr > todayStr;
 
           return (
-            <div key={dateStr} className="flex flex-col items-center py-1.5 gap-1">
+            <div key={dateStr} className="flex flex-col items-center py-1 gap-1">
               <span
                 className={`
-                  w-7 h-7 flex items-center justify-center rounded-full text-[12px] tabular-nums transition-colors
+                  w-8 h-8 sm:w-7 sm:h-7 flex items-center justify-center rounded-full text-[13px] sm:text-[12px] tabular-nums transition-colors
                   ${isToday ? "bg-[#1a1a1a] text-[#EEECEA]" : ""}
                   ${isVisited && !isToday ? "text-[#1a1a1a] font-medium" : ""}
                   ${!isVisited && !isToday && !isFuture ? "text-[#ccc]" : ""}

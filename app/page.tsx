@@ -5,7 +5,7 @@ import PushNotificationButton from "@/components/PushNotificationButton";
 import AudioButton from "@/components/AudioButton";
 import SutraDisplay from "@/components/SutraDisplay";
 import StreakBadge from "@/components/StreakBadge";
-import SachaNote from "@/components/SachaNote";
+import NavMenu from "@/components/NavMenu";
 import Link from "next/link";
 import type { Metadata } from "next";
 
@@ -56,23 +56,9 @@ export default function Home() {
       />
 
       {/* ── NAV ── */}
-      <nav className="px-4 sm:px-8 py-5 sm:py-6 flex items-center justify-between flex-shrink-0">
-        <span className="text-[13px] font-medium tracking-[0.08em]">하루하나불교</span>
-        <div className="flex items-center gap-4 sm:gap-6">
-          <Link href="/timer" className="text-[13px] text-[#1a1a1a] tracking-[0.04em] hover:opacity-60 transition-opacity">
-            명상
-          </Link>
-          <Link href="/calendar" className="text-[13px] text-[#1a1a1a] tracking-[0.04em] hover:opacity-60 transition-opacity">
-            달력
-          </Link>
-          <Link href="/archive" className="text-[13px] text-[#1a1a1a] tracking-[0.04em] hover:opacity-60 transition-opacity">
-            아카이브
-          </Link>
-          <Link href="/about" className="text-[13px] text-[#1a1a1a] tracking-[0.04em] hover:opacity-60 transition-opacity">
-            소개
-          </Link>
-          <span className="hidden sm:inline text-[13px] text-[#1a1a1a] tracking-[0.04em]">{today}</span>
-        </div>
+      <nav className="relative px-4 sm:px-8 py-5 sm:py-6 flex items-center justify-between flex-shrink-0">
+        <Link href="/" className="text-[13px] font-medium tracking-[0.08em]">하루하나불교</Link>
+        <NavMenu today={today} />
       </nav>
 
       <SutraDisplay
@@ -91,8 +77,6 @@ export default function Home() {
           </>
         }
       />
-
-      <SachaNote sutra={sutra.korean} dateKey={sutra.date} />
 
     </div>
   );

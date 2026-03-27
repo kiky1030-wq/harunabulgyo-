@@ -85,7 +85,7 @@ export default function MeditationTimer() {
   const dash = CIRC * progress;
 
   return (
-    <div className="flex flex-col items-center gap-10">
+    <div className="flex flex-col items-center gap-8 sm:gap-10 w-full px-4 sm:px-0">
 
       {/* 원형 타이머 */}
       <div className="relative flex items-center justify-center" style={{ width: 220, height: 220 }}>
@@ -130,7 +130,7 @@ export default function MeditationTimer() {
           <button
             key={min}
             onClick={() => setSelected(min)}
-            className={`px-4 py-2 text-[12px] tracking-[0.12em] border transition-colors ${
+            className={`px-4 py-2.5 sm:py-2 text-[13px] sm:text-[12px] tracking-[0.12em] border transition-colors min-w-[52px] ${
               selected === min
                 ? "bg-[#1a1a1a] text-[#EEECEA] border-[#1a1a1a]"
                 : "bg-transparent text-[#1a1a1a] border-[#1a1a1a] hover:bg-[#1a1a1a] hover:text-[#EEECEA]"
@@ -145,14 +145,14 @@ export default function MeditationTimer() {
       <div className="flex gap-3">
         <button
           onClick={toggle}
-          className="px-8 py-3 bg-[#1a1a1a] text-[#EEECEA] text-[13px] tracking-[0.12em] hover:opacity-80 transition-opacity"
+          className="px-8 py-3.5 sm:py-3 bg-[#1a1a1a] text-[#EEECEA] text-[14px] sm:text-[13px] tracking-[0.12em] hover:opacity-80 transition-opacity min-w-[100px]"
         >
           {done ? "다시 시작" : running ? "일시정지" : "시작"}
         </button>
         {(running || (!running && remaining < total)) && !done && (
           <button
             onClick={reset}
-            className="px-6 py-3 border border-[#1a1a1a] text-[#1a1a1a] text-[13px] tracking-[0.12em] hover:bg-[#1a1a1a] hover:text-[#EEECEA] transition-colors"
+            className="px-6 py-3.5 sm:py-3 border border-[#1a1a1a] text-[#1a1a1a] text-[14px] sm:text-[13px] tracking-[0.12em] hover:bg-[#1a1a1a] hover:text-[#EEECEA] transition-colors"
           >
             초기화
           </button>
