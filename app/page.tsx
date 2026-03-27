@@ -3,6 +3,8 @@ import ShareButton from "@/components/ShareButton";
 import KakaoShareButton from "@/components/KakaoShareButton";
 import PushNotificationButton from "@/components/PushNotificationButton";
 import AudioButton from "@/components/AudioButton";
+import SutraDisplay from "@/components/SutraDisplay";
+import StreakBadge from "@/components/StreakBadge";
 import Link from "next/link";
 import type { Metadata } from "next";
 
@@ -66,51 +68,22 @@ export default function Home() {
         </div>
       </nav>
 
-      {/* ── HERO: 구절이 화면 정중앙 ── */}
-      <main className="flex-1 flex items-center justify-center px-4 sm:px-8 py-10 sm:py-20">
-        <div className="max-w-4xl w-full text-center">
-          <blockquote>
-            <p
-              className="font-light leading-tight text-[#1a1a1a] whitespace-pre-line"
-              style={{ fontSize: "clamp(1.6rem, 5.5vw, 4.2rem)", letterSpacing: "-0.01em", lineHeight: "1.4" }}
-            >
-              {sutra.korean}
-            </p>
-          </blockquote>
-        </div>
-      </main>
-
-      {/* ── 하단 메타 정보 ── */}
-      <footer className="px-4 sm:px-8 pb-10 sm:pb-12 flex-shrink-0">
-        {/* 출처 + 해설 — 중앙 정렬 */}
-        <div className="text-center mb-8 sm:mb-10">
-          <p className="text-[12px] text-[#1a1a1a] tracking-[0.2em] uppercase mb-3">
-            {sutra.source}{sutra.chapter ? `  ·  ${sutra.chapter}` : ""}
-          </p>
-          <p className="text-[14px] sm:text-[15px] text-[#1a1a1a] leading-relaxed max-w-md mx-auto">
-            {sutra.commentary}
-          </p>
-          {sutra.original && (
-            <p className="text-[12px] text-[#1a1a1a] tracking-widest mt-5">
-              {sutra.original}
-            </p>
-          )}
-        </div>
-
-        {/* 구분선 */}
-        <div className="w-full h-px bg-[#d5d2cf] mb-6 sm:mb-8" />
-
-        {/* 공유 + 저작 */}
-        <div className="flex items-center justify-between sm:justify-between">
-          <PushNotificationButton />
-          <div className="flex items-center gap-2">
+      <SutraDisplay
+        sutra={sutra}
+        left={
+          <div className="flex flex-col gap-2">
+            <StreakBadge />
+            <PushNotificationButton />
+          </div>
+        }
+        actions={
+          <>
             <AudioButton text={sutra.korean} />
             <KakaoShareButton sutra={sutra} />
             <ShareButton sutra={sutra} />
-          </div>
-          <span className="text-[12px] text-[#1a1a1a] tracking-[0.06em]">© 하루하나불교</span>
-        </div>
-      </footer>
+          </>
+        }
+      />
 
     </div>
   );
