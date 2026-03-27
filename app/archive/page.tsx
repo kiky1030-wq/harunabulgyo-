@@ -2,8 +2,9 @@ import { getAllSutras } from "@/lib/sutra";
 import Link from "next/link";
 
 export const metadata = {
-  title: "경전 아카이브 — 하루하나불교",
-  description: "지금까지 소개된 모든 불교 경전 구절을 모아봤습니다.",
+  title: "불교 경전 구절 모음 — 하루하나불교 아카이브",
+  description: "법구경, 금강경, 반야심경, 화엄경, 숫타니파타, 유마경의 구절 모음. 날짜별로 정리된 불교 명언과 마음 평안을 주는 경전 글귀 아카이브.",
+  keywords: ["불교 경전 모음", "불교 명언 모음", "법구경 구절", "금강경 구절", "반야심경 구절", "불교 글귀 모음", "경전 아카이브"],
 };
 
 export default function ArchivePage() {

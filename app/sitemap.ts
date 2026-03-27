@@ -1,7 +1,7 @@
 import { MetadataRoute } from "next";
 import { getAllSutras } from "@/lib/sutra";
 
-const BASE_URL = "https://harunabulgyo.com";
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://lotusread.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const sutras = getAllSutras();

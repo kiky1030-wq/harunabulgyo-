@@ -5,7 +5,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://harunabulgyo.com";
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://lotusread.com";
 
 export function generateStaticParams() {
   return getAllSutras().map((s) => ({ date: s.date }));
@@ -22,18 +22,25 @@ export async function generateMetadata({
 
   const [month, day] = date.split("-");
   const firstLine = sutra.korean.split("\n")[0];
-  const title = `${month}월 ${day}일 — ${sutra.source}`;
-  const description = `${firstLine} | ${sutra.commentary}`;
+  const title = `${month}월 ${day}일 ${sutra.source} 구절 — 하루하나불교`;
+  const description = `${firstLine} — ${sutra.source}${sutra.chapter ? ` ${sutra.chapter}` : ""}. ${sutra.commentary}`;
 
   return {
     title,
     description,
+    keywords: [sutra.source, "불교 명언", "불교 경전 구절", "마음 평안", `${sutra.source} 구절`, "불교 글귀", "buddhist quotes"],
     alternates: { canonical: `${BASE_URL}/sutra/${date}` },
     openGraph: {
       title,
       description,
       url: `${BASE_URL}/sutra/${date}`,
       type: "article",
+      siteName: "하루하나불교",
+    },
+    twitter: {
+      card: "summary",
+      title,
+      description,
     },
   };
 }
@@ -51,12 +58,23 @@ export default async function SutraDetailPage({
     "@context": "https://schema.org",
     "@type": "Quotation",
     "text": sutra.korean,
+    "abstract": sutra.commentary,
     "isPartOf": {
       "@type": "Book",
       "name": sutra.source,
+      "inLanguage": "ko",
     },
     "description": sutra.commentary,
     "url": `${BASE_URL}/sutra/${date}`,
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": `${BASE_URL}/sutra/${date}`,
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "하루하나불교",
+      "url": BASE_URL,
+    },
   };
 
   const [month, day] = date.split("-");

@@ -1,8 +1,9 @@
 import Link from "next/link";
 
 export const metadata = {
-  title: "소개 — 하루하나불교",
-  description: "처음엔 나를 위해 만들었습니다. 매일 아침 불안했던 저를 위해.",
+  title: "소개 — 하루하나불교 | 불교 경전 매일 한 구절",
+  description: "하루하나불교는 매일 하나의 불교 경전 구절로 마음 평안을 드리는 서비스입니다. 법구경, 금강경, 반야심경의 지혜를 매일 만나보세요.",
+  keywords: ["하루하나불교 소개", "불교 경전 서비스", "마음 평안", "불교 명언 모음", "매일 불교"],
 };
 
 export default function AboutPage() {
