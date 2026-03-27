@@ -9,12 +9,15 @@ const sizes: FontSize[] = ["sm", "md", "lg"];
 
 interface Props {
   sutra: Sutra;
+  lang?: "ko" | "en";
   actions?: React.ReactNode; // AudioButton, KakaoShareButton, ShareButton 등
   left?: React.ReactNode;    // PushNotificationButton 등
   copyright?: React.ReactNode;
 }
 
-export default function SutraDisplay({ sutra, actions, left, copyright }: Props) {
+export default function SutraDisplay({ sutra, lang = "ko", actions, left, copyright }: Props) {
+  const text = lang === "en" ? (sutra.english ?? sutra.korean) : sutra.korean;
+  const note = lang === "en" ? (sutra.english_commentary ?? sutra.commentary) : sutra.commentary;
   const [fontSize, setFontSize] = useState<FontSize>("md");
 
   useEffect(() => {
@@ -32,7 +35,7 @@ export default function SutraDisplay({ sutra, actions, left, copyright }: Props)
               className="font-light text-[#1a1a1a] whitespace-pre-line"
               style={{ fontSize: fontSizeStyle[fontSize], letterSpacing: "-0.01em", lineHeight: "1.4" }}
             >
-              {sutra.korean}
+              {text}
             </p>
           </blockquote>
         </div>
@@ -45,7 +48,7 @@ export default function SutraDisplay({ sutra, actions, left, copyright }: Props)
             {sutra.source}{sutra.chapter ? `  ·  ${sutra.chapter}` : ""}
           </p>
           <p className="text-[14px] sm:text-[15px] text-[#1a1a1a] leading-relaxed max-w-md mx-auto">
-            {sutra.commentary}
+            {note}
           </p>
           {sutra.original && (
             <p className="text-[12px] text-[#1a1a1a] tracking-widest mt-5">
@@ -62,7 +65,7 @@ export default function SutraDisplay({ sutra, actions, left, copyright }: Props)
             <FontSizeButton onChange={setFontSize} />
             {actions}
           </div>
-          {copyright ?? <span className="text-[12px] text-[#1a1a1a] tracking-[0.06em]">© 하루하나불교</span>}
+          {copyright ?? <span className="text-[12px] text-[#1a1a1a] tracking-[0.06em]">{lang === "en" ? "© LotusRead" : "© 하루하나불교"}</span>}
         </div>
       </footer>
     </>

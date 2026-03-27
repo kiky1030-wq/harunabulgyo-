@@ -6,6 +6,7 @@ interface Props {
   sutra: string;
   dateKey: string;   // "MM-DD" 형태, 날짜별 저장
   standalone?: boolean; // true면 항상 펼쳐진 상태
+  lang?: "ko" | "en";
 }
 
 function storageKey(dateKey: string) {
@@ -16,7 +17,7 @@ function normalize(s: string) {
   return s.replace(/\s+/g, "");
 }
 
-export default function SachaNote({ sutra, dateKey, standalone = false }: Props) {
+export default function SachaNote({ sutra, dateKey, standalone = false, lang = "ko" }: Props) {
   const [open, setOpen] = useState(standalone);
   const [value, setValue] = useState("");
   const [done, setDone] = useState(false);
@@ -54,12 +55,12 @@ export default function SachaNote({ sutra, dateKey, standalone = false }: Props)
     <div className={standalone ? "" : "border-t border-[#d5d2cf] pt-8 pb-10"}>
       {!standalone && (
         <div className="flex items-center justify-between mb-6">
-          <p className="text-[12px] tracking-[0.2em] text-[#555]">사경</p>
+          <p className="text-[12px] tracking-[0.2em] text-[#555]">{lang === "en" ? "Scripture Writing" : "사경"}</p>
           <button
             onClick={() => setOpen(false)}
             className="text-[12px] text-[#666] hover:text-[#1a1a1a] tracking-[0.06em] transition-colors"
           >
-            닫기
+            {lang === "en" ? "Close" : "닫기"}
           </button>
         </div>
       )}
@@ -71,13 +72,13 @@ export default function SachaNote({ sutra, dateKey, standalone = false }: Props)
 
       {done ? (
         <div className="text-center py-8">
-          <p className="text-[13px] tracking-[0.2em] text-[#1a1a1a] mb-1">사경 완료</p>
-          <p className="text-[12px] text-[#666]">오늘도 마음을 모았습니다.</p>
+          <p className="text-[13px] tracking-[0.2em] text-[#1a1a1a] mb-1">{lang === "en" ? "Complete" : "사경 완료"}</p>
+          <p className="text-[12px] text-[#666]">{lang === "en" ? "You have gathered your mind today." : "오늘도 마음을 모았습니다."}</p>
           <button
             onClick={handleClear}
             className="mt-6 text-[11px] text-[#666] hover:text-[#1a1a1a] tracking-[0.1em] transition-colors underline underline-offset-2"
           >
-            다시 쓰기
+            {lang === "en" ? "Write again" : "다시 쓰기"}
           </button>
         </div>
       ) : (
@@ -86,7 +87,7 @@ export default function SachaNote({ sutra, dateKey, standalone = false }: Props)
             ref={standalone ? undefined : textareaRef}
             value={value}
             onChange={handleChange}
-            placeholder="여기에 구절을 따라 써보세요..."
+            placeholder={lang === "en" ? "Type the passage here..." : "여기에 구절을 따라 써보세요..."}
             rows={standalone ? 6 : 4}
             className="w-full bg-transparent border border-[#d5d2cf] focus:border-[#1a1a1a] outline-none px-4 py-3 text-[16px] sm:text-[14px] text-[#1a1a1a] leading-relaxed resize-none transition-colors placeholder:text-[#999]"
           />
@@ -104,7 +105,7 @@ export default function SachaNote({ sutra, dateKey, standalone = false }: Props)
               onClick={handleClear}
               className="mt-2 text-[11px] text-[#999] hover:text-[#666] tracking-[0.1em] transition-colors"
             >
-              지우기
+              {lang === "en" ? "Clear" : "지우기"}
             </button>
           )}
         </>
@@ -124,10 +125,10 @@ export default function SachaNote({ sutra, dateKey, standalone = false }: Props)
           {done ? (
             <>
               <span className="w-1.5 h-1.5 rounded-full bg-[#1a1a1a] inline-block" />
-              오늘의 사경 완료
+              {lang === "en" ? "Today's writing complete" : "오늘의 사경 완료"}
             </>
           ) : (
-            "사경하기 — 오늘의 구절을 따라 써보세요"
+            lang === "en" ? "Scripture Writing — copy today's passage" : "사경하기 — 오늘의 구절을 따라 써보세요"
           )}
         </button>
       ) : content}

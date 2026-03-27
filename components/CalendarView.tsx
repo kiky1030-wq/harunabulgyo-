@@ -5,7 +5,9 @@ import { useState, useEffect } from "react";
 const KEY_VISITED = "harunabulgyo-visited-dates";
 const KEY_SACHA_PREFIX = "harunabulgyo-sacha-";
 
-const WEEK = ["일", "월", "화", "수", "목", "금", "토"];
+const WEEK_KO = ["일", "월", "화", "수", "목", "금", "토"];
+const WEEK_EN = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+const MONTHS_EN = ["January","February","March","April","May","June","July","August","September","October","November","December"];
 
 function toDateStr(y: number, m: number, d: number) {
   return `${y}-${String(m + 1).padStart(2, "0")}-${String(d).padStart(2, "0")}`;
@@ -16,7 +18,7 @@ function sachaKey(y: number, m: number, d: number) {
   return `${KEY_SACHA_PREFIX}${String(m + 1).padStart(2, "0")}-${String(d).padStart(2, "0")}`;
 }
 
-export default function CalendarView() {
+export default function CalendarView({ lang = "ko" }: { lang?: "ko" | "en" }) {
   const now = new Date();
   const [year, setYear] = useState(now.getFullYear());
   const [month, setMonth] = useState(now.getMonth()); // 0-indexed
@@ -78,11 +80,11 @@ export default function CalendarView() {
         </button>
         <div className="text-center">
           <p className="text-[13px] tracking-[0.12em] text-[#1a1a1a]">
-            {year}년 {month + 1}월
+            {lang === "en" ? `${MONTHS_EN[month]} ${year}` : `${year}년 ${month + 1}월`}
           </p>
           {visitedThisMonth > 0 && (
             <p className="text-[11px] text-[#333] tracking-[0.06em] mt-0.5">
-              {visitedThisMonth}일 방문
+              {lang === "en" ? `${visitedThisMonth} day${visitedThisMonth > 1 ? "s" : ""} visited` : `${visitedThisMonth}일 방문`}
             </p>
           )}
         </div>
@@ -97,7 +99,7 @@ export default function CalendarView() {
 
       {/* 요일 헤더 */}
       <div className="grid grid-cols-7 mb-2">
-        {WEEK.map(w => (
+        {(lang === "en" ? WEEK_EN : WEEK_KO).map(w => (
           <div key={w} className="text-center text-[11px] tracking-[0.1em] text-[#444] py-1">
             {w}
           </div>
@@ -146,11 +148,11 @@ export default function CalendarView() {
       <div className="flex items-center justify-center gap-5 mt-8 text-[11px] text-[#333] tracking-[0.06em]">
         <span className="flex items-center gap-1.5">
           <span className="w-1 h-1 rounded-full bg-[#1a1a1a] inline-block" />
-          방문
+          {lang === "en" ? "Visited" : "방문"}
         </span>
         <span className="flex items-center gap-1.5">
           <span className="w-1 h-1 rounded-full bg-[#555] inline-block" />
-          사경 완료
+          {lang === "en" ? "Writing done" : "사경 완료"}
         </span>
       </div>
     </div>

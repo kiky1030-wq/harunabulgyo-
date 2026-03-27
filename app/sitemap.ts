@@ -29,9 +29,36 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
+  const enSutraPages: MetadataRoute.Sitemap = sutras.map((s) => ({
+    url: `${BASE_URL}/en/sutra/${s.date}`,
+    lastModified: new Date(),
+    changeFrequency: "yearly",
+    priority: 0.6,
+  }));
+
+  const enSourcePages: MetadataRoute.Sitemap = sources.map((source) => ({
+    url: `${BASE_URL}/en/source/${encodeURIComponent(source)}`,
+    lastModified: new Date(),
+    changeFrequency: "monthly",
+    priority: 0.7,
+  }));
+
+  const enTopicPages: MetadataRoute.Sitemap = topics.map((topic) => ({
+    url: `${BASE_URL}/en/topic/${encodeURIComponent(topic)}`,
+    lastModified: new Date(),
+    changeFrequency: "monthly",
+    priority: 0.7,
+  }));
+
   return [
     {
       url: BASE_URL,
+      lastModified: new Date(),
+      changeFrequency: "daily",
+      priority: 1.0,
+    },
+    {
+      url: `${BASE_URL}/en`,
       lastModified: new Date(),
       changeFrequency: "daily",
       priority: 1.0,
@@ -43,7 +70,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
+      url: `${BASE_URL}/en/archive`,
+      lastModified: new Date(),
+      changeFrequency: "weekly",
+      priority: 0.8,
+    },
+    {
       url: `${BASE_URL}/topic`,
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: `${BASE_URL}/en/topic`,
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 0.8,
@@ -54,8 +93,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly",
       priority: 0.5,
     },
+    {
+      url: `${BASE_URL}/en/about`,
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.5,
+    },
     ...sourcePages,
+    ...enSourcePages,
     ...topicPages,
+    ...enTopicPages,
     ...sutraPages,
+    ...enSutraPages,
   ];
 }

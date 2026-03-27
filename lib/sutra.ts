@@ -8,7 +8,18 @@ export interface Sutra {
   original: string;
   korean: string;
   commentary: string;
+  english?: string;
+  english_commentary?: string;
 }
+
+export const SOURCE_NAMES_EN: Record<string, string> = {
+  "법구경": "Dhammapada",
+  "금강경": "Diamond Sutra",
+  "반야심경": "Heart Sutra",
+  "숫타니파타": "Sutta Nipata",
+  "화엄경": "Avatamsaka Sutra",
+  "유마경": "Vimalakirti Sutra",
+};
 
 export function getTodaySutra(): Sutra {
   const today = new Date();
@@ -41,6 +52,49 @@ export function getSutrasBySource(source: string): Sutra[] {
 export function getAllSources(): string[] {
   return [...new Set((sutras as Sutra[]).map((s) => s.source))];
 }
+
+export const TOPICS_EN: Record<string, { label: string; description: string; keywords: string[] }> = {
+  "마음": {
+    label: "Mind",
+    description: "Scripture passages on the nature and cultivation of the mind",
+    keywords: ["마음", "심"],
+  },
+  "자비": {
+    label: "Compassion",
+    description: "Scripture passages on compassion, loving-kindness, and love",
+    keywords: ["자비", "자애", "사랑", "친절", "베풀"],
+  },
+  "지혜": {
+    label: "Wisdom",
+    description: "Scripture passages on wisdom and awakening",
+    keywords: ["지혜", "깨달음", "앎", "깨닫"],
+  },
+  "고통": {
+    label: "Suffering & Liberation",
+    description: "Scripture passages on the causes of suffering and liberation",
+    keywords: ["고통", "괴로움", "해탈", "苦"],
+  },
+  "행복": {
+    label: "Happiness & Peace",
+    description: "Scripture passages on happiness, peace, and joy",
+    keywords: ["행복", "기쁨", "평화", "평안"],
+  },
+  "인연": {
+    label: "Karma & Connection",
+    description: "Scripture passages on karmic connections and relationships",
+    keywords: ["인연"],
+  },
+  "무상": {
+    label: "Impermanence",
+    description: "Scripture passages on impermanence and emptiness",
+    keywords: ["무상", "비어", "공", "空", "사라", "덧없"],
+  },
+  "정진": {
+    label: "Practice & Diligence",
+    description: "Scripture passages on effort, practice, and perseverance",
+    keywords: ["정진", "노력", "수행", "꾸준", "게으름"],
+  },
+};
 
 export const TOPICS: Record<string, { label: string; description: string; keywords: string[] }> = {
   "마음": {

@@ -14,7 +14,7 @@ function diffDays(a: string, b: string) {
   return Math.round((new Date(b).getTime() - new Date(a).getTime()) / 86400000);
 }
 
-export default function StreakBadge() {
+export default function StreakBadge({ lang = "ko" }: { lang?: "ko" | "en" }) {
   const [streak, setStreak] = useState(0);
   const [isNew, setIsNew] = useState(false); // 오늘 처음 방문 여부
 
@@ -62,12 +62,12 @@ export default function StreakBadge() {
 
   return (
     <div
-      title={`${streak}일 연속 독경 중`}
+      title={lang === "en" ? `${streak}-day reading streak` : `${streak}일 연속 독경 중`}
       className="inline-flex items-center gap-2 px-3 py-1.5 rounded-lg bg-[#1a1a1a] text-[#EEECEA] text-[12px] tracking-[0.06em]"
     >
       <span className={`w-1.5 h-1.5 rounded-full inline-block ${isNew ? "bg-white" : "bg-[#555]"}`} />
       <span>
-        <span className="font-semibold">{streak}일</span> 연속
+        <span className="font-semibold">{streak}{lang === "en" ? "" : "일"}</span>{lang === "en" ? ` day${streak > 1 ? "s" : ""} streak` : " 연속"}
       </span>
     </div>
   );

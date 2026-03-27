@@ -34,7 +34,7 @@ function fmt(sec: number) {
   return `${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}`;
 }
 
-export default function MeditationTimer() {
+export default function MeditationTimer({ lang = "ko" }: { lang?: "ko" | "en" }) {
   const [selected, setSelected] = useState(5);       // 분
   const [remaining, setRemaining] = useState(5 * 60); // 초
   const [running, setRunning] = useState(false);
@@ -107,7 +107,7 @@ export default function MeditationTimer() {
 
         <div className="text-center z-10">
           {done ? (
-            <p className="text-[13px] tracking-[0.2em] text-[#1a1a1a]">명상 완료</p>
+            <p className="text-[13px] tracking-[0.2em] text-[#1a1a1a]">{lang === "en" ? "Complete" : "명상 완료"}</p>
           ) : (
             <>
               <p
@@ -117,7 +117,11 @@ export default function MeditationTimer() {
                 {fmt(remaining)}
               </p>
               <p className="text-[11px] tracking-[0.2em] text-[#555] mt-1">
-                {running ? "명상 중" : remaining === total ? "시작 전" : "일시정지"}
+                {running
+                  ? (lang === "en" ? "Meditating" : "명상 중")
+                  : remaining === total
+                    ? (lang === "en" ? "Ready" : "시작 전")
+                    : (lang === "en" ? "Paused" : "일시정지")}
               </p>
             </>
           )}
@@ -136,7 +140,7 @@ export default function MeditationTimer() {
                 : "bg-transparent text-[#1a1a1a] border-[#1a1a1a] hover:bg-[#1a1a1a] hover:text-[#EEECEA]"
             }`}
           >
-            {min}분
+            {min}{lang === "en" ? "m" : "분"}
           </button>
         ))}
       </div>
@@ -147,22 +151,28 @@ export default function MeditationTimer() {
           onClick={toggle}
           className="px-8 py-3.5 sm:py-3 bg-[#1a1a1a] text-[#EEECEA] text-[14px] sm:text-[13px] tracking-[0.12em] hover:opacity-80 transition-opacity min-w-[100px]"
         >
-          {done ? "다시 시작" : running ? "일시정지" : "시작"}
+          {done
+            ? (lang === "en" ? "Restart" : "다시 시작")
+            : running
+              ? (lang === "en" ? "Pause" : "일시정지")
+              : (lang === "en" ? "Start" : "시작")}
         </button>
         {(running || (!running && remaining < total)) && !done && (
           <button
             onClick={reset}
             className="px-6 py-3.5 sm:py-3 border border-[#1a1a1a] text-[#1a1a1a] text-[14px] sm:text-[13px] tracking-[0.12em] hover:bg-[#1a1a1a] hover:text-[#EEECEA] transition-colors"
           >
-            초기화
+            {lang === "en" ? "Reset" : "초기화"}
           </button>
         )}
       </div>
 
       <p className="text-[12px] text-[#666] tracking-[0.06em] text-center max-w-xs">
-        타이머 종료 시 종소리가 울립니다.
-        <br />
-        화면을 켜둔 채 눈을 감으세요.
+        {lang === "en" ? (
+          <>A bell will ring when the timer ends.<br />Keep the screen on and close your eyes.</>
+        ) : (
+          <>타이머 종료 시 종소리가 울립니다.<br />화면을 켜둔 채 눈을 감으세요.</>
+        )}
       </p>
     </div>
   );
