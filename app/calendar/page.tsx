@@ -20,7 +20,7 @@ export default function CalendarPage() {
       </nav>
 
       <main className="flex-1 flex flex-col items-center justify-center px-4 py-16">
-        <p className="text-[12px] tracking-[0.2em] uppercase text-[#555] mb-12">독경 달력</p>
+        <p className="text-[12px] tracking-[0.2em] uppercase text-[#1a1a1a] mb-12">독경 달력</p>
         <CalendarView />
       </main>
 

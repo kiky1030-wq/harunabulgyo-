@@ -71,7 +71,7 @@ export default function CalendarView() {
       <div className="flex items-center justify-between mb-8">
         <button
           onClick={prevMonth}
-          className="w-8 h-8 flex items-center justify-center text-[#555] hover:text-[#1a1a1a] transition-colors"
+          className="w-8 h-8 flex items-center justify-center text-[#333] hover:text-[#1a1a1a] transition-colors"
           aria-label="이전 달"
         >
           ←
@@ -81,14 +81,14 @@ export default function CalendarView() {
             {year}년 {month + 1}월
           </p>
           {visitedThisMonth > 0 && (
-            <p className="text-[11px] text-[#555] tracking-[0.06em] mt-0.5">
+            <p className="text-[11px] text-[#333] tracking-[0.06em] mt-0.5">
               {visitedThisMonth}일 방문
             </p>
           )}
         </div>
         <button
           onClick={nextMonth}
-          className="w-8 h-8 flex items-center justify-center text-[#555] hover:text-[#1a1a1a] transition-colors"
+          className="w-8 h-8 flex items-center justify-center text-[#333] hover:text-[#1a1a1a] transition-colors"
           aria-label="다음 달"
         >
           →
@@ -98,7 +98,7 @@ export default function CalendarView() {
       {/* 요일 헤더 */}
       <div className="grid grid-cols-7 mb-2">
         {WEEK.map(w => (
-          <div key={w} className="text-center text-[11px] tracking-[0.1em] text-[#666] py-1">
+          <div key={w} className="text-center text-[11px] tracking-[0.1em] text-[#444] py-1">
             {w}
           </div>
         ))}
@@ -122,8 +122,8 @@ export default function CalendarView() {
                   w-8 h-8 sm:w-7 sm:h-7 flex items-center justify-center rounded-full text-[13px] sm:text-[12px] tabular-nums transition-colors
                   ${isToday ? "bg-[#1a1a1a] text-[#EEECEA]" : ""}
                   ${isVisited && !isToday ? "text-[#1a1a1a] font-medium" : ""}
-                  ${!isVisited && !isToday && !isFuture ? "text-[#999]" : ""}
-                  ${isFuture ? "text-[#bbb]" : ""}
+                  ${!isVisited && !isToday && !isFuture ? "text-[#666]" : ""}
+                  ${isFuture ? "text-[#999]" : ""}
                 `}
               >
                 {d}
@@ -143,7 +143,7 @@ export default function CalendarView() {
       </div>
 
       {/* 범례 */}
-      <div className="flex items-center justify-center gap-5 mt-8 text-[11px] text-[#555] tracking-[0.06em]">
+      <div className="flex items-center justify-center gap-5 mt-8 text-[11px] text-[#333] tracking-[0.06em]">
         <span className="flex items-center gap-1.5">
           <span className="w-1 h-1 rounded-full bg-[#1a1a1a] inline-block" />
           방문
