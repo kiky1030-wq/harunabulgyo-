@@ -40,12 +40,9 @@ export default function Home() {
     },
   };
 
-  const today = new Date().toLocaleDateString("ko-KR", {
-    year: "numeric",
-    month: "long",
-    day: "numeric",
-    weekday: "long",
-  });
+  const _d = new Date();
+  const weekdays = ["일", "월", "화", "수", "목", "금", "토"];
+  const today = `${_d.getFullYear()}.${String(_d.getMonth() + 1).padStart(2, "0")}.${String(_d.getDate()).padStart(2, "0")}.${weekdays[_d.getDay()]}`;
 
   return (
     <div className="min-h-screen bg-[#EEECEA] text-[#1a1a1a] flex flex-col">

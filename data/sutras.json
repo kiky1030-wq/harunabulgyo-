@@ -6,7 +6,10 @@
     "chapter": "제1장 쌍품",
     "original": "Manopubbangamā dhammā, manoseṭṭhā manomayā.",
     "korean": "마음은 모든 것의 근원이다.\n마음이 맑으면 말과 행동도 맑아지고,\n그 뒤를 행복이 그림자처럼 따른다.",
-    "commentary": "우리의 모든 행동은 마음에서 시작됩니다. 오늘 하루, 맑은 마음으로 시작해보세요."
+    "commentary": "우리의 모든 행동은 마음에서 시작됩니다. 오늘 하루, 맑은 마음으로 시작해보세요.",
+    "english": "The mind is the forerunner of all actions.\nWhen the mind is pure, happiness follows\nlike a shadow that never departs.",
+    "english_commentary": "All our actions begin in the mind. Start this day with a clear and pure mind.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 2,
@@ -15,7 +18,10 @@
     "chapter": "제17분 구경무아분",
     "original": "應無所住而生其心",
     "korean": "머무는 바 없이 그 마음을 내라.",
-    "commentary": "어떤 것에도 집착하지 말고, 자유로운 마음으로 오늘을 살아가세요."
+    "commentary": "어떤 것에도 집착하지 말고, 자유로운 마음으로 오늘을 살아가세요.",
+    "english": "Arouse the mind without dwelling anywhere.",
+    "english_commentary": "Without clinging to anything, live today with a free and open heart.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 3,
@@ -24,7 +30,10 @@
     "chapter": "",
     "original": "色卽是空 空卽是色",
     "korean": "형태가 있는 것은 곧 비어있는 것이고,\n비어있는 것은 곧 형태가 있는 것이다.",
-    "commentary": "집착하는 것들도 결국 사라집니다. 그 사실을 알면 마음이 한결 가벼워집니다."
+    "commentary": "집착하는 것들도 결국 사라집니다. 그 사실을 알면 마음이 한결 가벼워집니다.",
+    "english": "Form is emptiness,\nand emptiness is form.",
+    "english_commentary": "Even the things we cling to will fade. Knowing this, the heart grows lighter.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 4,
@@ -33,7 +42,10 @@
     "chapter": "제21장 잡품",
     "original": "",
     "korean": "건강은 최고의 이득이요,\n만족은 최고의 재산이며,\n신뢰는 최고의 친족이요,\n열반은 최고의 행복이다.",
-    "commentary": "오늘 가진 것에 감사하는 마음이 진정한 풍요입니다."
+    "commentary": "오늘 가진 것에 감사하는 마음이 진정한 풍요입니다.",
+    "english": "Health is the highest gain,\ncontentment is the highest wealth,\ntrust is the highest kin,\nand nirvana is the highest happiness.",
+    "english_commentary": "True abundance lies in being grateful for what you already have.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 5,
@@ -42,7 +54,10 @@
     "chapter": "자애경",
     "original": "Mettañca sabbalokasmi, mānasaṃ bhāvaye aparimāṇaṃ.",
     "korean": "온 세상을 향해\n한없는 자애의 마음을 기르라.\n위로, 아래로, 옆으로,\n막힘 없이, 원한 없이, 적의 없이.",
-    "commentary": "나를 사랑하듯 모든 존재를 사랑할 수 있다면, 세상은 평화로워집니다."
+    "commentary": "나를 사랑하듯 모든 존재를 사랑할 수 있다면, 세상은 평화로워집니다.",
+    "english": "Cultivate a mind of boundless love\nfor all beings in the universe.\nAbove, below, and all around,\nwithout obstruction, without enmity, without rivalry.",
+    "english_commentary": "If we could love all beings as we love ourselves, the world would know peace.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 6,
@@ -51,7 +66,10 @@
     "chapter": "제1장 쌍품",
     "original": "",
     "korean": "남의 허물을 보지 말고,\n남이 한 일 안 한 일을 보지 말고,\n오직 내가 한 일과 안 한 일만을 보라.",
-    "commentary": "다른 사람을 판단하는 시간에 자신을 돌아보면 삶이 달라집니다."
+    "commentary": "다른 사람을 판단하는 시간에 자신을 돌아보면 삶이 달라집니다.",
+    "english": "Do not look at the faults of others,\nnor what they have done or left undone.\nLook only at what you yourself have done\nand left undone.",
+    "english_commentary": "Time spent judging others, turned inward, changes your life.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 7,
@@ -60,7 +78,10 @@
     "chapter": "",
     "original": "",
     "korean": "마음이 부처요, 부처가 마음이다.\n마음 밖에 부처가 없고,\n부처 밖에 마음이 없다.",
-    "commentary": "깨달음은 멀리 있지 않습니다. 지금 이 순간 내 마음 안에 있습니다."
+    "commentary": "깨달음은 멀리 있지 않습니다. 지금 이 순간 내 마음 안에 있습니다.",
+    "english": "Mind is the Buddha, and the Buddha is mind.\nThere is no Buddha outside the mind,\nand there is no mind outside the Buddha.",
+    "english_commentary": "Enlightenment is not far away. It is here, within this very mind, in this very moment.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 8,
@@ -69,7 +90,10 @@
     "chapter": "제5장 어리석음의 품",
     "original": "",
     "korean": "긴 여정도 한 걸음부터 시작된다.\n서두르지 말고, 포기하지도 말라.",
-    "commentary": "오늘 하루도 한 걸음씩. 조급해하지 않아도 됩니다."
+    "commentary": "오늘 하루도 한 걸음씩. 조급해하지 않아도 됩니다.",
+    "english": "A long journey begins with a single step.\nDo not rush, and do not give up.",
+    "english_commentary": "Take it one step at a time today. There is no need to hurry.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 9,
@@ -78,7 +102,10 @@
     "chapter": "",
     "original": "",
     "korean": "중생이 아프기 때문에 나도 아프다.\n중생의 병이 나으면 나의 병도 낫는다.",
-    "commentary": "타인의 고통에 공감하는 마음, 그것이 진정한 자비입니다."
+    "commentary": "타인의 고통에 공감하는 마음, 그것이 진정한 자비입니다.",
+    "english": "Because beings are ill, I too am ill.\nWhen beings are healed, my illness too is healed.",
+    "english_commentary": "The capacity to feel the suffering of others — that is true compassion.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 10,
@@ -87,7 +114,10 @@
     "chapter": "제26장 바라문의 품",
     "original": "",
     "korean": "흐르는 물은 막을 수 없고,\n지나간 시간은 돌아오지 않는다.\n지금 이 순간을 소중히 여기라.",
-    "commentary": "과거에 머물지 말고, 지금 이 순간에 집중하세요."
+    "commentary": "과거에 머물지 말고, 지금 이 순간에 집중하세요.",
+    "english": "Flowing water cannot be stopped,\nand time once passed does not return.\nTreasure this present moment.",
+    "english_commentary": "Do not dwell in the past. Focus on this very moment.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 11,
@@ -96,7 +126,10 @@
     "chapter": "무소의 뿔",
     "original": "",
     "korean": "소리에 놀라지 않는 사자처럼,\n그물에 걸리지 않는 바람처럼,\n진흙에 물들지 않는 연꽃처럼,\n무소의 뿔처럼 혼자서 가라.",
-    "commentary": "흔들리지 않는 내면의 힘으로 자신의 길을 걸어가세요."
+    "commentary": "흔들리지 않는 내면의 힘으로 자신의 길을 걸어가세요.",
+    "english": "Like a lion that is not startled by sounds,\nlike the wind that does not catch in a net,\nlike a lotus unsoiled by the water,\nwander alone like a rhinoceros.",
+    "english_commentary": "Walk your own path with unshakeable inner strength.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 12,
@@ -105,7 +138,10 @@
     "chapter": "제10분",
     "original": "",
     "korean": "과거의 마음도 붙잡을 수 없고,\n현재의 마음도 붙잡을 수 없으며,\n미래의 마음도 붙잡을 수 없다.",
-    "commentary": "마음은 강물처럼 흐릅니다. 그 흐름을 있는 그대로 바라보세요."
+    "commentary": "마음은 강물처럼 흐릅니다. 그 흐름을 있는 그대로 바라보세요.",
+    "english": "The past mind cannot be grasped,\nthe present mind cannot be grasped,\nand the future mind cannot be grasped.",
+    "english_commentary": "The mind is like a flowing river. Simply observe its flow as it is.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 13,
@@ -114,7 +150,10 @@
     "chapter": "제15장 행복의 품",
     "original": "",
     "korean": "미워하는 자들 가운데서 미워하지 않고 살 수 있다면,\n우리는 진실로 행복하게 살 수 있다.",
-    "commentary": "미움을 놓아버릴 때, 비로소 자유로워집니다."
+    "commentary": "미움을 놓아버릴 때, 비로소 자유로워집니다.",
+    "english": "We live so happily,\nwe who have no attachments.\nAmong those who hate,\nwe dwell free from hatred.",
+    "english_commentary": "When we let go of hatred, we are truly free.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 14,
@@ -123,7 +162,10 @@
     "chapter": "",
     "original": "諸法空相 不生不滅",
     "korean": "모든 것의 참모습은 비어있으니,\n생겨남도 없고 사라짐도 없다.",
-    "commentary": "집착에서 벗어날 때 고통도 사라집니다."
+    "commentary": "집착에서 벗어날 때 고통도 사라집니다.",
+    "english": "The true nature of all things is emptiness:\nneither arising nor ceasing.",
+    "english_commentary": "When we release clinging, suffering too dissolves.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 15,
@@ -132,7 +174,10 @@
     "chapter": "제3장 마음의 품",
     "original": "",
     "korean": "방황하고 흔들리며,\n지키기 어렵고 억제하기 어려운 마음을\n지혜로운 이는 바르게 다스린다.\n마치 활을 만드는 장인이 화살을 곧게 다듬듯이.",
-    "commentary": "마음을 다스리는 것, 그것이 평생의 공부입니다."
+    "commentary": "마음을 다스리는 것, 그것이 평생의 공부입니다.",
+    "english": "The mind, wavering and unsteady,\nhard to guard and hard to control —\nthe wise one straightens it,\nas a fletcher straightens an arrow.",
+    "english_commentary": "Taming the mind is a lifelong practice.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 16,
@@ -141,7 +186,10 @@
     "chapter": "",
     "original": "",
     "korean": "한 티끌 속에 온 우주가 담겨있고,\n찰나 속에 영원이 담겨있다.",
-    "commentary": "작은 것 속에서 위대함을 발견하는 눈을 기르세요."
+    "commentary": "작은 것 속에서 위대함을 발견하는 눈을 기르세요.",
+    "english": "Within a single particle of dust\nthe entire universe is contained,\nand within a single moment\neternity dwells.",
+    "english_commentary": "Cultivate the eye that finds greatness within small things.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 17,
@@ -150,7 +198,10 @@
     "chapter": "제1장 쌍품",
     "original": "",
     "korean": "원한은 원한으로 결코 사라지지 않는다.\n원한은 오직 사랑으로만 사라진다.\n이것은 영원한 진리이다.",
-    "commentary": "용서는 상대방을 위한 것이 아니라, 나 자신을 위한 것입니다."
+    "commentary": "용서는 상대방을 위한 것이 아니라, 나 자신을 위한 것입니다.",
+    "english": "Hatred is never appeased by hatred in this world.\nIt is appeased by love.\nThis is an eternal law.",
+    "english_commentary": "Forgiveness is not for the other person — it is for yourself.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 18,
@@ -159,7 +210,10 @@
     "chapter": "",
     "original": "",
     "korean": "모든 살아있는 존재들이 행복하기를,\n모든 살아있는 존재들이 평안하기를,\n모든 살아있는 존재들이 평화롭기를.",
-    "commentary": "나와 인연 맺은 모든 이들의 행복을 빌어보세요."
+    "commentary": "나와 인연 맺은 모든 이들의 행복을 빌어보세요.",
+    "english": "May all living beings be happy,\nmay all living beings be at ease,\nmay all living beings be at peace.",
+    "english_commentary": "Wish happiness upon all those connected to you.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 19,
@@ -168,7 +222,10 @@
     "chapter": "제8장 천의 품",
     "original": "",
     "korean": "천 마디의 의미 없는 말보다\n들으면 마음이 고요해지는\n한 마디 말이 더 낫다.",
-    "commentary": "말의 무게를 생각하고, 진심이 담긴 말 한 마디를 해보세요."
+    "commentary": "말의 무게를 생각하고, 진심이 담긴 말 한 마디를 해보세요.",
+    "english": "Better than a thousand meaningless words\nis one meaningful word\nthat brings peace to the one who hears it.",
+    "english_commentary": "Consider the weight of your words, and speak one word filled with sincerity.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 20,
@@ -177,7 +234,10 @@
     "chapter": "",
     "original": "",
     "korean": "침묵은 우레 같은 소리다.",
-    "commentary": "때로는 아무 말도 하지 않는 것이 가장 깊은 이해의 표현입니다."
+    "commentary": "때로는 아무 말도 하지 않는 것이 가장 깊은 이해의 표현입니다.",
+    "english": "Silence is like the roar of thunder.",
+    "english_commentary": "Sometimes saying nothing at all is the deepest expression of understanding.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 21,
@@ -186,7 +246,10 @@
     "chapter": "제17장 분노의 품",
     "original": "",
     "korean": "분노를 이기는 것은 사랑이요,\n악을 이기는 것은 선이며,\n탐욕을 이기는 것은 베풂이요,\n거짓을 이기는 것은 진실이다.",
-    "commentary": "오늘 하루, 사랑과 선함으로 하루를 채워보세요."
+    "commentary": "오늘 하루, 사랑과 선함으로 하루를 채워보세요.",
+    "english": "Overcome anger with love,\novercome evil with good,\novercome greed with generosity,\novercome falsehood with truth.",
+    "english_commentary": "Fill today with love and goodness.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 22,
@@ -195,7 +258,10 @@
     "chapter": "제32분",
     "original": "一切有爲法 如夢幻泡影",
     "korean": "모든 인연으로 생긴 것들은\n꿈같고 환상같고 물거품 같으며 그림자 같다.\n이슬 같고 또한 번개 같으니\n마땅히 이와 같이 바라보라.",
-    "commentary": "영원한 것은 없습니다. 그렇기에 지금 이 순간이 소중합니다."
+    "commentary": "영원한 것은 없습니다. 그렇기에 지금 이 순간이 소중합니다.",
+    "english": "All conditioned things\nare like a dream, an illusion, a bubble, a shadow,\nlike dew or a flash of lightning.\nThus shall you look upon them.",
+    "english_commentary": "Nothing is permanent. That is why this moment is precious.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 23,
@@ -204,7 +270,10 @@
     "chapter": "제21장 잡품",
     "original": "",
     "korean": "많은 것을 말하더라도 실천하지 않으면 무슨 소용이 있겠는가.\n한 가지라도 듣고 실천하는 것이 진정한 법을 사는 것이다.",
-    "commentary": "오늘 하나, 작은 것이라도 실천해보세요."
+    "commentary": "오늘 하나, 작은 것이라도 실천해보세요.",
+    "english": "What use is it to speak many words\nbut not practice them?\nHearing one teaching and living it —\nthat is truly dwelling in the Dharma.",
+    "english_commentary": "Practice even one small thing today.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 24,
@@ -213,7 +282,10 @@
     "chapter": "",
     "original": "",
     "korean": "처음 발심한 그 마음이\n곧 깨달음이다.",
-    "commentary": "처음 마음먹었을 때의 그 순수한 다짐을 기억하세요."
+    "commentary": "처음 마음먹었을 때의 그 순수한 다짐을 기억하세요.",
+    "english": "The very mind that first aspired to awakening\nis itself enlightenment.",
+    "english_commentary": "Remember the pure intention you had at the very beginning.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 25,
@@ -222,7 +294,10 @@
     "chapter": "제4장 꽃의 품",
     "original": "",
     "korean": "연꽃은 진흙 속에서 피어나지만\n진흙에 물들지 않는다.",
-    "commentary": "어떤 환경에서도 자신의 맑음을 지킬 수 있습니다."
+    "commentary": "어떤 환경에서도 자신의 맑음을 지킬 수 있습니다.",
+    "english": "A lotus flower blooms in the mud\nbut is not stained by it.",
+    "english_commentary": "In any environment, you can preserve your own clarity.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 26,
@@ -231,7 +306,10 @@
     "chapter": "",
     "original": "",
     "korean": "지나친 것도 모자란 것도 없이,\n중간 길을 걸어라.",
-    "commentary": "극단으로 치우치지 않는 균형, 그것이 중도의 지혜입니다."
+    "commentary": "극단으로 치우치지 않는 균형, 그것이 중도의 지혜입니다.",
+    "english": "Neither too much nor too little —\nwalk the middle path.",
+    "english_commentary": "Balance that does not veer to extremes — that is the wisdom of the middle way.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 27,
@@ -240,7 +318,10 @@
     "chapter": "제25장 수행자의 품",
     "original": "",
     "korean": "자기 자신이 자신의 주인이다.\n자기 자신 외에 어느 누가 주인이 될 수 있겠는가.\n자기 자신을 잘 다스릴 때\n비로소 얻기 어려운 주인을 얻게 된다.",
-    "commentary": "내 삶의 주인은 바로 나 자신입니다."
+    "commentary": "내 삶의 주인은 바로 나 자신입니다.",
+    "english": "You yourself are your own master.\nWho else could be your master?\nWhen you have tamed yourself fully,\nyou gain a master hard to find.",
+    "english_commentary": "The master of your life is none other than yourself.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 28,
@@ -249,7 +330,10 @@
     "chapter": "",
     "original": "心無罣礙 無罣礙故 無有恐怖",
     "korean": "마음에 걸림이 없으므로\n두려움이 없다.",
-    "commentary": "집착과 걱정을 내려놓으면, 자연스럽게 두려움도 사라집니다."
+    "commentary": "집착과 걱정을 내려놓으면, 자연스럽게 두려움도 사라집니다.",
+    "english": "With no hindrance in the mind,\nthere is no fear.",
+    "english_commentary": "When you put down clinging and worry, fear naturally disappears.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 29,
@@ -258,7 +342,10 @@
     "chapter": "제11장 노쇠의 품",
     "original": "",
     "korean": "이 몸은 거품과 같다는 것을 알라.\n이 몸은 신기루와 같다는 것을 깨달아라.\n욕망의 꽃화살을 꺾어버리고\n죽음의 왕도 보지 못하는 곳으로 가라.",
-    "commentary": "몸에 대한 집착을 내려놓을 때 진정한 자유가 찾아옵니다."
+    "commentary": "몸에 대한 집착을 내려놓을 때 진정한 자유가 찾아옵니다.",
+    "english": "Know that this body is like foam.\nRealize that this body is like a mirage.\nBreaking off the flower-arrows of desire,\ngo where the king of death cannot see.",
+    "english_commentary": "True freedom comes when we release our attachment to the body.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 30,
@@ -267,7 +354,10 @@
     "chapter": "",
     "original": "",
     "korean": "나무 한 그루, 풀 한 포기에도\n불성이 깃들어 있다.",
-    "commentary": "오늘 자연 속에서 작은 것들의 소중함을 느껴보세요."
+    "commentary": "오늘 자연 속에서 작은 것들의 소중함을 느껴보세요.",
+    "english": "Even in a single tree, a single blade of grass,\nthe Buddha-nature dwells.",
+    "english_commentary": "Today, in nature, feel the preciousness of small things.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 31,
@@ -276,7 +366,10 @@
     "chapter": "제20장 도의 품",
     "original": "",
     "korean": "모든 길 중에 팔정도가 으뜸이요,\n모든 진리 중에 사성제가 으뜸이며,\n모든 것 중에 욕심 없음이 으뜸이요,\n모든 두발 가진 것 중에 눈 뜬 이가 으뜸이다.",
-    "commentary": "올바른 길을 걷는 것, 그것이 가장 지혜로운 삶입니다."
+    "commentary": "올바른 길을 걷는 것, 그것이 가장 지혜로운 삶입니다.",
+    "english": "Of all paths, the Eightfold Path is supreme;\nof all truths, the Four Noble Truths are supreme;\nof all states, non-attachment is supreme;\nof all two-legged beings, the Awakened One is supreme.",
+    "english_commentary": "Walking the right path — that is the wisest way to live.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 32,
@@ -285,7 +378,10 @@
     "chapter": "제1장 쌍품",
     "original": "",
     "korean": "방일하지 않음은 불사의 길이요,\n방일함은 죽음의 길이다.\n방일하지 않는 자는 죽지 않고,\n방일한 자는 이미 죽은 것과 같다.",
-    "commentary": "오늘 하루 깨어있는 마음으로 살아가는 것이 가장 소중한 실천입니다."
+    "commentary": "오늘 하루 깨어있는 마음으로 살아가는 것이 가장 소중한 실천입니다.",
+    "english": "Heedfulness is the path to the deathless;\nheedlessness is the path to death.\nThose who are heedful do not die;\nthose who are heedless are already as the dead.",
+    "english_commentary": "Living with an awakened, heedful mind throughout the day is the most precious practice.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 33,
@@ -294,7 +390,10 @@
     "chapter": "무소의 뿔 경",
     "original": "",
     "korean": "소리에 놀라지 않는 사자처럼,\n그물에 걸리지 않는 바람처럼,\n물에 더럽혀지지 않는 연꽃처럼,\n무소의 뿔처럼 혼자서 가라.",
-    "commentary": "타인의 시선에 흔들리지 않고, 자신의 길을 묵묵히 걷는 것이 지혜입니다."
+    "commentary": "타인의 시선에 흔들리지 않고, 자신의 길을 묵묵히 걷는 것이 지혜입니다.",
+    "english": "Like a lion that is not startled by sounds,\nlike the wind that does not catch in a net,\nlike a lotus not muddied by water,\nwander alone like a rhinoceros.",
+    "english_commentary": "Walking your path quietly, undisturbed by others' eyes — that is wisdom.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 34,
@@ -303,7 +402,10 @@
     "chapter": "제3분 대승정종분",
     "original": "如來說一切諸相 卽是非相",
     "korean": "여래가 말하는 모든 상은\n곧 상이 아니다.",
-    "commentary": "보이는 것에 집착하지 마세요. 진실은 형태 너머에 있습니다."
+    "commentary": "보이는 것에 집착하지 마세요. 진실은 형태 너머에 있습니다.",
+    "english": "All the marks the Tathagata has spoken of\nare in fact not marks.",
+    "english_commentary": "Do not cling to appearances. Truth lies beyond form.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 35,
@@ -312,7 +414,10 @@
     "chapter": "",
     "original": "",
     "korean": "한 알의 티끌 속에 삼천대천세계가 들어있고,\n한 순간 속에 영원이 담겨 있다.",
-    "commentary": "지금 이 순간, 이 자리가 바로 우주의 중심입니다."
+    "commentary": "지금 이 순간, 이 자리가 바로 우주의 중심입니다.",
+    "english": "In a single grain of dust the three-thousand realms are contained,\nand in a single moment eternity dwells.",
+    "english_commentary": "Right now, right here, is the very center of the universe.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 36,
@@ -321,7 +426,10 @@
     "chapter": "제5장 어리석음의 품",
     "original": "",
     "korean": "어리석은 자는 평생 지혜로운 이를 곁에 두어도\n진리를 알지 못한다.\n마치 국자가 국의 맛을 모르듯이.",
-    "commentary": "앎과 삶이 하나가 될 때 비로소 지혜가 됩니다. 오늘 배운 것을 실천해보세요."
+    "commentary": "앎과 삶이 하나가 될 때 비로소 지혜가 됩니다. 오늘 배운 것을 실천해보세요.",
+    "english": "A fool who lives with a wise person\neven for a lifetime\ndoes not know the truth,\njust as a spoon does not know the taste of soup.",
+    "english_commentary": "Wisdom is born when knowing and living become one. Practice what you learn today.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 37,
@@ -330,7 +438,10 @@
     "chapter": "",
     "original": "不生不滅 不垢不淨 不增不減",
     "korean": "나지도 않고 멸하지도 않으며,\n더럽지도 않고 깨끗하지도 않으며,\n늘지도 않고 줄지도 않는다.",
-    "commentary": "집착과 판단을 내려놓을 때, 있는 그대로의 평화를 만날 수 있습니다."
+    "commentary": "집착과 판단을 내려놓을 때, 있는 그대로의 평화를 만날 수 있습니다.",
+    "english": "Neither arising nor ceasing,\nneither defiled nor pure,\nneither increasing nor decreasing.",
+    "english_commentary": "When we put down clinging and judgment, we can meet peace just as it is.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 38,
@@ -339,7 +450,10 @@
     "chapter": "불이법문품",
     "original": "",
     "korean": "말로 표현할 수 없는 것,\n그것이 바로 불이(不二)의 법문이다.",
-    "commentary": "때로는 침묵이 가장 깊은 진리를 전합니다. 오늘은 고요히 내면을 들여다보세요."
+    "commentary": "때로는 침묵이 가장 깊은 진리를 전합니다. 오늘은 고요히 내면을 들여다보세요.",
+    "english": "That which cannot be expressed in words —\nthat is the teaching of non-duality.",
+    "english_commentary": "Sometimes silence conveys the deepest truth. Today, look quietly within.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 39,
@@ -348,7 +462,10 @@
     "chapter": "자애 경",
     "original": "",
     "korean": "마치 어머니가 목숨을 걸고\n자신의 외아들을 지키듯이,\n모든 생명에 대해\n한없는 자비심을 키워라.",
-    "commentary": "나를 사랑하듯 모든 존재를 사랑하는 마음, 그것이 자비입니다."
+    "commentary": "나를 사랑하듯 모든 존재를 사랑하는 마음, 그것이 자비입니다.",
+    "english": "Just as a mother would protect with her life\nher own child, her only child,\nso should one cultivate a boundless heart\ntoward all beings.",
+    "english_commentary": "To love all beings as you love yourself — that is compassion.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 40,
@@ -357,7 +474,10 @@
     "chapter": "제8장 천 가지의 품",
     "original": "",
     "korean": "천 마디 말보다\n들으면 마음이 고요해지는\n한 마디 말이 낫다.",
-    "commentary": "의미 없는 말보다 진심 담긴 한마디가 더 큰 울림을 줍니다."
+    "commentary": "의미 없는 말보다 진심 담긴 한마디가 더 큰 울림을 줍니다.",
+    "english": "Better than a thousand words\nis one word that brings peace\nto the mind of the one who hears it.",
+    "english_commentary": "A single heartfelt word resonates more deeply than meaningless talk.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 41,
@@ -366,7 +486,10 @@
     "chapter": "제10분 장엄정토분",
     "original": "莊嚴佛土者 卽非莊嚴",
     "korean": "불국토를 장엄하는 것은\n곧 장엄이 아니다.\n그 이름이 장엄일 뿐이다.",
-    "commentary": "겉모습의 아름다움보다 내면의 순수함을 가꾸는 것이 진정한 수행입니다."
+    "commentary": "겉모습의 아름다움보다 내면의 순수함을 가꾸는 것이 진정한 수행입니다.",
+    "english": "That which adorns the Buddha-land\nis in truth no adornment.\nIt is merely called adornment.",
+    "english_commentary": "Cultivating the purity of the inner self is truer practice than outer beauty.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 42,
@@ -375,7 +498,10 @@
     "chapter": "",
     "original": "",
     "korean": "믿음은 도의 근원이요,\n공덕의 어머니이다.\n온갖 선한 법을 길러내고\n의심의 그물을 끊어낸다.",
-    "commentary": "흔들리지 않는 믿음이 수행의 첫걸음입니다."
+    "commentary": "흔들리지 않는 믿음이 수행의 첫걸음입니다.",
+    "english": "Faith is the source of the Way\nand the mother of merit.\nIt nourishes all good dharmas\nand cuts the net of doubt.",
+    "english_commentary": "Unshakeable faith is the first step in practice.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 43,
@@ -384,7 +510,10 @@
     "chapter": "제15장 행복의 품",
     "original": "",
     "korean": "미움받지 않고 살아가고,\n탐욕 없이 살아간다면\n그것이 진정한 행복이다.",
-    "commentary": "단순하고 욕심 없는 삶 속에 진정한 행복이 있습니다."
+    "commentary": "단순하고 욕심 없는 삶 속에 진정한 행복이 있습니다.",
+    "english": "Living without enemies,\nliving without greed —\nthat is true happiness.",
+    "english_commentary": "True happiness lies in a simple life free of excessive desire.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 44,
@@ -393,7 +522,10 @@
     "chapter": "피안도품",
     "original": "",
     "korean": "거센 물살을 건너라.\n욕망을 버리고, 집착을 버려라.\n번뇌의 진흙을 씻어내고\n저 언덕에 닿아라.",
-    "commentary": "번뇌를 건너 고요한 마음의 언덕에 닿는 것, 그것이 수행의 목표입니다."
+    "commentary": "번뇌를 건너 고요한 마음의 언덕에 닿는 것, 그것이 수행의 목표입니다.",
+    "english": "Cross the rushing torrent.\nAbandon desire and clinging.\nWash away the mud of affliction\nand reach the further shore.",
+    "english_commentary": "Crossing afflictions to reach the quiet shore of the mind — that is the goal of practice.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 45,
@@ -402,7 +534,10 @@
     "chapter": "",
     "original": "心無罣礙 無罣礙故 無有恐怖",
     "korean": "마음에 걸림이 없고,\n걸림이 없으므로\n두려움도 없다.",
-    "commentary": "집착을 내려놓을 때 두려움도 사라집니다. 오늘 하루 가볍게 살아보세요."
+    "commentary": "집착을 내려놓을 때 두려움도 사라집니다. 오늘 하루 가볍게 살아보세요.",
+    "english": "With no hindrance in the mind,\nand with no hindrance,\nthere is no fear.",
+    "english_commentary": "When you put down clinging, fear too disappears. Live lightly today.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 46,
@@ -411,7 +546,10 @@
     "chapter": "제14분 이상적멸분",
     "original": "信心淸淨 則生實相",
     "korean": "믿는 마음이 청정하면\n곧 실상이 생겨난다.",
-    "commentary": "맑고 순수한 믿음에서 진실이 드러납니다."
+    "commentary": "맑고 순수한 믿음에서 진실이 드러납니다.",
+    "english": "When the believing mind is pure,\nthe true nature arises.",
+    "english_commentary": "Truth is revealed in a clear and pure faith.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 47,
@@ -420,7 +558,10 @@
     "chapter": "제21장 잡다한 것의 품",
     "original": "",
     "korean": "즐거운 것에서 슬픔이 생겨나고,\n즐거운 것에서 두려움이 생겨난다.\n즐거운 것에서 해방된 자에게는\n슬픔도 두려움도 없다.",
-    "commentary": "집착하지 않는 곳에 진정한 평화가 있습니다."
+    "commentary": "집착하지 않는 곳에 진정한 평화가 있습니다.",
+    "english": "From pleasure comes sorrow,\nfrom pleasure comes fear.\nFor one who is free from pleasure,\nthere is no sorrow, no fear.",
+    "english_commentary": "Where there is no clinging, there is true peace.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 48,
@@ -429,7 +570,10 @@
     "chapter": "",
     "original": "",
     "korean": "보살은 중생을 위해 태어났다.\n중생이 병들면 보살도 병들고,\n중생이 나으면 보살도 낫는다.",
-    "commentary": "다른 이의 아픔을 함께 느끼는 마음, 그것이 보살의 마음입니다."
+    "commentary": "다른 이의 아픔을 함께 느끼는 마음, 그것이 보살의 마음입니다.",
+    "english": "The bodhisattva was born for the sake of beings.\nWhen beings are sick, the bodhisattva is sick;\nwhen beings are healed, the bodhisattva is healed.",
+    "english_commentary": "To feel the pain of another as your own — that is the bodhisattva heart.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 49,
@@ -438,7 +582,10 @@
     "chapter": "문수사리문질품",
     "original": "",
     "korean": "병이 있는 이유는\n전도된 생각 때문이다.\n전도된 생각을 버리면\n병도 사라진다.",
-    "commentary": "마음의 방향을 바로잡을 때, 몸과 마음의 고통도 줄어듭니다."
+    "commentary": "마음의 방향을 바로잡을 때, 몸과 마음의 고통도 줄어듭니다.",
+    "english": "Illness arises\nbecause of inverted thinking.\nWhen inverted thinking is abandoned,\nillness disappears.",
+    "english_commentary": "When the mind's direction is set right, the suffering of body and mind lessens.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 50,
@@ -447,7 +594,10 @@
     "chapter": "화합 경",
     "original": "",
     "korean": "선한 것을 행하되\n그 과보를 바라지 마라.\n바라지 않는 선행이\n더욱 큰 공덕이 된다.",
-    "commentary": "대가를 바라지 않는 선행이 진정한 선행입니다."
+    "commentary": "대가를 바라지 않는 선행이 진정한 선행입니다.",
+    "english": "Do good,\nbut do not wish for its reward.\nGood done without expectation\nbears even greater merit.",
+    "english_commentary": "Good deeds done without expecting anything in return are true good deeds.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 51,
@@ -456,7 +606,10 @@
     "chapter": "제2장 방일하지 않음의 품",
     "original": "",
     "korean": "지혜로운 자는 정진으로\n마치 섬처럼 자신을 세운다.\n홍수도 잠기게 할 수 없는\n확고한 섬을.",
-    "commentary": "꾸준한 정진이 흔들리지 않는 자신을 만듭니다."
+    "commentary": "꾸준한 정진이 흔들리지 않는 자신을 만듭니다.",
+    "english": "The wise one, through diligence,\nbuilds an island for himself —\nan island no flood can submerge.",
+    "english_commentary": "Steady diligence builds an unshakeable self.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 52,
@@ -465,7 +618,10 @@
     "chapter": "제23분 정심행선분",
     "original": "是法平等 無有高下",
     "korean": "이 법은 평등하여\n높고 낮음이 없다.",
-    "commentary": "모든 존재는 본래 평등합니다. 차별 없는 눈으로 세상을 바라보세요."
+    "commentary": "모든 존재는 본래 평등합니다. 차별 없는 눈으로 세상을 바라보세요.",
+    "english": "This Dharma is equal;\nthere is no high or low.",
+    "english_commentary": "All beings are fundamentally equal. Look upon the world with eyes free of discrimination.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 53,
@@ -474,7 +630,10 @@
     "chapter": "",
     "original": "揭諦揭諦 波羅揭諦",
     "korean": "가자, 가자, 피안으로 가자.\n함께 피안으로 건너가자.\n깨달음이여, 영원하라.",
-    "commentary": "한 걸음 한 걸음, 오늘도 피안을 향해 나아가는 하루입니다."
+    "commentary": "한 걸음 한 걸음, 오늘도 피안을 향해 나아가는 하루입니다.",
+    "english": "Gate gate pāragate.\nGone, gone, gone to the other shore.\nAwakenment, so be it.",
+    "english_commentary": "Step by step, today too is a day of journeying toward the further shore.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 54,
@@ -483,7 +642,10 @@
     "chapter": "",
     "original": "",
     "korean": "한 생각 일어나면 곧 사라지고,\n사라지면 곧 일어난다.\n그 사이에 깨어있는 것이\n선정이다.",
-    "commentary": "생각이 오고 가는 것을 알아채는 것, 그것이 명상의 시작입니다."
+    "commentary": "생각이 오고 가는 것을 알아채는 것, 그것이 명상의 시작입니다.",
+    "english": "A thought arises and immediately passes;\nwhen it passes, it arises again.\nBeing awake in the space between —\nthat is meditation.",
+    "english_commentary": "Noticing thoughts as they come and go — that is the beginning of meditation.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 55,
@@ -492,7 +654,10 @@
     "chapter": "제17장 분노의 품",
     "original": "",
     "korean": "분노를 이겨내어라, 선함으로.\n악함을 이겨내어라, 선함으로.\n인색함을 이겨내어라, 베풂으로.\n거짓을 이겨내어라, 진실로.",
-    "commentary": "최선의 대응은 항상 더 나은 것으로 답하는 것입니다."
+    "commentary": "최선의 대응은 항상 더 나은 것으로 답하는 것입니다.",
+    "english": "Overcome anger with love.\nOvercome evil with good.\nOvercome stinginess with generosity.\nOvercome falsehood with truth.",
+    "english_commentary": "The best response is always to answer with something better.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 56,
@@ -501,7 +666,10 @@
     "chapter": "팔게송품",
     "original": "",
     "korean": "집착하는 자에게는 두려움이 있고,\n집착하지 않는 자에게는\n두려움이 없다.",
-    "commentary": "집착을 내려놓을 때 비로소 자유로워집니다."
+    "commentary": "집착을 내려놓을 때 비로소 자유로워집니다.",
+    "english": "For one who clings, there is fear;\nfor one who does not cling,\nthere is no fear.",
+    "english_commentary": "When we put down clinging, we are truly free.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 57,
@@ -510,7 +678,10 @@
     "chapter": "보살품",
     "original": "",
     "korean": "꽃은 향기를 가리지 않고 퍼뜨리고,\n등불은 빛을 아끼지 않고 밝힌다.\n보살의 자비도 그러하다.",
-    "commentary": "조건 없이 베푸는 자비, 그것이 보살의 마음입니다."
+    "commentary": "조건 없이 베푸는 자비, 그것이 보살의 마음입니다.",
+    "english": "A flower spreads its fragrance without reserve;\na lamp shines its light without holding back.\nThe compassion of a bodhisattva is like this.",
+    "english_commentary": "Compassion given without conditions — that is the bodhisattva heart.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 58,
@@ -519,7 +690,10 @@
     "chapter": "제12장 자신의 품",
     "original": "",
     "korean": "자신이 자신의 주인이다.\n다른 누가 주인이 될 수 있겠는가?\n자신을 잘 다스릴 때\n얻기 어려운 주인을 얻는다.",
-    "commentary": "오늘 하루, 자신의 삶의 주인으로 살아가세요."
+    "commentary": "오늘 하루, 자신의 삶의 주인으로 살아가세요.",
+    "english": "You are your own master.\nWho else could be your master?\nWhen you have fully tamed yourself,\nyou gain a master hard to find.",
+    "english_commentary": "Today, live as the master of your own life.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 59,
@@ -528,7 +702,10 @@
     "chapter": "제32분 응화비진분",
     "original": "一切有爲法 如夢幻泡影",
     "korean": "일체의 유위법은\n꿈과 같고 환상과 같으며\n물거품과 같고 그림자와 같다.",
-    "commentary": "덧없는 것들에 너무 집착하지 마세요. 이 순간 자체를 충분히 살아가세요."
+    "commentary": "덧없는 것들에 너무 집착하지 마세요. 이 순간 자체를 충분히 살아가세요.",
+    "english": "All conditioned phenomena\nare like a dream, an illusion,\na bubble, a shadow.",
+    "english_commentary": "Do not cling too tightly to impermanent things. Live fully in this moment itself.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 60,
@@ -537,7 +714,10 @@
     "chapter": "제1장 쌍품",
     "original": "",
     "korean": "원한은 원한으로 결코 사라지지 않는다.\n원한은 오직 사랑으로만 사라진다.\n이것이 영원한 진리이다.",
-    "commentary": "갈등을 해소하는 가장 강력한 힘은 사랑과 용서입니다."
+    "commentary": "갈등을 해소하는 가장 강력한 힘은 사랑과 용서입니다.",
+    "english": "Hatred is never appeased by hatred in this world.\nIt is appeased by love.\nThis is an eternal truth.",
+    "english_commentary": "The most powerful force for resolving conflict is love and forgiveness.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 61,
@@ -546,7 +726,10 @@
     "chapter": "",
     "original": "",
     "korean": "처음 발심한 그 마음이\n곧 깨달음이다.\n첫 마음을 잃지 마라.",
-    "commentary": "처음 품었던 선한 뜻을 오늘도 기억하고 이어가세요."
+    "commentary": "처음 품었던 선한 뜻을 오늘도 기억하고 이어가세요.",
+    "english": "The very mind that first aspired to awakening\nis itself enlightenment.\nDo not lose that first mind.",
+    "english_commentary": "Remember the good intention you held at the very beginning, and carry it forward today.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 62,
@@ -555,7 +738,10 @@
     "chapter": "자애 경",
     "original": "",
     "korean": "서 있거나 걷거나 앉거나 누워있거나,\n깨어있는 한 자애의 마음을 닦아라.\n이 수행이 최상의 삶이라 불린다.",
-    "commentary": "어떤 자세로 있든, 자애로운 마음을 잃지 않는 것이 수행입니다."
+    "commentary": "어떤 자세로 있든, 자애로운 마음을 잃지 않는 것이 수행입니다.",
+    "english": "Whether standing, walking, sitting or lying down,\nas long as one is awake,\none should develop this loving-kindness.\nThis is said to be the noble abiding.",
+    "english_commentary": "Whatever posture you are in, not losing a loving heart is practice.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 63,
@@ -564,7 +750,10 @@
     "chapter": "제4분 묘행무주분",
     "original": "菩薩於法 應無所住 行於布施",
     "korean": "보살은 어디에도 머물지 않고\n보시를 행해야 한다.",
-    "commentary": "대가를 바라지 않는 베풂, 그것이 진정한 보시입니다."
+    "commentary": "대가를 바라지 않는 베풂, 그것이 진정한 보시입니다.",
+    "english": "A bodhisattva should perform acts of giving\nwithout dwelling on anything.",
+    "english_commentary": "Giving without expecting anything in return — that is true generosity.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 64,
@@ -573,7 +762,10 @@
     "chapter": "",
     "original": "照見五蘊皆空 度一切苦厄",
     "korean": "오온이 모두 공함을 비추어 보고\n일체의 고통과 재앙을 건넌다.",
-    "commentary": "집착의 근원을 꿰뚫어 볼 때, 고통에서 벗어나는 길이 열립니다."
+    "commentary": "집착의 근원을 꿰뚫어 볼 때, 고통에서 벗어나는 길이 열립니다.",
+    "english": "Having illuminated that all five aggregates are empty,\none crosses over all suffering and distress.",
+    "english_commentary": "When we see through to the root of clinging, the path beyond suffering opens.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 65,
@@ -582,7 +774,10 @@
     "chapter": "제6장 지혜로운 이의 품",
     "original": "",
     "korean": "악을 보여주고, 선으로 이끌며,\n듣고 싶지 않은 것을 말해주는\n그런 사람을 찾아라.\n그런 이가 보물을 알려주는 사람이다.",
-    "commentary": "진심으로 충고해주는 사람이 진정한 벗입니다."
+    "commentary": "진심으로 충고해주는 사람이 진정한 벗입니다.",
+    "english": "Find a person who points out your faults,\nwho leads you toward good,\nwho tells you what you do not wish to hear.\nSuch a person reveals hidden treasure.",
+    "english_commentary": "The person who gives you sincere counsel is your true friend.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 66,
@@ -591,7 +786,10 @@
     "chapter": "제자품",
     "original": "",
     "korean": "번뇌가 곧 보리이다.\n생사가 곧 열반이다.",
-    "commentary": "피하려 하지 말고, 있는 그대로를 직면할 때 해탈의 문이 열립니다."
+    "commentary": "피하려 하지 말고, 있는 그대로를 직면할 때 해탈의 문이 열립니다.",
+    "english": "Affliction is none other than enlightenment.\nLife and death are none other than nirvana.",
+    "english_commentary": "When you face things as they are rather than fleeing, the gate of liberation opens.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 67,
@@ -600,7 +798,10 @@
     "chapter": "",
     "original": "",
     "korean": "모든 중생은 지혜와 덕상을 갖추고 있다.\n다만 망상과 집착 때문에\n스스로 증득하지 못할 뿐이다.",
-    "commentary": "우리는 이미 충분합니다. 스스로를 믿고 나아가세요."
+    "commentary": "우리는 이미 충분합니다. 스스로를 믿고 나아가세요.",
+    "english": "All sentient beings have wisdom and virtue.\nIt is only because of delusion and clinging\nthat they cannot realize it themselves.",
+    "english_commentary": "We are already enough. Believe in yourself and move forward.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 68,
@@ -609,7 +810,10 @@
     "chapter": "제3장 마음의 품",
     "original": "",
     "korean": "마음은 가볍고 들뜨고\n지키기 어렵고 제어하기 어렵다.\n지혜로운 이는 마음을 바르게 하나니\n마치 화살 만드는 이가 화살을 곧게 하듯.",
-    "commentary": "마음을 다스리는 것이 가장 중요한 일입니다. 오늘 하루 마음을 고요히 지켜보세요."
+    "commentary": "마음을 다스리는 것이 가장 중요한 일입니다. 오늘 하루 마음을 고요히 지켜보세요.",
+    "english": "The mind is restless and unsteady,\nhard to guard and hard to control.\nThe wise one sets the mind right,\njust as a fletcher straightens an arrow.",
+    "english_commentary": "Governing the mind is the most important work. Today, quietly watch the mind be still.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 69,
@@ -618,7 +822,10 @@
     "chapter": "제7분 무득무설분",
     "original": "無有定法 名阿耨多羅三藐三菩提",
     "korean": "정해진 법이 없으니\n그것을 아뇩다라삼먁삼보리라 한다.",
-    "commentary": "진리는 고정된 틀에 가두어지지 않습니다. 열린 마음으로 진리를 찾으세요."
+    "commentary": "진리는 고정된 틀에 가두어지지 않습니다. 열린 마음으로 진리를 찾으세요.",
+    "english": "There is no fixed dharma\nthat is called supreme and perfect enlightenment.",
+    "english_commentary": "Truth cannot be confined to a fixed framework. Seek truth with an open mind.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 70,
@@ -627,7 +834,10 @@
     "chapter": "도피안품",
     "original": "",
     "korean": "현자는 탐욕도 없고\n어리석음도 없다.\n과거에도 미래에도 집착하지 않고\n현재의 법을 통찰한다.",
-    "commentary": "과거와 미래에서 벗어나 지금 이 순간을 온전히 살아가세요."
+    "commentary": "과거와 미래에서 벗어나 지금 이 순간을 온전히 살아가세요.",
+    "english": "The wise one has neither greed nor foolishness.\nWithout clinging to past or future,\nhe perceives the dharma of the present moment.",
+    "english_commentary": "Free from past and future, live fully in this present moment.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 71,
@@ -636,7 +846,10 @@
     "chapter": "",
     "original": "無眼耳鼻舌身意",
     "korean": "눈도 귀도 코도 혀도\n몸도 뜻도 없다.",
-    "commentary": "감각에 끌려다니지 않을 때, 본래의 고요한 자아를 만납니다."
+    "commentary": "감각에 끌려다니지 않을 때, 본래의 고요한 자아를 만납니다.",
+    "english": "No eye, no ear, no nose, no tongue,\nno body, no mind.",
+    "english_commentary": "When not dragged about by the senses, we meet the original stillness of the self.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 72,
@@ -645,7 +858,10 @@
     "chapter": "제23장 코끼리의 품",
     "original": "",
     "korean": "전쟁터에서 백만의 적을 이기는 것보다\n자신 하나를 이기는 것이\n가장 위대한 승리이다.",
-    "commentary": "진정한 용기는 자신과의 싸움에서 이기는 것입니다."
+    "commentary": "진정한 용기는 자신과의 싸움에서 이기는 것입니다.",
+    "english": "Though one might conquer a million men in battle,\nthe one who conquers himself alone\nis the greatest victor.",
+    "english_commentary": "True courage is winning the battle against oneself.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 73,
@@ -654,7 +870,10 @@
     "chapter": "",
     "original": "",
     "korean": "인과는 그림자처럼 따른다.\n선을 심으면 선을 거두고\n악을 심으면 악을 거둔다.",
-    "commentary": "오늘 심는 씨앗이 내일의 열매가 됩니다. 선한 씨앗을 심으세요."
+    "commentary": "오늘 심는 씨앗이 내일의 열매가 됩니다. 선한 씨앗을 심으세요.",
+    "english": "Karma follows like a shadow.\nPlant good seeds and you harvest good;\nplant evil seeds and you harvest evil.",
+    "english_commentary": "The seeds you plant today become tomorrow's fruit. Plant good seeds.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 74,
@@ -663,7 +882,10 @@
     "chapter": "향적불품",
     "original": "",
     "korean": "향기로운 밥 한 그릇이\n온 세상을 배부르게 할 수 있다.\n보살의 공덕이 그러하다.",
-    "commentary": "작은 선행 하나가 세상을 따뜻하게 바꿀 수 있습니다."
+    "commentary": "작은 선행 하나가 세상을 따뜻하게 바꿀 수 있습니다.",
+    "english": "A single bowl of fragrant rice\ncan satisfy the whole world.\nSuch is the merit of the bodhisattva.",
+    "english_commentary": "One small act of goodness can warm the entire world.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 75,
@@ -672,7 +894,10 @@
     "chapter": "제13분 여법수지분",
     "original": "若以色見我 以音聲求我 是人行邪道",
     "korean": "만약 형색으로 나를 보거나\n음성으로 나를 구하면\n이 사람은 삿된 도를 행하는 것이다.",
-    "commentary": "진리는 눈에 보이는 것 너머에 있습니다."
+    "commentary": "진리는 눈에 보이는 것 너머에 있습니다.",
+    "english": "If someone perceives me through form,\nor seeks me in sound,\nthat person is practicing a wrong path.",
+    "english_commentary": "Truth lies beyond what the eye can see.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 76,
@@ -681,7 +906,10 @@
     "chapter": "제13장 세상의 품",
     "original": "",
     "korean": "어둠 속에서도 빛을 보고,\n괴로움 속에서도 즐거움을 보라.\n지혜로운 이는 어디에서나\n선을 찾아낸다.",
-    "commentary": "어떤 상황에서도 빛을 찾는 눈이 지혜의 눈입니다."
+    "commentary": "어떤 상황에서도 빛을 찾는 눈이 지혜의 눈입니다.",
+    "english": "Even in darkness, see the light;\neven in suffering, see the joy.\nThe wise one finds good\nwherever he looks.",
+    "english_commentary": "The eye that seeks light in any situation is the eye of wisdom.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 77,
@@ -690,7 +918,10 @@
     "chapter": "파라마타까 경",
     "original": "",
     "korean": "자신의 견해를 최상이라 여기며\n세상에서 다투는 자,\n그는 모든 결박에서 벗어나지 못한다.",
-    "commentary": "자신의 생각이 전부라는 집착을 내려놓을 때 진정한 자유가 옵니다."
+    "commentary": "자신의 생각이 전부라는 집착을 내려놓을 때 진정한 자유가 옵니다.",
+    "english": "One who quarrels in the world,\nholding his own view as supreme,\ncannot be freed from all bonds.",
+    "english_commentary": "When you release the clinging that your own thoughts are everything, true freedom comes.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 78,
@@ -699,7 +930,10 @@
     "chapter": "",
     "original": "無苦集滅道",
     "korean": "고통도 없고, 고통의 원인도 없으며,\n소멸도 없고, 소멸에 이르는 길도 없다.",
-    "commentary": "모든 것이 공한 자리에서는 고통조차 실체가 없습니다."
+    "commentary": "모든 것이 공한 자리에서는 고통조차 실체가 없습니다.",
+    "english": "There is no suffering, no origin of suffering,\nno cessation, no path to cessation.",
+    "english_commentary": "In the place where all is empty, even suffering has no substance.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 79,
@@ -708,7 +942,10 @@
     "chapter": "",
     "original": "",
     "korean": "선지식을 만나는 것은\n모든 수행의 전부이다.\n좋은 스승을 가까이하라.",
-    "commentary": "좋은 스승과 도반이 수행을 이끌어줍니다. 오늘 주변의 선지식에게 감사하세요."
+    "commentary": "좋은 스승과 도반이 수행을 이끌어줍니다. 오늘 주변의 선지식에게 감사하세요.",
+    "english": "Meeting a good spiritual friend\nis the whole of the holy life.\nDraw close to a good teacher.",
+    "english_commentary": "A good teacher and spiritual companions guide practice. Today, be grateful for the good teachers around you.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 80,
@@ -717,7 +954,10 @@
     "chapter": "제14장 부처님의 품",
     "original": "",
     "korean": "과거는 이미 지나갔고,\n미래는 아직 오지 않았다.\n현재의 이 순간을 바라보라.",
-    "commentary": "지금 이 순간에 집중하는 것이 가장 현명한 삶입니다."
+    "commentary": "지금 이 순간에 집중하는 것이 가장 현명한 삶입니다.",
+    "english": "The past has already gone,\nthe future has not yet come.\nLook upon this present moment.",
+    "english_commentary": "Focusing on this very moment is the wisest way to live.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 81,
@@ -726,7 +966,10 @@
     "chapter": "제26분 법신비상분",
     "original": "不可以三十二相見如來",
     "korean": "32가지 상호로는\n여래를 볼 수 없다.",
-    "commentary": "진정한 부처는 형상이 아닌 진리 속에 있습니다."
+    "commentary": "진정한 부처는 형상이 아닌 진리 속에 있습니다.",
+    "english": "The Tathagata cannot be seen\nthrough the thirty-two marks.",
+    "english_commentary": "The true Buddha is found not in form but in truth.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 82,
@@ -735,7 +978,10 @@
     "chapter": "관중생품",
     "original": "",
     "korean": "중생을 보되 중생이라는 생각을 짓지 말고,\n부처를 보되 부처라는 생각을 짓지 마라.",
-    "commentary": "분별심을 넘어설 때 모든 존재의 참모습이 드러납니다."
+    "commentary": "분별심을 넘어설 때 모든 존재의 참모습이 드러납니다.",
+    "english": "See sentient beings without the thought of 'sentient beings';\nsee the Buddha without the thought of 'Buddha'.",
+    "english_commentary": "When we transcend discriminating mind, the true nature of all beings is revealed.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 83,
@@ -744,7 +990,10 @@
     "chapter": "마간디야 경",
     "original": "",
     "korean": "안으로도 집착하지 않고\n밖으로도 집착하지 않으며\n어디에서도 집착하지 않는 자,\n그는 평화 속에 머문다.",
-    "commentary": "안팎 모두에서 집착을 내려놓은 자리에 진정한 평화가 있습니다."
+    "commentary": "안팎 모두에서 집착을 내려놓은 자리에 진정한 평화가 있습니다.",
+    "english": "Neither clinging inwardly,\nnor clinging outwardly,\nnor clinging anywhere —\nsuch a one abides in peace.",
+    "english_commentary": "Where clinging is released both inside and out, there is true peace.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 84,
@@ -753,7 +1002,10 @@
     "chapter": "제19장 법에 머무는 이의 품",
     "original": "",
     "korean": "많이 말한다고 법을 아는 것이 아니다.\n조금 들었어도 몸으로 법을 보고\n게으르지 않은 자가\n진정 법을 아는 자이다.",
-    "commentary": "아는 것을 실천하는 것이 진정한 지혜입니다."
+    "commentary": "아는 것을 실천하는 것이 진정한 지혜입니다.",
+    "english": "Not by much talking is the Dharma known.\nEven one who has heard little,\nwho sees the Dharma with his body\nand is not negligent —\nhe truly knows the Dharma.",
+    "english_commentary": "Practicing what one knows is true wisdom.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 85,
@@ -762,7 +1014,10 @@
     "chapter": "",
     "original": "是大神呪 是大明呪 是無上呪",
     "korean": "이것은 위대한 주문이요,\n밝은 주문이요,\n위없는 주문이다.",
-    "commentary": "반야바라밀다, 지혜의 완성이 모든 고통을 건너게 합니다."
+    "commentary": "반야바라밀다, 지혜의 완성이 모든 고통을 건너게 합니다.",
+    "english": "This is the great mantra,\nthe great illuminating mantra,\nthe unsurpassed mantra.",
+    "english_commentary": "Prajnaparamita — the perfection of wisdom — carries one beyond all suffering.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 86,
@@ -771,7 +1026,10 @@
     "chapter": "",
     "original": "",
     "korean": "마음이 청정하면 국토가 청정하고,\n마음이 물들면 국토도 물든다.",
-    "commentary": "세상을 바꾸고 싶다면 먼저 자신의 마음을 맑게 하세요."
+    "commentary": "세상을 바꾸고 싶다면 먼저 자신의 마음을 맑게 하세요.",
+    "english": "When the mind is pure, the land is pure;\nwhen the mind is defiled, the land too is defiled.",
+    "english_commentary": "If you wish to change the world, first clarify your own mind.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 87,
@@ -780,7 +1038,10 @@
     "chapter": "제24장 갈애의 품",
     "original": "",
     "korean": "물이 새는 배처럼\n갈애로 가득 찬 사람은\n빠르게 가라앉는다.\n갈애를 버려라.",
-    "commentary": "욕망을 알아채고 내려놓는 것이 자유로 가는 길입니다."
+    "commentary": "욕망을 알아채고 내려놓는 것이 자유로 가는 길입니다.",
+    "english": "Like a leaky boat,\none filled with craving\nsinks quickly.\nAbandon craving.",
+    "english_commentary": "Recognizing desire and putting it down is the way to freedom.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 88,
@@ -789,7 +1050,10 @@
     "chapter": "제29분 위의적정분",
     "original": "如來者 無所從來 亦無所去",
     "korean": "여래는 오는 곳도 없고\n가는 곳도 없다.\n그래서 여래라 한다.",
-    "commentary": "오고 감이 없는 자리, 그 본래의 자리에서 모든 것을 바라보세요."
+    "commentary": "오고 감이 없는 자리, 그 본래의 자리에서 모든 것을 바라보세요.",
+    "english": "The Tathagata comes from nowhere\nand goes nowhere.\nThat is why he is called the Tathagata.",
+    "english_commentary": "The place of neither coming nor going — from that original place, look upon all things.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 89,
@@ -798,7 +1062,10 @@
     "chapter": "불도품",
     "original": "",
     "korean": "진흙 속에 피어난 연꽃처럼,\n번뇌의 세상 속에서\n깨달음을 피워내는 것이\n보살의 길이다.",
-    "commentary": "어려운 현실 속에서도 깨달음을 향해 나아가는 것이 수행입니다."
+    "commentary": "어려운 현실 속에서도 깨달음을 향해 나아가는 것이 수행입니다.",
+    "english": "Like a lotus blooming from the mud,\nblossoming enlightenment\nwithin the world of afflictions —\nthat is the bodhisattva's path.",
+    "english_commentary": "Advancing toward enlightenment even amid difficult reality — that is practice.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 90,
@@ -807,7 +1074,10 @@
     "chapter": "사리풋타 경",
     "original": "",
     "korean": "배움이 넓고, 법을 지니며,\n법답게 살아가고,\n부드러운 말을 하는 사람,\n그가 진정한 수행자이다.",
-    "commentary": "배움과 실천, 그리고 부드러운 말씨가 수행자의 덕목입니다."
+    "commentary": "배움과 실천, 그리고 부드러운 말씨가 수행자의 덕목입니다.",
+    "english": "One who is broadly learned, who upholds the Dharma,\nwho lives righteously\nand speaks gently —\nthat one is a true practitioner.",
+    "english_commentary": "Learning, practice, and gentle speech are the virtues of a practitioner.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 91,
@@ -816,7 +1086,10 @@
     "chapter": "제4장 꽃의 품",
     "original": "",
     "korean": "꽃향기는 바람을 거슬러 퍼지지 못하나\n덕의 향기는 바람을 거슬러 퍼진다.\n덕 있는 사람의 향기는\n사방으로 퍼져 나간다.",
-    "commentary": "진정한 향기는 덕에서 나옵니다. 오늘 하루 향기로운 사람이 되어보세요."
+    "commentary": "진정한 향기는 덕에서 나옵니다. 오늘 하루 향기로운 사람이 되어보세요.",
+    "english": "The fragrance of flowers does not go against the wind;\nnor does the fragrance of sandalwood or jasmine.\nBut the fragrance of the virtuous goes against the wind.\nThe virtuous person pervades every direction.",
+    "english_commentary": "True fragrance comes from virtue. Today, be a fragrant person.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 92,
@@ -825,7 +1098,10 @@
     "chapter": "제5분 여리실견분",
     "original": "凡所有相 皆是虛妄",
     "korean": "무릇 형상이 있는 것은\n모두 허망하다.",
-    "commentary": "보이는 것에 너무 의미를 두지 마세요. 진실은 그 너머에 있습니다."
+    "commentary": "보이는 것에 너무 의미를 두지 마세요. 진실은 그 너머에 있습니다.",
+    "english": "Whatever form there is,\nall of it is deceptive.",
+    "english_commentary": "Do not attach too much meaning to appearances. Truth lies beyond them.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 93,
@@ -834,7 +1110,10 @@
     "chapter": "",
     "original": "",
     "korean": "모든 것은 마음이 만들어낸다.\n마음이 세상을 만들고\n마음이 세상을 바꾼다.",
-    "commentary": "세상을 바꾸고 싶다면 먼저 마음을 바꾸세요."
+    "commentary": "세상을 바꾸고 싶다면 먼저 마음을 바꾸세요.",
+    "english": "All things are created by the mind.\nThe mind creates the world\nand the mind changes the world.",
+    "english_commentary": "If you want to change the world, first change your mind.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 94,
@@ -843,7 +1122,10 @@
     "chapter": "자애 경",
     "original": "",
     "korean": "위험에 처하거나 두려움에 떨거나\n어떤 존재이든 간에\n모두가 행복하기를,\n모두가 평안하기를.",
-    "commentary": "모든 존재의 행복을 바라는 마음, 그것이 자애입니다."
+    "commentary": "모든 존재의 행복을 바라는 마음, 그것이 자애입니다.",
+    "english": "Whatever beings there are,\nwithout exception,\nmay they all be happy,\nmay they all be at ease.",
+    "english_commentary": "The wish for all beings to be happy — that is loving-kindness.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 95,
@@ -852,7 +1134,10 @@
     "chapter": "",
     "original": "般若波羅蜜多",
     "korean": "지혜의 완성으로 건너가라.\n피안으로 건너가라.",
-    "commentary": "지혜는 완성을 향해 나아가는 과정 속에 있습니다."
+    "commentary": "지혜는 완성을 향해 나아가는 과정 속에 있습니다.",
+    "english": "Go with the perfection of wisdom.\nCross to the other shore.",
+    "english_commentary": "Wisdom lies in the process of advancing toward its perfection.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 96,
@@ -861,7 +1146,10 @@
     "chapter": "제7장 아라한의 품",
     "original": "",
     "korean": "가야 할 곳을 가고,\n걱정이 없으며,\n모든 것에서 해방되어\n속박이 없는 자, 그가 아라한이다.",
-    "commentary": "집착에서 벗어난 자유로운 삶, 그것이 수행의 궁극입니다."
+    "commentary": "집착에서 벗어난 자유로운 삶, 그것이 수행의 궁극입니다.",
+    "english": "Gone where he needs to go,\nfree of worry,\nliberated from everything,\nbound by nothing — that is the Arahant.",
+    "english_commentary": "A life of freedom from clinging — that is the ultimate of practice.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 97,
@@ -870,7 +1158,10 @@
     "chapter": "방편품",
     "original": "",
     "korean": "몸이 아픈 것은\n중생의 아픔을 대신하는 것이다.\n중생이 병들지 않으면\n나의 병도 사라진다.",
-    "commentary": "타인의 고통에 함께 아파할 줄 아는 마음이 보살심입니다."
+    "commentary": "타인의 고통에 함께 아파할 줄 아는 마음이 보살심입니다.",
+    "english": "This illness is borne\non behalf of sentient beings.\nWhen sentient beings are no longer ill,\nmy illness too will be gone.",
+    "english_commentary": "To know how to ache for another's pain — that is the bodhisattva heart.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 98,
@@ -879,7 +1170,10 @@
     "chapter": "",
     "original": "",
     "korean": "부처님 오신 날,\n온 세상에 꽃비가 내린다.\n그 꽃비는 자비의 씨앗이다.",
-    "commentary": "자비의 씨앗을 마음에 심는 하루가 되기를."
+    "commentary": "자비의 씨앗을 마음에 심는 하루가 되기를.",
+    "english": "On the day the Buddha was born,\na rain of flowers fell upon the whole world.\nThose blossoms are seeds of compassion.",
+    "english_commentary": "May this be a day to plant seeds of compassion in your heart.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 99,
@@ -888,7 +1182,10 @@
     "chapter": "제9장 악의 품",
     "original": "",
     "korean": "서두르지 마라, 악을 행하지 않도록.\n악을 행하면 후회가 따른다.\n선을 행하는 것을 서두르고\n악에서 마음을 멀리하라.",
-    "commentary": "선행은 서두르고 악행은 멀리하는 것, 그것이 지혜로운 삶입니다."
+    "commentary": "선행은 서두르고 악행은 멀리하는 것, 그것이 지혜로운 삶입니다.",
+    "english": "Be not negligent in doing good.\nIf you do evil, you will regret it.\nBe eager to do good\nand keep your mind away from evil.",
+    "english_commentary": "Hasten toward good deeds and keep far from evil — that is a wise life.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 100,
@@ -897,7 +1194,10 @@
     "chapter": "제11분 무위복승분",
     "original": "若以恒河沙等身命布施",
     "korean": "항하의 모래 수만큼 몸을 보시하더라도\n이 경의 사구게 하나를 받아 지니는 것만 못하다.",
-    "commentary": "진리 한 마디가 천 번의 행동보다 깊은 울림을 줄 수 있습니다."
+    "commentary": "진리 한 마디가 천 번의 행동보다 깊은 울림을 줄 수 있습니다.",
+    "english": "Even if someone donated\nbodies as numerous as the sands of the Ganges,\nit would not equal receiving and upholding\na single four-line verse of this sutra.",
+    "english_commentary": "A single word of truth can resound more deeply than a thousand actions.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 101,
@@ -906,7 +1206,10 @@
     "chapter": "무소의 뿔 경",
     "original": "",
     "korean": "감각적 쾌락을 버리고,\n세상의 아무것도 걸림이 없이,\n정진하는 수행자여,\n무소의 뿔처럼 혼자서 가라.",
-    "commentary": "혼자서도 흔들리지 않고 걸어가는 것, 그것이 수행자의 길입니다."
+    "commentary": "혼자서도 흔들리지 않고 걸어가는 것, 그것이 수행자의 길입니다.",
+    "english": "Having abandoned sensual pleasures,\nwith no obstacles in the world at all,\ntraveling as a diligent practitioner,\nwander alone like a rhinoceros.",
+    "english_commentary": "Walking alone without wavering — that is the practitioner's path.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 102,
@@ -915,7 +1218,10 @@
     "chapter": "",
     "original": "無色無受想行識",
     "korean": "색도 없고, 수·상·행·식도 없다.\n이 모든 것이 공하다.",
-    "commentary": "고정된 자아라는 것이 없음을 알 때, 마음이 가벼워집니다."
+    "commentary": "고정된 자아라는 것이 없음을 알 때, 마음이 가벼워집니다.",
+    "english": "No form, no sensation, no perception,\nno mental formations, no consciousness.\nAll of this is empty.",
+    "english_commentary": "When we know there is no fixed self, the heart grows lighter.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 103,
@@ -924,7 +1230,10 @@
     "chapter": "제16장 애착의 품",
     "original": "",
     "korean": "사랑하는 것을 만들지 마라.\n사랑하는 것과 헤어지는 것은 괴롭다.\n사랑하는 것도 미워하는 것도 없는 자에게는\n속박이 없다.",
-    "commentary": "집착 없는 사랑이 진정한 사랑입니다."
+    "commentary": "집착 없는 사랑이 진정한 사랑입니다.",
+    "english": "Do not make loved ones.\nParting from those you love is suffering.\nFor one with neither loved nor unloved,\nthere are no bonds.",
+    "english_commentary": "Love without attachment is true love.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 104,
@@ -933,7 +1242,10 @@
     "chapter": "",
     "original": "",
     "korean": "보살은 중생을 버리지 않는다.\n단 한 명의 중생도\n구하지 않고는 성불하지 않겠다는\n그 서원이 보살의 길이다.",
-    "commentary": "한 사람을 소중히 여기는 마음이 모든 것을 바꿉니다."
+    "commentary": "한 사람을 소중히 여기는 마음이 모든 것을 바꿉니다.",
+    "english": "The bodhisattva never abandons beings.\nThe vow not to attain Buddhahood\nuntil even one being remains unsaved —\nthat is the bodhisattva's path.",
+    "english_commentary": "The heart that cherishes a single person can change everything.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 105,
@@ -942,7 +1254,10 @@
     "chapter": "불사의품",
     "original": "",
     "korean": "작은 방 안에\n삼만 이천 개의 사자좌가 들어왔다.\n마음이 열리면\n무한한 공간이 생긴다.",
-    "commentary": "마음을 열면 불가능해 보이는 것도 가능해집니다."
+    "commentary": "마음을 열면 불가능해 보이는 것도 가능해집니다.",
+    "english": "In a small room,\nthirty-two thousand lion thrones have entered.\nWhen the mind opens,\ninfinite space is created.",
+    "english_commentary": "When you open your mind, what seems impossible becomes possible.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 106,
@@ -951,7 +1266,10 @@
     "chapter": "제11장 늙음의 품",
     "original": "",
     "korean": "이 몸이 마치 흙으로 만든 항아리 같음을 알고,\n마음을 성처럼 굳건히 세워\n지혜의 무기로 악마와 싸우되\n이긴 것에도 집착하지 마라.",
-    "commentary": "몸의 덧없음을 알고, 마음을 단단히 세우는 것이 수행입니다."
+    "commentary": "몸의 덧없음을 알고, 마음을 단단히 세우는 것이 수행입니다.",
+    "english": "Know that this body is like a clay jar,\nset the mind firm as a fortress,\nfight evil with the weapon of wisdom,\nbut cling not even to victory.",
+    "english_commentary": "Knowing the impermanence of the body and establishing the mind firmly is practice.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 107,
@@ -960,7 +1278,10 @@
     "chapter": "제14분 이상적멸분",
     "original": "離一切諸相 則名諸佛",
     "korean": "일체의 모든 상을 떠나면\n곧 모든 부처라 이름한다.",
-    "commentary": "형상에 대한 집착을 내려놓을 때 본래의 불성이 드러납니다."
+    "commentary": "형상에 대한 집착을 내려놓을 때 본래의 불성이 드러납니다.",
+    "english": "Apart from all marks,\none is called all the Buddhas.",
+    "english_commentary": "When clinging to form is released, the inherent Buddha-nature is revealed.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 108,
@@ -969,7 +1290,10 @@
     "chapter": "올바른 유행 경",
     "original": "",
     "korean": "진리를 배워 알고,\n삿된 것을 올바름으로 바꾸며,\n게으르지 않고 정진하는 사람,\n그가 바라문이다.",
-    "commentary": "배움을 삶으로 실천하는 사람이 진정한 수행자입니다."
+    "commentary": "배움을 삶으로 실천하는 사람이 진정한 수행자입니다.",
+    "english": "One who has learned the truth,\nturns wrong to right,\nis not lazy but diligent —\nthat one is a true brahman.",
+    "english_commentary": "The one who lives their learning is a true practitioner.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 109,
@@ -978,7 +1302,10 @@
     "chapter": "",
     "original": "遠離顚倒夢想 究竟涅槃",
     "korean": "전도된 꿈과 생각을 멀리 떠나\n마침내 열반에 이른다.",
-    "commentary": "뒤바뀐 생각에서 벗어날 때 진정한 평화가 찾아옵니다."
+    "commentary": "뒤바뀐 생각에서 벗어날 때 진정한 평화가 찾아옵니다.",
+    "english": "Far apart from all confused and inverted views,\none finally attains nirvana.",
+    "english_commentary": "When we escape from inverted thinking, true peace finds us.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 110,
@@ -987,7 +1314,10 @@
     "chapter": "",
     "original": "",
     "korean": "봄꽃이 피고 지듯\n모든 것은 변한다.\n변하지 않는 것에 집착하는 것이\n괴로움의 시작이다.",
-    "commentary": "변화를 자연스럽게 받아들이는 마음이 지혜입니다."
+    "commentary": "변화를 자연스럽게 받아들이는 마음이 지혜입니다.",
+    "english": "Like spring flowers blooming and falling,\nall things change.\nClinging to what does not change\nis the beginning of suffering.",
+    "english_commentary": "Accepting change naturally is wisdom.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 111,
@@ -996,7 +1326,10 @@
     "chapter": "제18장 때의 품",
     "original": "",
     "korean": "오래 떠나 있다가 돌아온 사람을\n친척과 벗들이 기쁘게 맞이하듯,\n선행도 이 세상에서 저 세상으로 가는 이를\n그렇게 맞이한다.",
-    "commentary": "선행은 언제나 우리와 함께 합니다. 오늘도 작은 선행을 실천해보세요."
+    "commentary": "선행은 언제나 우리와 함께 합니다. 오늘도 작은 선행을 실천해보세요.",
+    "english": "Just as relatives and friends welcome back\na person who has been away for a long time,\nso good deeds welcome\none who has passed from this world to the next.",
+    "english_commentary": "Good deeds are always with us. Today too, practice one small act of goodness.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 112,
@@ -1005,7 +1338,10 @@
     "chapter": "문수사리문질품",
     "original": "",
     "korean": "침묵으로 답하는 것이\n때로는 가장 완전한 답이다.",
-    "commentary": "말하지 않아도 전해지는 진심이 있습니다. 오늘은 침묵의 지혜를 느껴보세요."
+    "commentary": "말하지 않아도 전해지는 진심이 있습니다. 오늘은 침묵의 지혜를 느껴보세요.",
+    "english": "Sometimes, answering with silence\nis the most complete answer.",
+    "english_commentary": "There is sincerity that is conveyed without words. Today, feel the wisdom of silence.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 113,
@@ -1014,7 +1350,10 @@
     "chapter": "제19분 법계통화분",
     "original": "福德無故 如來說得福德多",
     "korean": "복덕이 실체가 없으므로\n여래는 복덕이 많다고 말한다.",
-    "commentary": "집착 없이 베푸는 공덕이 가장 큰 공덕입니다."
+    "commentary": "집착 없이 베푸는 공덕이 가장 큰 공덕입니다.",
+    "english": "Because merit has no substance,\nthe Tathagata says merit is great.",
+    "english_commentary": "Merit given without attachment is the greatest merit.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 114,
@@ -1023,7 +1362,10 @@
     "chapter": "마가 경",
     "original": "",
     "korean": "어질고 지혜롭고 배움이 넓으며\n계율을 지키는 사람,\n그가 가장 복된 사람이다.",
-    "commentary": "내면의 덕을 쌓는 것이 진정한 복입니다."
+    "commentary": "내면의 덕을 쌓는 것이 진정한 복입니다.",
+    "english": "The one who is virtuous, wise, broadly learned,\nwho upholds the precepts —\nthat person is most blessed.",
+    "english_commentary": "Building inner virtue is the truest blessing.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 115,
@@ -1032,7 +1374,10 @@
     "chapter": "제25장 수행자의 품",
     "original": "",
     "korean": "눈을 잘 지키고,\n귀를 잘 지키고,\n코를 잘 지키라.\n감각의 문을 잘 지키는 것이 수행이다.",
-    "commentary": "감각에 휩쓸리지 않는 것, 그것이 일상의 수행입니다."
+    "commentary": "감각에 휩쓸리지 않는 것, 그것이 일상의 수행입니다.",
+    "english": "Guard your eyes well,\nguard your ears well,\nguard your nose well.\nGuarding the sense gates is practice.",
+    "english_commentary": "Not being swept away by the senses — that is everyday practice.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 116,
@@ -1041,7 +1386,10 @@
     "chapter": "",
     "original": "",
     "korean": "용감하게 정진하면\n이루지 못할 것이 없다.\n물방울이 바위를 뚫듯\n꾸준함이 모든 것을 이긴다.",
-    "commentary": "작은 노력도 꾸준히 이어가면 반드시 결실을 맺습니다."
+    "commentary": "작은 노력도 꾸준히 이어가면 반드시 결실을 맺습니다.",
+    "english": "With courageous diligence\nthere is nothing you cannot achieve.\nAs water drops wear through rock,\nsteadiness overcomes all.",
+    "english_commentary": "Small efforts, continued steadily, will surely bear fruit.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 117,
@@ -1050,7 +1398,10 @@
     "chapter": "",
     "original": "是故空中無色",
     "korean": "그러므로 공 가운데는 형태가 없고,\n느낌도 생각도 의지도 의식도 없다.",
-    "commentary": "모든 것이 공한 자리에서 진정한 자유가 시작됩니다."
+    "commentary": "모든 것이 공한 자리에서 진정한 자유가 시작됩니다.",
+    "english": "Therefore in emptiness there is no form,\nno sensation, no perception, no formation, no consciousness.",
+    "english_commentary": "In the place of complete emptiness, true freedom begins.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 118,
@@ -1059,7 +1410,10 @@
     "chapter": "보살행품",
     "original": "",
     "korean": "중생이 있는 곳에\n보살이 있다.\n중생의 기쁨이\n보살의 기쁨이다.",
-    "commentary": "함께 기뻐하는 마음, 그것이 보살의 마음입니다."
+    "commentary": "함께 기뻐하는 마음, 그것이 보살의 마음입니다.",
+    "english": "Where beings are,\nthere the bodhisattva is.\nThe joy of beings\nis the bodhisattva's joy.",
+    "english_commentary": "The heart that rejoices together — that is the bodhisattva heart.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 119,
@@ -1068,7 +1422,10 @@
     "chapter": "제22장 지옥의 품",
     "original": "",
     "korean": "부끄러움을 알아야 할 것을 모르고,\n부끄러워해야 할 것을 알지 못하는 자,\n삿된 견해를 지닌 자,\n그는 악처에 간다.",
-    "commentary": "양심의 소리에 귀 기울이는 것이 올바른 삶의 나침반입니다."
+    "commentary": "양심의 소리에 귀 기울이는 것이 올바른 삶의 나침반입니다.",
+    "english": "The one who does not know shame in what is shameful,\nwho does not know shame in what is shameless,\nwho holds wrong views —\nthat one goes to an evil realm.",
+    "english_commentary": "Listening to the voice of conscience is the compass of a right life.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 120,
@@ -1077,7 +1434,10 @@
     "chapter": "제28분 불수불탐분",
     "original": "菩薩不受福德",
     "korean": "보살은 복덕을 받지 않는다.\n그러므로 복덕이 많다고 한다.",
-    "commentary": "받으려 하지 않을 때 오히려 더 많이 얻게 됩니다."
+    "commentary": "받으려 하지 않을 때 오히려 더 많이 얻게 됩니다.",
+    "english": "The bodhisattva does not receive merit.\nTherefore it is said that he has great merit.",
+    "english_commentary": "When you stop trying to receive, you end up receiving more.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 121,
@@ -1086,7 +1446,10 @@
     "chapter": "제21장 잡다한 것의 품",
     "original": "",
     "korean": "건강은 최상의 이익이요,\n만족은 최상의 재산이며,\n신뢰는 최상의 친척이요,\n열반은 최상의 행복이다.",
-    "commentary": "지금 가진 것에 만족할 줄 아는 것이 가장 큰 부유함입니다."
+    "commentary": "지금 가진 것에 만족할 줄 아는 것이 가장 큰 부유함입니다.",
+    "english": "Health is the highest gain,\ncontentment is the highest wealth,\ntrust is the highest kin,\nnirvana is the highest happiness.",
+    "english_commentary": "Knowing how to be content with what you have is the greatest abundance.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 122,
@@ -1095,7 +1458,10 @@
     "chapter": "",
     "original": "",
     "korean": "어린아이의 눈으로 세상을 보라.\n모든 것이 새롭고 신비로우며\n하나하나가 기적이다.",
-    "commentary": "매 순간을 처음 보는 것처럼 바라볼 때 삶이 풍요로워집니다."
+    "commentary": "매 순간을 처음 보는 것처럼 바라볼 때 삶이 풍요로워집니다.",
+    "english": "Look at the world with the eyes of a child.\nAll things are new and wondrous;\neach and every one is a miracle.",
+    "english_commentary": "When each moment is seen as if for the first time, life becomes rich.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 123,
@@ -1104,7 +1470,10 @@
     "chapter": "전쟁 경",
     "original": "",
     "korean": "이기면 원한을 낳고\n지면 괴로움 속에 눕는다.\n이기고 짐을 버린 자,\n그는 고요히 편안하다.",
-    "commentary": "승패를 초월한 자리에 진정한 평화가 있습니다."
+    "commentary": "승패를 초월한 자리에 진정한 평화가 있습니다.",
+    "english": "Victory breeds enmity;\nthe defeated lie down in sorrow.\nThe one who has set aside victory and defeat\nrests in peace and calm.",
+    "english_commentary": "True peace lies in the place that transcends winning and losing.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 124,
@@ -1113,7 +1482,10 @@
     "chapter": "제6분 정신희유분",
     "original": "信心淸淨 則生實相",
     "korean": "청정한 믿음이 있는 곳에\n실상이 생겨난다.",
-    "commentary": "순수하고 맑은 믿음이 진리를 드러냅니다."
+    "commentary": "순수하고 맑은 믿음이 진리를 드러냅니다.",
+    "english": "Where there is pure faith,\ntrue reality arises.",
+    "english_commentary": "Pure and clear faith reveals truth.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 125,
@@ -1122,7 +1494,10 @@
     "chapter": "",
     "original": "無無明 亦無無明盡",
     "korean": "무명도 없고\n무명이 다함도 없다.",
-    "commentary": "시작도 끝도 없는 그 자리에서 진정한 자유를 찾으세요."
+    "commentary": "시작도 끝도 없는 그 자리에서 진정한 자유를 찾으세요.",
+    "english": "There is no ignorance,\nnor is there any ending of ignorance.",
+    "english_commentary": "In the place that has neither beginning nor end, find true freedom.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 126,
@@ -1131,7 +1506,10 @@
     "chapter": "제5장 어리석음의 품",
     "original": "",
     "korean": "제 자신의 허물은 보지 못하고\n남의 허물만 보는 사람,\n그는 번뇌만 더할 뿐이다.",
-    "commentary": "타인을 보기 전에 자신을 먼저 돌아보는 것이 지혜입니다."
+    "commentary": "타인을 보기 전에 자신을 먼저 돌아보는 것이 지혜입니다.",
+    "english": "The one who cannot see his own faults\nbut sees only the faults of others —\nsuch a one only increases his afflictions.",
+    "english_commentary": "Looking at oneself before looking at others is wisdom.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 127,
@@ -1140,7 +1518,10 @@
     "chapter": "제자품",
     "original": "",
     "korean": "진정한 수행은\n앉아서 하는 것이 아니다.\n일상의 모든 순간이\n수행의 도량이다.",
-    "commentary": "특별한 자리가 아닌 지금 이 자리가 수행처입니다."
+    "commentary": "특별한 자리가 아닌 지금 이 자리가 수행처입니다.",
+    "english": "True practice\nis not done while sitting.\nEvery moment of daily life\nis the practice hall.",
+    "english_commentary": "Not a special place, but this very place right now, is the place of practice.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 128,
@@ -1149,7 +1530,10 @@
     "chapter": "",
     "original": "",
     "korean": "어머니의 은혜는\n하늘보다 높고 바다보다 깊다.\n그 은혜에 보답하는 것이\n첫 번째 수행이다.",
-    "commentary": "가까운 사람에게 감사를 전하는 것이 오늘의 수행입니다."
+    "commentary": "가까운 사람에게 감사를 전하는 것이 오늘의 수행입니다.",
+    "english": "A mother's grace\nis higher than the sky and deeper than the ocean.\nRepaying that grace\nis the first practice.",
+    "english_commentary": "Expressing gratitude to those near to you is today's practice.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 129,
@@ -1158,7 +1542,10 @@
     "chapter": "제2장 방일하지 않음의 품",
     "original": "",
     "korean": "마치 목동이 지팡이로\n소를 목장으로 몰듯,\n늙음과 죽음은\n중생의 목숨을 몰아간다.",
-    "commentary": "시간의 덧없음을 알고 지금 이 순간을 소중히 살아가세요."
+    "commentary": "시간의 덧없음을 알고 지금 이 순간을 소중히 살아가세요.",
+    "english": "Just as a cowherd drives cattle\nto pasture with a staff,\nold age and death\ndrive the lives of beings.",
+    "english_commentary": "Knowing the impermanence of time, treasure each precious moment.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 130,
@@ -1167,7 +1554,10 @@
     "chapter": "제8분 의법출생분",
     "original": "所謂佛法者 卽非佛法",
     "korean": "이른바 불법이라 하는 것은\n곧 불법이 아니다.",
-    "commentary": "진리는 이름과 형식에 가두어지지 않습니다. 열린 마음으로 탐구하세요."
+    "commentary": "진리는 이름과 형식에 가두어지지 않습니다. 열린 마음으로 탐구하세요.",
+    "english": "What is called the Buddhadharma\nis in fact not the Buddhadharma.",
+    "english_commentary": "Truth cannot be confined to a name or form. Explore it with an open mind.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 131,
@@ -1176,7 +1566,10 @@
     "chapter": "출가 경",
     "original": "",
     "korean": "집은 장애가 많고\n티끌이 쌓이는 곳.\n집 없는 삶은 탁 트인 하늘 같다.",
-    "commentary": "내면의 자유를 얻을 때, 어디에 있든 탁 트인 하늘 아래 있는 것입니다."
+    "commentary": "내면의 자유를 얻을 때, 어디에 있든 탁 트인 하늘 아래 있는 것입니다.",
+    "english": "The home is full of impediments\nand a place where dust accumulates.\nThe homeless life is like an open sky.",
+    "english_commentary": "When inner freedom is gained, wherever you are is under an open sky.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 132,
@@ -1185,7 +1578,10 @@
     "chapter": "",
     "original": "無老死 亦無老死盡",
     "korean": "늙고 죽음도 없고\n늙고 죽음이 다함도 없다.",
-    "commentary": "생사를 초월한 본래의 자리에서 진정한 안식을 찾으세요."
+    "commentary": "생사를 초월한 본래의 자리에서 진정한 안식을 찾으세요.",
+    "english": "There is no old age and death,\nnor is there any ending of old age and death.",
+    "english_commentary": "In the original place that transcends life and death, find true rest.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 133,
@@ -1194,7 +1590,10 @@
     "chapter": "제26장 바라문의 품",
     "original": "",
     "korean": "물이 진흙을 씻어내듯\n진리는 마음의 때를 씻어낸다.\n맑은 마음으로\n오늘 하루를 시작하라.",
-    "commentary": "매일 아침 맑은 마음으로 시작하는 것이 수행입니다."
+    "commentary": "매일 아침 맑은 마음으로 시작하는 것이 수행입니다.",
+    "english": "As water washes away mud,\ntruth washes away the stains of the mind.\nBegin today\nwith a pure, clear mind.",
+    "english_commentary": "Beginning each morning with a clear mind is practice.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 134,
@@ -1203,7 +1602,10 @@
     "chapter": "",
     "original": "",
     "korean": "선지식을 만나는 것은\n큰 행운이다.\n그 가르침을 가슴에 새기고\n삶으로 실천하라.",
-    "commentary": "좋은 가르침을 만났다면, 그것을 삶으로 꽃피우세요."
+    "commentary": "좋은 가르침을 만났다면, 그것을 삶으로 꽃피우세요.",
+    "english": "Meeting a good spiritual friend\nis great good fortune.\nTake the teachings to heart\nand put them into practice in life.",
+    "english_commentary": "If you have met good teachings, let them bloom in your life.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 135,
@@ -1212,7 +1614,10 @@
     "chapter": "향적불품",
     "original": "",
     "korean": "향기로운 가르침은\n마음을 배부르게 한다.\n한 마디 진리가\n천 끼니의 밥보다 낫다.",
-    "commentary": "진리의 말씀 하나가 삶을 풍요롭게 합니다."
+    "commentary": "진리의 말씀 하나가 삶을 풍요롭게 합니다.",
+    "english": "Fragrant teachings\nsatisfy the heart.\nOne word of truth\nis better than a thousand meals.",
+    "english_commentary": "A single word of truth enriches life.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 136,
@@ -1221,7 +1626,10 @@
     "chapter": "제15분 지경공덕분",
     "original": "當知此經 不可思議",
     "korean": "이 경은 불가사의하고\n그 공덕 또한 불가사의하다.",
-    "commentary": "진리의 깊이는 헤아릴 수 없습니다. 겸손한 마음으로 배워가세요."
+    "commentary": "진리의 깊이는 헤아릴 수 없습니다. 겸손한 마음으로 배워가세요.",
+    "english": "Know that this sutra is inconceivable,\nand its merit is likewise inconceivable.",
+    "english_commentary": "The depth of truth is beyond measure. Learn with a humble heart.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 137,
@@ -1230,7 +1638,10 @@
     "chapter": "제10장 폭력의 품",
     "original": "",
     "korean": "모든 것은 폭력을 두려워하고\n모든 것은 죽음을 두려워한다.\n자신의 처지로 남을 헤아려\n죽이지도 말고 죽이게도 하지 마라.",
-    "commentary": "내가 두려운 것을 남도 두려워합니다. 생명을 존중하는 마음을 가지세요."
+    "commentary": "내가 두려운 것을 남도 두려워합니다. 생명을 존중하는 마음을 가지세요.",
+    "english": "All tremble at violence;\nall fear death.\nWith one's own self as the example,\none should neither kill nor cause to kill.",
+    "english_commentary": "What you fear, others fear too. Have a mind that respects life.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 138,
@@ -1239,7 +1650,10 @@
     "chapter": "법의 수레바퀴 경",
     "original": "",
     "korean": "중도가 눈을 주고,\n중도가 앎을 주며,\n중도가 고요함으로,\n지혜와 깨달음으로 이끈다.",
-    "commentary": "극단을 피하고 중도를 걷는 것이 지혜로운 삶입니다."
+    "commentary": "극단을 피하고 중도를 걷는 것이 지혜로운 삶입니다.",
+    "english": "The middle way gives vision and knowledge;\nit leads to calm, insight,\nenlighenment, and nirvana.",
+    "english_commentary": "Avoiding extremes and walking the middle way is a wise life.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 139,
@@ -1248,7 +1662,10 @@
     "chapter": "",
     "original": "無智亦無得",
     "korean": "지혜도 없고\n얻음도 없다.",
-    "commentary": "얻으려는 마음을 내려놓을 때 오히려 모든 것을 얻게 됩니다."
+    "commentary": "얻으려는 마음을 내려놓을 때 오히려 모든 것을 얻게 됩니다.",
+    "english": "There is no wisdom\nand no attainment.",
+    "english_commentary": "When you put down the mind that wants to attain, you paradoxically attain everything.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 140,
@@ -1257,7 +1674,10 @@
     "chapter": "",
     "original": "",
     "korean": "보살은 중생 속에서\n보살행을 닦는다.\n세상을 피하지 않고\n세상 속에서 깨달음을 찾는다.",
-    "commentary": "도망치지 않고 현실 속에서 수행하는 것이 진정한 보살행입니다."
+    "commentary": "도망치지 않고 현실 속에서 수행하는 것이 진정한 보살행입니다.",
+    "english": "The bodhisattva practices bodhisattva conduct\namong sentient beings.\nWithout avoiding the world,\nhe seeks enlightenment within it.",
+    "english_commentary": "Practicing without fleeing from reality — that is true bodhisattva conduct.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 141,
@@ -1266,7 +1686,10 @@
     "chapter": "제13장 세상의 품",
     "original": "",
     "korean": "세상은 가득 찬 것 같지만 공허하고\n어리석은 자들로 가득하다.\n현명한 자를 찾기는\n새벽 별만큼이나 어렵다.",
-    "commentary": "진정한 지혜를 가진 사람을 만나는 것은 큰 복입니다."
+    "commentary": "진정한 지혜를 가진 사람을 만나는 것은 큰 복입니다.",
+    "english": "The world seems full but is empty;\nfull of fools.\nFinding one who is wise\nis as rare as finding a morning star.",
+    "english_commentary": "Meeting a person of true wisdom is a great blessing.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 142,
@@ -1275,7 +1698,10 @@
     "chapter": "관중생품",
     "original": "",
     "korean": "허공은 어디에나 있지만\n어디에도 걸리지 않는다.\n보살의 마음도 그러하다.",
-    "commentary": "어디에도 걸리지 않는 자유로운 마음을 가지세요."
+    "commentary": "어디에도 걸리지 않는 자유로운 마음을 가지세요.",
+    "english": "Space is everywhere\nbut is obstructed nowhere.\nThe bodhisattva's mind is like this.",
+    "english_commentary": "Have a free mind that is obstructed nowhere.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 143,
@@ -1284,7 +1710,10 @@
     "chapter": "제21분 비설소설분",
     "original": "說法者 無法可說",
     "korean": "법을 설한다는 것은\n설할 법이 없는 것이다.",
-    "commentary": "진정한 가르침은 말을 넘어섭니다. 삶으로 보여주는 것이 최고의 가르침입니다."
+    "commentary": "진정한 가르침은 말을 넘어섭니다. 삶으로 보여주는 것이 최고의 가르침입니다.",
+    "english": "To teach the Dharma\nis to have no Dharma to teach.",
+    "english_commentary": "True teaching transcends words. Showing it through life is the highest teaching.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 144,
@@ -1293,7 +1722,10 @@
     "chapter": "빠라마타까 경",
     "original": "",
     "korean": "어떤 것도 최상이라 고집하지 않고\n어떤 것도 열등하다 무시하지 않는 자,\n그는 평화롭고 자유롭다.",
-    "commentary": "비교하고 판단하는 마음을 내려놓을 때 평화가 찾아옵니다."
+    "commentary": "비교하고 판단하는 마음을 내려놓을 때 평화가 찾아옵니다.",
+    "english": "One who insists on nothing as supreme\nand dismisses nothing as inferior —\nthat one is peaceful and free.",
+    "english_commentary": "When the mind that compares and judges is put down, peace comes.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 145,
@@ -1302,7 +1734,10 @@
     "chapter": "제6장 지혜로운 이의 품",
     "original": "",
     "korean": "쉽고 유익한 것에서\n더 어렵고 더 유익한 것으로 나아가라.\n현명한 사람은\n조각이 은을 만들 듯 자신을 만든다.",
-    "commentary": "조금씩 나아지는 것, 그것이 수행의 진정한 의미입니다."
+    "commentary": "조금씩 나아지는 것, 그것이 수행의 진정한 의미입니다.",
+    "english": "From easy and beneficial,\nadvance to more difficult and more beneficial.\nThe wise one shapes himself\njust as a silversmith refines silver.",
+    "english_commentary": "Improving a little at a time — that is the true meaning of practice.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 146,
@@ -1311,7 +1746,10 @@
     "chapter": "",
     "original": "以無所得故 菩提薩埵",
     "korean": "얻을 것이 없으므로\n보살은 반야바라밀다에 의지한다.",
-    "commentary": "얻으려 하지 않는 마음, 그것이 지혜의 완성으로 가는 길입니다."
+    "commentary": "얻으려 하지 않는 마음, 그것이 지혜의 완성으로 가는 길입니다.",
+    "english": "Because there is nothing to attain,\nthe bodhisattva relies on prajnaparamita.",
+    "english_commentary": "The mind that does not seek to attain — that is the path to the perfection of wisdom.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 147,
@@ -1320,7 +1758,10 @@
     "chapter": "",
     "original": "",
     "korean": "작은 친절이 모이면\n세상을 밝히는 등불이 된다.\n오늘 하루 한 번의\n따뜻한 말을 건네라.",
-    "commentary": "작은 친절이 누군가의 하루를 바꿀 수 있습니다."
+    "commentary": "작은 친절이 누군가의 하루를 바꿀 수 있습니다.",
+    "english": "Small kindnesses gathered together\nbecome a lamp that lights the world.\nToday, offer one warm word.",
+    "english_commentary": "A small kindness can change someone's day.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 148,
@@ -1329,7 +1770,10 @@
     "chapter": "불도품",
     "original": "",
     "korean": "번뇌의 밭이 있어야\n깨달음의 씨앗을 심을 수 있다.\n고난이 없으면\n깨달음도 없다.",
-    "commentary": "어려움이 있기에 성장이 있습니다. 지금의 고난을 두려워하지 마세요."
+    "commentary": "어려움이 있기에 성장이 있습니다. 지금의 고난을 두려워하지 마세요.",
+    "english": "Only if there is a field of affliction\ncan seeds of enlightenment be planted.\nWithout hardship,\nthere is no enlightenment.",
+    "english_commentary": "Because hardship exists, growth exists. Do not fear the current difficulty.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 149,
@@ -1338,7 +1782,10 @@
     "chapter": "제24장 갈애의 품",
     "original": "",
     "korean": "갈애를 버린 자는\n연꽃이 물에 젖지 않듯\n세상에 물들지 않는다.",
-    "commentary": "욕망에서 자유로울 때 세상 속에서도 청정하게 살 수 있습니다."
+    "commentary": "욕망에서 자유로울 때 세상 속에서도 청정하게 살 수 있습니다.",
+    "english": "One who has abandoned craving\nis not defiled by the world,\njust as a lotus is not wetted by water.",
+    "english_commentary": "Free from desire, one can live purely even within the world.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 150,
@@ -1347,7 +1794,10 @@
     "chapter": "제25분 화무소화분",
     "original": "實無有衆生如來度者",
     "korean": "실제로 여래가 제도한 중생은\n아무도 없다.",
-    "commentary": "진정한 구원은 스스로 깨닫는 것입니다. 누구도 대신해 줄 수 없습니다."
+    "commentary": "진정한 구원은 스스로 깨닫는 것입니다. 누구도 대신해 줄 수 없습니다.",
+    "english": "In truth, there is no being\nwho has been liberated by the Tathagata.",
+    "english_commentary": "True salvation is awakening for oneself. No one else can do it for you.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 151,
@@ -1356,7 +1806,10 @@
     "chapter": "피안도품",
     "original": "",
     "korean": "강을 건너되\n강에 머물지 마라.\n뗏목은 강을 건너기 위한 것,\n건넌 후에는 내려놓아라.",
-    "commentary": "수단에 집착하지 마세요. 목적에 이르렀다면 수단도 내려놓을 줄 알아야 합니다."
+    "commentary": "수단에 집착하지 마세요. 목적에 이르렀다면 수단도 내려놓을 줄 알아야 합니다.",
+    "english": "Cross the river,\nbut do not dwell in the river.\nThe raft is for crossing;\nafter crossing, leave it behind.",
+    "english_commentary": "Do not cling to the means. Once the goal is reached, the means too must be released.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 152,
@@ -1365,7 +1818,10 @@
     "chapter": "제1장 쌍품",
     "original": "",
     "korean": "나쁜 말을 들어도 화내지 않고\n흔들림 없이 고요한 사람,\n그는 코끼리처럼\n전쟁터에서 화살을 맞을 준비가 된 자다.",
-    "commentary": "어떤 말에도 흔들리지 않는 고요함, 그것이 진정한 힘입니다."
+    "commentary": "어떤 말에도 흔들리지 않는 고요함, 그것이 진정한 힘입니다.",
+    "english": "Not being disturbed by harsh words,\ncalm and still in the midst of it —\nhe is like an elephant ready\nto be shot with arrows on the battlefield.",
+    "english_commentary": "True strength is the stillness that is unshaken by any words.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 153,
@@ -1374,7 +1830,10 @@
     "chapter": "제27분 무단무멸분",
     "original": "不應取法 不應取非法",
     "korean": "법도 취하지 말고\n법 아닌 것도 취하지 마라.",
-    "commentary": "집착 없는 마음으로 모든 것을 바라보는 것이 중도입니다."
+    "commentary": "집착 없는 마음으로 모든 것을 바라보는 것이 중도입니다.",
+    "english": "Do not take hold of the Dharma,\nnor take hold of what is not the Dharma.",
+    "english_commentary": "Looking upon all things with a mind free of clinging — that is the middle way.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 154,
@@ -1383,7 +1842,10 @@
     "chapter": "",
     "original": "",
     "korean": "비가 대지를 적시듯\n자비는 모든 중생을 적신다.\n차별 없이, 빠짐없이.",
-    "commentary": "비가 가리지 않고 내리듯, 자비도 모든 존재에게 평등하게 닿습니다."
+    "commentary": "비가 가리지 않고 내리듯, 자비도 모든 존재에게 평등하게 닿습니다.",
+    "english": "Just as rain moistens the earth,\ncompassion moistens all beings.\nWithout distinction, without omission.",
+    "english_commentary": "Just as rain falls without discrimination, compassion reaches all beings equally.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 155,
@@ -1392,7 +1854,10 @@
     "chapter": "화합 경",
     "original": "",
     "korean": "말하기 전에 생각하고,\n생각하기 전에 느끼라.\n느낌이 맑으면\n말도 행동도 맑아진다.",
-    "commentary": "내면이 맑아지면 모든 표현이 자연스럽게 맑아집니다."
+    "commentary": "내면이 맑아지면 모든 표현이 자연스럽게 맑아집니다.",
+    "english": "Think before you speak,\nand feel before you think.\nWhen feeling is clear,\nspeech and action too become clear.",
+    "english_commentary": "When the inner becomes clear, all expression naturally becomes clear.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 156,
@@ -1401,7 +1866,10 @@
     "chapter": "",
     "original": "觀自在菩薩",
     "korean": "관자재보살이\n깊은 반야바라밀다를 행할 때.",
-    "commentary": "자유롭게 관찰하는 눈, 그 눈으로 오늘 하루를 바라보세요."
+    "commentary": "자유롭게 관찰하는 눈, 그 눈으로 오늘 하루를 바라보세요.",
+    "english": "Avalokitesvara Bodhisattva,\nwhile practicing deep prajnaparamita.",
+    "english_commentary": "Look upon this day with the freely observing eye.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 157,
@@ -1410,7 +1878,10 @@
     "chapter": "제17장 분노의 품",
     "original": "",
     "korean": "성난 사람을 만나거든\n침묵으로 대하라.\n침묵은 불길에 물을 붓는 것이다.",
-    "commentary": "분노에 분노로 맞서지 마세요. 침묵이 때로는 가장 강한 답입니다."
+    "commentary": "분노에 분노로 맞서지 마세요. 침묵이 때로는 가장 강한 답입니다.",
+    "english": "When you meet an angry person,\nrespond with silence.\nSilence is like pouring water on flames.",
+    "english_commentary": "Do not meet anger with anger. Silence is sometimes the strongest answer.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 158,
@@ -1419,7 +1890,10 @@
     "chapter": "보살행품",
     "original": "",
     "korean": "세간의 법에 물들지 않고\n세간을 위해 일하는 것,\n그것이 보살의 삶이다.",
-    "commentary": "세상 속에 있으면서도 세상에 물들지 않는 연꽃처럼 살아가세요."
+    "commentary": "세상 속에 있으면서도 세상에 물들지 않는 연꽃처럼 살아가세요.",
+    "english": "Not being stained by worldly dharmas\nwhile working for the world —\nthat is the bodhisattva's life.",
+    "english_commentary": "Like a lotus in the world yet unstained by it, live that way.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 159,
@@ -1428,7 +1902,10 @@
     "chapter": "",
     "original": "",
     "korean": "순간순간을 온전히 살아라.\n지나간 것에 미련을 두지 말고\n오지 않은 것을 걱정하지 마라.",
-    "commentary": "지금 이 순간이 가장 소중한 시간입니다."
+    "commentary": "지금 이 순간이 가장 소중한 시간입니다.",
+    "english": "Live each moment fully.\nDo not linger on what has passed;\ndo not worry about what has not come.",
+    "english_commentary": "This present moment is the most precious time.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 160,
@@ -1437,7 +1914,10 @@
     "chapter": "제30분 일합이상분",
     "original": "一合相者 卽是不可說",
     "korean": "하나로 합한 모습은\n말로 할 수 없다.",
-    "commentary": "말로 표현할 수 없는 것이 있습니다. 그것을 느끼는 것이 수행입니다."
+    "commentary": "말로 표현할 수 없는 것이 있습니다. 그것을 느끼는 것이 수행입니다.",
+    "english": "The unified appearance\ncannot be spoken of.",
+    "english_commentary": "There are things that cannot be expressed in words. Feeling them is practice.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 161,
@@ -1446,7 +1926,10 @@
     "chapter": "제15장 행복의 품",
     "original": "",
     "korean": "아무것도 바라지 않는 것,\n그것이 가장 큰 행복이다.\n욕망이 없는 곳에\n진정한 자유가 있다.",
-    "commentary": "원하지 않는 것에서 자유가 시작됩니다."
+    "commentary": "원하지 않는 것에서 자유가 시작됩니다.",
+    "english": "Wanting nothing at all —\nthat is the greatest happiness.\nWhere there is no desire,\ntrue freedom exists.",
+    "english_commentary": "Freedom begins in not wanting.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 162,
@@ -1455,7 +1938,10 @@
     "chapter": "마간디야 경",
     "original": "",
     "korean": "병 없음이 최상의 이익,\n열반이 최상의 행복,\n팔정도가 최상의 길이다.",
-    "commentary": "바른 길을 걷는 것 자체가 이미 행복입니다."
+    "commentary": "바른 길을 걷는 것 자체가 이미 행복입니다.",
+    "english": "Freedom from illness is the highest gain,\nnirvana is the highest happiness,\nthe Eightfold Path is the highest road.",
+    "english_commentary": "Walking the right path is itself already happiness.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 163,
@@ -1464,7 +1950,10 @@
     "chapter": "",
     "original": "舍利子 是諸法空相",
     "korean": "사리자여,\n이 모든 법의 공한 모습은\n나지도 않고 멸하지도 않는다.",
-    "commentary": "변하지 않는 공의 자리에서 모든 것을 바라보세요."
+    "commentary": "변하지 않는 공의 자리에서 모든 것을 바라보세요.",
+    "english": "O Shariputra,\nthe empty character of all these dharmas\nis neither arising nor ceasing.",
+    "english_commentary": "From the unchanging place of emptiness, look upon all things.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 164,
@@ -1473,7 +1962,10 @@
     "chapter": "제3장 마음의 품",
     "original": "",
     "korean": "선을 행하기 어렵더라도\n악을 행하기 쉽더라도,\n선은 행하고 악은 멀리하라.\n그것이 법이다.",
-    "commentary": "어렵더라도 선한 길을 선택하는 것, 그것이 수행입니다."
+    "commentary": "어렵더라도 선한 길을 선택하는 것, 그것이 수행입니다.",
+    "english": "Even if it is hard to do good,\neven if it is easy to do evil —\ndo good and avoid evil.\nThat is the Dharma.",
+    "english_commentary": "Choosing the good path even when it is difficult — that is practice.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 165,
@@ -1482,7 +1974,10 @@
     "chapter": "",
     "original": "",
     "korean": "진실한 말은\n꽃보다 아름답다.\n거짓 없는 마음에서\n진실한 말이 나온다.",
-    "commentary": "오늘 하루 진실하게 말하고 진실하게 살아가세요."
+    "commentary": "오늘 하루 진실하게 말하고 진실하게 살아가세요.",
+    "english": "Truthful words\nare more beautiful than flowers.\nFrom a heart without falsehood\ncomes truthful speech.",
+    "english_commentary": "Today, speak truthfully and live truthfully.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 166,
@@ -1491,7 +1986,10 @@
     "chapter": "불이법문품",
     "original": "",
     "korean": "선과 악,\n생과 멸,\n이 모든 이분법을 넘어설 때\n불이의 법문에 들어간다.",
-    "commentary": "이것 아니면 저것이라는 생각을 넘어설 때 진정한 자유가 옵니다."
+    "commentary": "이것 아니면 저것이라는 생각을 넘어설 때 진정한 자유가 옵니다.",
+    "english": "Good and evil,\nbirth and death —\nwhen all these dualities are transcended,\none enters the gate of non-duality.",
+    "english_commentary": "When the thinking of 'this or that' is transcended, true freedom comes.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 167,
@@ -1500,7 +1998,10 @@
     "chapter": "제31분 지견불생분",
     "original": "不應以三十二相觀如來",
     "korean": "32상으로 여래를 보지 마라.\n그것은 여래를 보는 것이 아니다.",
-    "commentary": "외형이 아닌 진리로 부처를 만나세요."
+    "commentary": "외형이 아닌 진리로 부처를 만나세요.",
+    "english": "Do not view the Tathagata by the thirty-two marks.\nThat is not seeing the Tathagata.",
+    "english_commentary": "Meet the Buddha not through outer form but through truth.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 168,
@@ -1509,7 +2010,10 @@
     "chapter": "제19장 법에 머무는 이의 품",
     "original": "",
     "korean": "나이가 많다고 어른이 아니다.\n법을 알고 실천하며\n자비롭고 어질고 지혜로운 자,\n그가 진정한 어른이다.",
-    "commentary": "나이가 아닌 삶의 깊이로 어른이 됩니다."
+    "commentary": "나이가 아닌 삶의 깊이로 어른이 됩니다.",
+    "english": "One is not an elder\nmerely because he is old.\nOne who knows the Dharma and practices it,\nwho is compassionate, kind, and wise —\nthat one is a true elder.",
+    "english_commentary": "One becomes an elder not by age but by the depth of one's life.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 169,
@@ -1518,7 +2022,10 @@
     "chapter": "보배 경",
     "original": "",
     "korean": "부처님 안에 귀한 보배가 있나니,\n이 진실로 모두가 행복하기를.",
-    "commentary": "진리 안에서 모든 존재의 행복을 기원하는 마음을 가지세요."
+    "commentary": "진리 안에서 모든 존재의 행복을 기원하는 마음을 가지세요.",
+    "english": "In the Buddha there is a precious jewel;\nmay all beings be well by this truth.",
+    "english_commentary": "Wishing for the happiness of all beings within the truth — hold that heart.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 170,
@@ -1527,7 +2034,10 @@
     "chapter": "",
     "original": "行深般若波羅蜜多時",
     "korean": "깊은 반야바라밀다를 행할 때\n오온이 모두 공함을 비추어 본다.",
-    "commentary": "깊은 지혜의 눈으로 볼 때 모든 집착이 사라집니다."
+    "commentary": "깊은 지혜의 눈으로 볼 때 모든 집착이 사라집니다.",
+    "english": "When practicing deep prajnaparamita,\none illuminates that all five aggregates are empty.",
+    "english_commentary": "When seen with the eye of deep wisdom, all clinging disappears.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 171,
@@ -1536,7 +2046,10 @@
     "chapter": "",
     "original": "",
     "korean": "여름 태양처럼\n자비의 빛을 모든 곳에 비추라.\n그늘진 곳도 환하게\n밝힐 수 있도록.",
-    "commentary": "따뜻한 마음으로 주변의 어두운 곳을 밝혀주세요."
+    "commentary": "따뜻한 마음으로 주변의 어두운 곳을 밝혀주세요.",
+    "english": "Like the summer sun,\nshine the light of compassion everywhere.\nSo that even shaded places\ncan be lit up brightly.",
+    "english_commentary": "With a warm heart, brighten the dark places around you.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 172,
@@ -1545,7 +2058,10 @@
     "chapter": "제20장 도의 품",
     "original": "",
     "korean": "팔정도는 길 중의 길이요,\n사성제는 진리 중의 진리다.\n집착 없음이 상태 중의 최상이요,\n인간이 생명 중의 최상이다.",
-    "commentary": "바른 길을 걷고 진리를 탐구하는 오늘이 되기를."
+    "commentary": "바른 길을 걷고 진리를 탐구하는 오늘이 되기를.",
+    "english": "The Eightfold Path is the best of paths;\nthe Four Truths are the best of truths.\nNon-attachment is the best of states;\nand the human being is the best of two-footed creatures.",
+    "english_commentary": "May this be a day of walking the right path and seeking truth.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 173,
@@ -1554,7 +2070,10 @@
     "chapter": "견아촉불품",
     "original": "",
     "korean": "부처의 세계는\n멀리 있지 않다.\n지금 이 마음이\n청정하면 이곳이 정토다.",
-    "commentary": "마음이 맑아지는 순간, 지금 여기가 극락입니다."
+    "commentary": "마음이 맑아지는 순간, 지금 여기가 극락입니다.",
+    "english": "The realm of the Buddha\nis not far away.\nWhere the mind right now\nis pure, here is the Pure Land.",
+    "english_commentary": "The moment the mind becomes clear, right here and now is paradise.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 174,
@@ -1563,7 +2082,10 @@
     "chapter": "제2분 선현기청분",
     "original": "應云何住 云何降伏其心",
     "korean": "어떻게 마음을 머물게 하고\n어떻게 마음을 항복받을 것인가.",
-    "commentary": "마음을 다스리는 것이 수행의 시작이자 끝입니다."
+    "commentary": "마음을 다스리는 것이 수행의 시작이자 끝입니다.",
+    "english": "How should the mind abide?\nHow should the mind be subdued?",
+    "english_commentary": "Governing the mind is both the beginning and the end of practice.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 175,
@@ -1572,7 +2094,10 @@
     "chapter": "제8장 천 가지의 품",
     "original": "",
     "korean": "천 번의 전쟁에서 이기는 것보다\n자기 자신을 이기는 것이\n가장 위대한 승리다.",
-    "commentary": "가장 강한 적은 자기 자신입니다. 오늘도 자신과의 싸움에서 이겨내세요."
+    "commentary": "가장 강한 적은 자기 자신입니다. 오늘도 자신과의 싸움에서 이겨내세요.",
+    "english": "To win a thousand battles, a thousand times,\nis not as great a victory\nas to conquer oneself.",
+    "english_commentary": "The strongest enemy is oneself. Today too, overcome yourself.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 176,
@@ -1581,7 +2106,10 @@
     "chapter": "바른 삶 경",
     "original": "",
     "korean": "탐욕을 줄이고\n분노를 다스리고\n어리석음을 밝혀라.\n이 세 가지가 수행의 핵심이다.",
-    "commentary": "탐·진·치 세 가지 독을 다스리는 것이 수행의 본질입니다."
+    "commentary": "탐·진·치 세 가지 독을 다스리는 것이 수행의 본질입니다.",
+    "english": "Reduce greed,\nmaster anger,\nilluminate foolishness.\nThese three are the core of practice.",
+    "english_commentary": "Mastering the three poisons — greed, anger, and delusion — is the essence of practice.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 177,
@@ -1590,7 +2118,10 @@
     "chapter": "",
     "original": "色不異空 空不異色",
     "korean": "색이 공과 다르지 않고\n공이 색과 다르지 않다.",
-    "commentary": "있음과 없음이 둘이 아닌 자리, 그곳이 진리의 자리입니다."
+    "commentary": "있음과 없음이 둘이 아닌 자리, 그곳이 진리의 자리입니다.",
+    "english": "Form does not differ from emptiness;\nemptiness does not differ from form.",
+    "english_commentary": "The place where being and non-being are not two — that is the place of truth.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 178,
@@ -1599,7 +2130,10 @@
     "chapter": "",
     "original": "",
     "korean": "과거의 모든 부처는\n마음을 청정히 하여 성불했고,\n미래의 모든 부처도\n그러할 것이다.",
-    "commentary": "맑은 마음이 깨달음의 길입니다. 오늘 마음을 청정히 하세요."
+    "commentary": "맑은 마음이 깨달음의 길입니다. 오늘 마음을 청정히 하세요.",
+    "english": "All past Buddhas\nattained Buddhahood by purifying the mind,\nand all future Buddhas\nwill be the same.",
+    "english_commentary": "A clear mind is the path to enlightenment. Today, purify your mind.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 179,
@@ -1608,7 +2142,10 @@
     "chapter": "제26장 바라문의 품",
     "original": "",
     "korean": "강물이 바다로 흘러들듯\n선행은 행복으로 흘러든다.\n끊임없이 선을 행하라.",
-    "commentary": "선행은 반드시 행복으로 돌아옵니다."
+    "commentary": "선행은 반드시 행복으로 돌아옵니다.",
+    "english": "Just as a river flows into the sea,\ngood deeds flow into happiness.\nContinually do good.",
+    "english_commentary": "Good deeds will certainly return as happiness.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 180,
@@ -1617,7 +2154,10 @@
     "chapter": "제자품",
     "original": "",
     "korean": "말하지 않는 것도 가르침이요,\n행동하지 않는 것도 수행이다.\n고요히 있는 것도\n법을 전하는 것이다.",
-    "commentary": "때로는 고요히 있는 것이 가장 깊은 가르침입니다."
+    "commentary": "때로는 고요히 있는 것이 가장 깊은 가르침입니다.",
+    "english": "Even not speaking is teaching;\neven not acting is practice.\nResting in stillness too\ntransmits the Dharma.",
+    "english_commentary": "Sometimes, simply being still is the deepest teaching.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 181,
@@ -1626,7 +2166,10 @@
     "chapter": "제1분 법회인유분",
     "original": "",
     "korean": "밥을 먹고, 옷을 입고,\n발을 씻고 자리에 앉는 일상.\n부처님도 이와 같이 사셨다.",
-    "commentary": "특별한 일상이 아닌, 평범한 하루하루가 수행입니다."
+    "commentary": "특별한 일상이 아닌, 평범한 하루하루가 수행입니다.",
+    "english": "Eating, putting on clothes,\nwashing the feet, sitting down — ordinary daily life.\nThe Buddha lived just this way.",
+    "english_commentary": "Not a special practice, but each ordinary day is practice.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 182,
@@ -1635,7 +2178,10 @@
     "chapter": "제2장 방일하지 않음의 품",
     "original": "",
     "korean": "방일하지 않음으로\n불사의 경지에 이르고,\n방일함으로\n죽음의 경지에 이른다.",
-    "commentary": "깨어있는 하루하루가 불사의 삶입니다."
+    "commentary": "깨어있는 하루하루가 불사의 삶입니다.",
+    "english": "Through heedfulness\none reaches the deathless realm;\nthrough heedlessness\none reaches the realm of death.",
+    "english_commentary": "Each day lived with awakened attention is a deathless life.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 183,
@@ -1644,7 +2190,10 @@
     "chapter": "",
     "original": "",
     "korean": "더위 속에서도\n마음이 서늘하면\n그곳이 청량한 세계다.\n마음이 곧 세계이다.",
-    "commentary": "외부 환경이 아닌 마음의 온도가 삶의 질을 결정합니다."
+    "commentary": "외부 환경이 아닌 마음의 온도가 삶의 질을 결정합니다.",
+    "english": "Even in the heat,\nif the mind is cool,\nthat place is a cool, refreshing world.\nThe mind is the world.",
+    "english_commentary": "It is the temperature of the mind, not outer circumstances, that determines the quality of life.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 184,
@@ -1653,7 +2202,10 @@
     "chapter": "자애 경",
     "original": "",
     "korean": "위를 보나 아래를 보나\n옆을 보나 어디를 보나\n모든 곳에 자애를 퍼뜨려라.\n경계 없이, 끝없이.",
-    "commentary": "방향도 경계도 없는 무한한 자애심을 키우세요."
+    "commentary": "방향도 경계도 없는 무한한 자애심을 키우세요.",
+    "english": "Whether looking up or looking down,\nlooking sideways or in any direction —\nspread loving-kindness in all directions.\nWithout boundary, without end.",
+    "english_commentary": "Develop boundless loving-kindness, without direction or limit.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 185,
@@ -1662,7 +2214,10 @@
     "chapter": "제16분 능정업장분",
     "original": "當知是人 不於一佛二佛",
     "korean": "이 사람은 한 부처, 두 부처 아래에서가 아니라\n무수한 부처 아래에서 선근을 심었다.",
-    "commentary": "오랜 수행의 씨앗이 오늘의 선한 마음으로 꽃핍니다."
+    "commentary": "오랜 수행의 씨앗이 오늘의 선한 마음으로 꽃핍니다.",
+    "english": "This person has planted good roots\nnot under just one or two Buddhas,\nbut under countless Buddhas.",
+    "english_commentary": "Seeds of long practice bloom as the good heart of today.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 186,
@@ -1671,7 +2226,10 @@
     "chapter": "",
     "original": "度一切苦厄",
     "korean": "일체의 고통과 재앙을 건넌다.",
-    "commentary": "지혜로 바라볼 때 모든 고통을 건널 수 있습니다."
+    "commentary": "지혜로 바라볼 때 모든 고통을 건널 수 있습니다.",
+    "english": "One crosses over all suffering and distress.",
+    "english_commentary": "When we look with wisdom, we can cross over all suffering.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 187,
@@ -1680,7 +2238,10 @@
     "chapter": "제23장 코끼리의 품",
     "original": "",
     "korean": "혼자 가는 길,\n악인과 함께 가느니\n홀로 가는 것이 낫다.\n어리석은 자와 벗하지 마라.",
-    "commentary": "혼자여도 바른 길을 걷는 것이 그릇된 무리와 함께함보다 낫습니다."
+    "commentary": "혼자여도 바른 길을 걷는 것이 그릇된 무리와 함께함보다 낫습니다.",
+    "english": "Better to walk alone\nthan to travel with the evil.\nDo not befriend the foolish.",
+    "english_commentary": "Walking the right path alone is better than going with a misguided crowd.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 188,
@@ -1689,7 +2250,10 @@
     "chapter": "문수사리문질품",
     "original": "",
     "korean": "중생이 아프기 때문에\n나도 아프다.\n중생의 병이 나으면\n나의 병도 낫는다.",
-    "commentary": "타인의 아픔을 함께 느끼는 것이 보살의 마음입니다."
+    "commentary": "타인의 아픔을 함께 느끼는 것이 보살의 마음입니다.",
+    "english": "Because beings are ill,\nI too am ill.\nWhen the illness of beings is healed,\nmy illness too is healed.",
+    "english_commentary": "Feeling the pain of others as your own — that is the bodhisattva's heart.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 189,
@@ -1698,7 +2262,10 @@
     "chapter": "",
     "original": "",
     "korean": "물은 낮은 곳으로 흐른다.\n자비도 낮고 약한 곳으로 흐른다.\n낮아질수록 더 넓어진다.",
-    "commentary": "낮아지는 것이 오히려 가장 넓은 자리입니다."
+    "commentary": "낮아지는 것이 오히려 가장 넓은 자리입니다.",
+    "english": "Water flows to the lowest place.\nCompassion too flows to the low and weak.\nThe lower it goes, the wider it spreads.",
+    "english_commentary": "Becoming lower is in fact the widest place.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 190,
@@ -1707,7 +2274,10 @@
     "chapter": "제18분 일체동관분",
     "original": "如來悉知悉見",
     "korean": "여래는 모두 알고 모두 본다.\n숨겨진 것이 없다.",
-    "commentary": "스스로를 속이지 마세요. 진실한 마음으로 살아가세요."
+    "commentary": "스스로를 속이지 마세요. 진실한 마음으로 살아가세요.",
+    "english": "The Tathagata knows all and sees all.\nNothing is hidden.",
+    "english_commentary": "Do not deceive yourself. Live with a truthful heart.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 191,
@@ -1716,7 +2286,10 @@
     "chapter": "제4장 꽃의 품",
     "original": "",
     "korean": "비가 지붕이 새는 집에 스며들듯\n탐욕이 닦지 않은 마음에 스며든다.\n마음을 닦으면\n비도 스며들지 못한다.",
-    "commentary": "마음을 부지런히 닦는 것이 탐욕을 막는 가장 좋은 방법입니다."
+    "commentary": "마음을 부지런히 닦는 것이 탐욕을 막는 가장 좋은 방법입니다.",
+    "english": "Just as rain seeps into a poorly thatched house,\nso craving seeps into an uncultivated mind.\nIf the mind is cultivated,\nrain cannot seep in.",
+    "english_commentary": "Diligently cultivating the mind is the best way to keep craving out.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 192,
@@ -1725,7 +2298,10 @@
     "chapter": "법왕 경",
     "original": "",
     "korean": "진리의 왕은\n무력으로 다스리지 않는다.\n법으로 다스리고\n자비로 이끈다.",
-    "commentary": "강함이 아닌 지혜와 자비로 세상을 이끄는 것이 진정한 힘입니다."
+    "commentary": "강함이 아닌 지혜와 자비로 세상을 이끄는 것이 진정한 힘입니다.",
+    "english": "The king of truth\ndoes not rule by force.\nHe governs by the Dharma\nand leads with compassion.",
+    "english_commentary": "True power is leading the world with wisdom and compassion, not strength.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 193,
@@ -1734,7 +2310,10 @@
     "chapter": "",
     "original": "不垢不淨",
     "korean": "더럽지도 않고\n깨끗하지도 않다.",
-    "commentary": "깨끗함과 더러움이라는 판단을 내려놓을 때 자유로워집니다."
+    "commentary": "깨끗함과 더러움이라는 판단을 내려놓을 때 자유로워집니다.",
+    "english": "Neither defiled\nnor pure.",
+    "english_commentary": "When the judgment of clean and dirty is put down, we are free.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 194,
@@ -1743,7 +2322,10 @@
     "chapter": "불사의품",
     "original": "",
     "korean": "수미산이 겨자씨 속에 들어가고\n대해의 물이 털구멍에 들어간다.\n마음이 열리면 불가능이 없다.",
-    "commentary": "열린 마음에는 한계가 없습니다."
+    "commentary": "열린 마음에는 한계가 없습니다.",
+    "english": "Mount Sumeru enters a mustard seed,\nand the water of the great ocean enters a pore.\nWhen the mind opens, nothing is impossible.",
+    "english_commentary": "An open mind knows no limits.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 195,
@@ -1752,7 +2334,10 @@
     "chapter": "제12장 자신의 품",
     "original": "",
     "korean": "남이 나를 어떻게 보는가보다\n내가 나를 어떻게 보는가가 중요하다.\n자신의 진정한 주인이 되어라.",
-    "commentary": "타인의 시선이 아닌 자신의 눈으로 자신을 평가하세요."
+    "commentary": "타인의 시선이 아닌 자신의 눈으로 자신을 평가하세요.",
+    "english": "It matters more how you see yourself\nthan how others see you.\nBe the true master of yourself.",
+    "english_commentary": "Evaluate yourself through your own eyes, not through others' eyes.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 196,
@@ -1761,7 +2346,10 @@
     "chapter": "",
     "original": "",
     "korean": "보름달처럼 원만하고\n흐르는 물처럼 자유로우며\n허공처럼 걸림 없는\n그런 마음을 가져라.",
-    "commentary": "원만하고 자유롭고 걸림 없는 마음, 그것이 수행의 목표입니다."
+    "commentary": "원만하고 자유롭고 걸림 없는 마음, 그것이 수행의 목표입니다.",
+    "english": "Have a mind that is\nround and perfect as the full moon,\nfree-flowing as running water,\nand unobstructed as empty space.",
+    "english_commentary": "A perfect, free, and unobstructed mind — that is the goal of practice.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 197,
@@ -1770,7 +2358,10 @@
     "chapter": "제20분 이색이상분",
     "original": "離一切相 卽名諸佛",
     "korean": "일체의 상을 떠나면\n곧 모든 부처라 한다.",
-    "commentary": "형상에 대한 집착을 놓을 때 본래의 불성이 드러납니다."
+    "commentary": "형상에 대한 집착을 놓을 때 본래의 불성이 드러납니다.",
+    "english": "Apart from all marks,\none is called all the Buddhas.",
+    "english_commentary": "When clinging to form is released, the inherent Buddha-nature is revealed.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 198,
@@ -1779,7 +2370,10 @@
     "chapter": "제21장 잡다한 것의 품",
     "original": "",
     "korean": "작은 불씨가 온 산을 태우듯\n작은 악도 쌓이면 큰 화가 된다.\n작은 선도 쌓이면\n큰 복이 된다.",
-    "commentary": "작은 것을 소홀히 하지 마세요. 모든 큰 것은 작은 것에서 시작됩니다."
+    "commentary": "작은 것을 소홀히 하지 마세요. 모든 큰 것은 작은 것에서 시작됩니다.",
+    "english": "Just as a small fire can burn an entire mountain,\nsmall evils accumulated can bring great disaster.\nSmall goods accumulated too\nbring great blessings.",
+    "english_commentary": "Do not neglect small things. All great things begin from small ones.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 199,
@@ -1788,7 +2382,10 @@
     "chapter": "팔게송품",
     "original": "",
     "korean": "논쟁하지 않고\n다투지 않으며\n진리 안에서 고요한 사람,\n그가 현자이다.",
-    "commentary": "다툼을 피하고 고요함을 유지하는 것이 지혜입니다."
+    "commentary": "다툼을 피하고 고요함을 유지하는 것이 지혜입니다.",
+    "english": "One who does not argue,\ndoes not dispute,\nwho is quiet in the truth —\nthat one is the wise one.",
+    "english_commentary": "Avoiding arguments and maintaining stillness is wisdom.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 200,
@@ -1797,7 +2394,10 @@
     "chapter": "",
     "original": "不增不減",
     "korean": "늘지도 않고\n줄지도 않는다.",
-    "commentary": "본래의 자리는 더해지거나 줄어드는 것이 없습니다. 있는 그대로가 완전합니다."
+    "commentary": "본래의 자리는 더해지거나 줄어드는 것이 없습니다. 있는 그대로가 완전합니다.",
+    "english": "Neither increasing\nnor decreasing.",
+    "english_commentary": "The original place has nothing added or taken away. As it is, it is complete.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 201,
@@ -1806,7 +2406,10 @@
     "chapter": "관중생품",
     "original": "",
     "korean": "꿈속의 일을 깨어나서 말하듯\n이 세상 모든 것도\n꿈과 같다는 것을 알면\n두려울 것이 없다.",
-    "commentary": "꿈과 같은 세상을 알면 무엇에도 두려워하지 않게 됩니다."
+    "commentary": "꿈과 같은 세상을 알면 무엇에도 두려워하지 않게 됩니다.",
+    "english": "Just as one tells of events in a dream after waking,\nknowing that all things in this world too\nare like a dream —\nthere is nothing to fear.",
+    "english_commentary": "Knowing the world is like a dream, there is nothing to be afraid of.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 202,
@@ -1815,7 +2418,10 @@
     "chapter": "",
     "original": "",
     "korean": "한 생각 돌이키면\n세상이 달라진다.\n집착에서 지혜로,\n그 한 걸음이 전부다.",
-    "commentary": "한 생각을 돌이키는 것, 그것이 수행의 전부입니다."
+    "commentary": "한 생각을 돌이키는 것, 그것이 수행의 전부입니다.",
+    "english": "When a single thought turns,\nthe world changes.\nFrom clinging to wisdom —\nthat one step is everything.",
+    "english_commentary": "Turning a single thought — that is the whole of practice.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 203,
@@ -1824,7 +2430,10 @@
     "chapter": "제16장 애착의 품",
     "original": "",
     "korean": "애착에서 슬픔이 생기고\n애착에서 두려움이 생긴다.\n애착에서 벗어난 자에게\n슬픔도 두려움도 없다.",
-    "commentary": "집착을 내려놓을 때 슬픔과 두려움도 사라집니다."
+    "commentary": "집착을 내려놓을 때 슬픔과 두려움도 사라집니다.",
+    "english": "From attachment comes grief,\nfrom attachment comes fear.\nFor one who is free from attachment,\nthere is neither grief nor fear.",
+    "english_commentary": "When clinging is released, grief and fear too disappear.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 204,
@@ -1833,7 +2442,10 @@
     "chapter": "제24분 복지무비분",
     "original": "以七寶滿爾所恒河沙數三千大千世界",
     "korean": "삼천대천세계에 가득 찬 칠보로 보시하더라도\n이 경의 사구게 하나를 받아 지니고 설하는 것만 못하다.",
-    "commentary": "진리 한 구절이 세상의 모든 보물보다 값집니다."
+    "commentary": "진리 한 구절이 세상의 모든 보물보다 값집니다.",
+    "english": "Even if one donated seven treasures\nfilling the three-thousand great realms as numerous\nas the sands of the Ganges,\nit would not equal receiving, upholding, and teaching a single four-line verse of this sutra.",
+    "english_commentary": "A single verse of truth is worth more than all the treasures of the world.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 205,
@@ -1842,7 +2454,10 @@
     "chapter": "두 가지 관찰 경",
     "original": "",
     "korean": "몸에서 몸을 관찰하고\n느낌에서 느낌을 관찰하며\n마음에서 마음을 관찰하라.\n이것이 사념처이다.",
-    "commentary": "자신을 있는 그대로 관찰하는 것이 수행의 시작입니다."
+    "commentary": "자신을 있는 그대로 관찰하는 것이 수행의 시작입니다.",
+    "english": "Contemplate the body in the body,\ncontemplate feelings in feelings,\ncontemplate the mind in the mind.\nThis is the four foundations of mindfulness.",
+    "english_commentary": "Observing yourself as you truly are is the beginning of practice.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 206,
@@ -1851,7 +2466,10 @@
     "chapter": "",
     "original": "是大神呪 是大明呪",
     "korean": "이것은 위대한 주문이요,\n밝음의 주문이다.\n아제 아제 바라아제.",
-    "commentary": "지혜의 완성을 향해 오늘도 한 걸음 나아가세요."
+    "commentary": "지혜의 완성을 향해 오늘도 한 걸음 나아가세요.",
+    "english": "This is the great mantra,\nthe mantra of great illumination.\nGate, gate, paragate.",
+    "english_commentary": "Today too, take one more step toward the perfection of wisdom.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 207,
@@ -1860,7 +2478,10 @@
     "chapter": "불도품",
     "original": "",
     "korean": "연꽃은 물 없이 피지 않는다.\n수행도 일상 없이 이루어지지 않는다.\n평범한 하루가 수행의 토양이다.",
-    "commentary": "특별한 수행이 아닌 평범한 일상이 수행의 밭입니다."
+    "commentary": "특별한 수행이 아닌 평범한 일상이 수행의 밭입니다.",
+    "english": "A lotus cannot bloom without water.\nPractice too cannot be accomplished without daily life.\nThe ordinary day is the soil of practice.",
+    "english_commentary": "Not special practice but the ordinary everyday is the field of practice.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 208,
@@ -1869,7 +2490,10 @@
     "chapter": "",
     "original": "",
     "korean": "선을 행하되\n선하다는 마음도 없이 행하라.\n그것이 진정한 선이요\n공덕이다.",
-    "commentary": "의식하지 않고 자연스럽게 흘러나오는 선함이 진정한 선입니다."
+    "commentary": "의식하지 않고 자연스럽게 흘러나오는 선함이 진정한 선입니다.",
+    "english": "Do good,\nbut do it without even the thought of doing good.\nThat is true goodness\nand true merit.",
+    "english_commentary": "Goodness that flows out naturally without self-consciousness is true goodness.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 209,
@@ -1878,7 +2502,10 @@
     "chapter": "제25장 수행자의 품",
     "original": "",
     "korean": "말이 적고\n마음이 고요하며\n몸이 청정한 수행자,\n그는 이미 피안에 닿아 있다.",
-    "commentary": "말을 줄이고 마음을 고요히 하는 것이 피안으로 가는 길입니다."
+    "commentary": "말을 줄이고 마음을 고요히 하는 것이 피안으로 가는 길입니다.",
+    "english": "A practitioner who speaks little,\nwhose mind is still,\nwhose body is pure —\nis already touching the further shore.",
+    "english_commentary": "Reducing speech and stilling the mind is the path to the other shore.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 210,
@@ -1887,7 +2514,10 @@
     "chapter": "제17분 구경무아분",
     "original": "實無有法 得阿耨多羅三藐三菩提",
     "korean": "실제로는 어떤 법도 없이\n아뇩다라삼먁삼보리를 얻었다.",
-    "commentary": "깨달음은 무언가를 얻는 것이 아니라, 버리는 것입니다."
+    "commentary": "깨달음은 무언가를 얻는 것이 아니라, 버리는 것입니다.",
+    "english": "In truth, there is no dharma by which\nthe supreme and perfect enlightenment was attained.",
+    "english_commentary": "Enlightenment is not gaining something — it is releasing everything.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 211,
@@ -1896,7 +2526,10 @@
     "chapter": "빠라마타까 경",
     "original": "",
     "korean": "욕망에 물들지 않고\n두려움에 흔들리지 않으며\n적도 없고 벗도 없이\n홀로 고요히 머무는 자.",
-    "commentary": "어디에도 얽매이지 않는 자유로운 마음을 가지세요."
+    "commentary": "어디에도 얽매이지 않는 자유로운 마음을 가지세요.",
+    "english": "Unstained by desire,\nunshaken by fear,\nwith neither enemy nor friend,\ndwelling alone in stillness.",
+    "english_commentary": "Have a free mind bound to nothing.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 212,
@@ -1905,7 +2538,10 @@
     "chapter": "",
     "original": "揭諦揭諦 波羅揭諦 波羅僧揭諦 菩提薩婆訶",
     "korean": "아제아제 바라아제 바라승아제 모지사바하.\n가자, 가자, 피안으로 가자.\n함께 피안으로 건너가자. 깨달음이여.",
-    "commentary": "오늘도 깨달음을 향해 함께 나아갑니다."
+    "commentary": "오늘도 깨달음을 향해 함께 나아갑니다.",
+    "english": "Gate gate pāragate pārasaṃgate bodhi svāhā.\nGone, gone, gone to the other shore,\ngone completely to the other shore. Awakening!",
+    "english_commentary": "Today too, we journey together toward enlightenment.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 213,
@@ -1914,7 +2550,10 @@
     "chapter": "제1장 쌍품",
     "original": "",
     "korean": "마음이 고요하면\n말도 고요하고\n행동도 고요하다.\n고요함이 행복의 뿌리다.",
-    "commentary": "내면의 고요함이 삶 전체를 평화롭게 만듭니다."
+    "commentary": "내면의 고요함이 삶 전체를 평화롭게 만듭니다.",
+    "english": "When the mind is still,\nwords too are still,\nand actions too are still.\nStillness is the root of happiness.",
+    "english_commentary": "Inner stillness makes the whole of life peaceful.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 214,
@@ -1923,7 +2562,10 @@
     "chapter": "",
     "original": "",
     "korean": "가을을 준비하는 나무처럼\n열매를 맺기 위해\n지금 이 순간 충실하게\n뿌리를 내려라.",
-    "commentary": "지금 충실하게 뿌리를 내리는 것이 미래의 열매를 만듭니다."
+    "commentary": "지금 충실하게 뿌리를 내리는 것이 미래의 열매를 만듭니다.",
+    "english": "Like a tree preparing for autumn,\nto bear fruit,\nput down roots faithfully\nin this present moment.",
+    "english_commentary": "Faithfully putting down roots right now creates tomorrow's fruit.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 215,
@@ -1932,7 +2574,10 @@
     "chapter": "제9분 일상무상분",
     "original": "須陀洹 能作是念 我得須陀洹果不",
     "korean": "수다원이 '내가 수다원과를 얻었다'고 생각하면\n그는 수다원이 아니다.",
-    "commentary": "깨달음에 집착하는 순간 깨달음에서 멀어집니다."
+    "commentary": "깨달음에 집착하는 순간 깨달음에서 멀어집니다.",
+    "english": "If a stream-entrant thinks,\n'I have attained the fruit of stream-entry' —\nthat one is not a stream-entrant.",
+    "english_commentary": "The moment you cling to enlightenment, you move away from enlightenment.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 216,
@@ -1941,7 +2586,10 @@
     "chapter": "무소의 뿔 경",
     "original": "",
     "korean": "음식에 탐착하지 않고\n탐욕과 갈애가 없으며\n세상의 어떤 것에도 의존하지 않는 자,\n무소의 뿔처럼 혼자서 가라.",
-    "commentary": "어디에도 기대지 않고 스스로 서는 것, 그것이 진정한 자유입니다."
+    "commentary": "어디에도 기대지 않고 스스로 서는 것, 그것이 진정한 자유입니다.",
+    "english": "Without attachment to food,\nwithout craving and desire,\ndependent on nothing in the world —\nwander alone like a rhinoceros.",
+    "english_commentary": "Standing on your own without leaning anywhere — that is true freedom.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 217,
@@ -1950,7 +2598,10 @@
     "chapter": "",
     "original": "無眼界 乃至無意識界",
     "korean": "눈의 세계도 없고\n나아가 의식의 세계도 없다.",
-    "commentary": "감각이 만들어낸 세계에서 벗어날 때 진정한 자유가 있습니다."
+    "commentary": "감각이 만들어낸 세계에서 벗어날 때 진정한 자유가 있습니다.",
+    "english": "There is no realm of the eye,\nand so on, up to no realm of consciousness.",
+    "english_commentary": "There is freedom when we escape the world created by the senses.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 218,
@@ -1959,7 +2610,10 @@
     "chapter": "제14장 부처님의 품",
     "original": "",
     "korean": "깨달음은 멀리 있지 않다.\n지금 이 자리에서\n마음을 바로잡는 것,\n그것이 깨달음의 시작이다.",
-    "commentary": "지금 이 순간, 이 자리에서 수행을 시작하세요."
+    "commentary": "지금 이 순간, 이 자리에서 수행을 시작하세요.",
+    "english": "Enlightenment is not far away.\nSetting the mind right\nright here and now —\nthat is the beginning of enlightenment.",
+    "english_commentary": "Begin your practice right here, right now, in this very place.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 219,
@@ -1968,7 +2622,10 @@
     "chapter": "보살행품",
     "original": "",
     "korean": "무더위 속에서도\n마음이 시원하면\n이미 청량한 세계에 있는 것이다.",
-    "commentary": "마음의 서늘함이 어떤 더위도 이깁니다."
+    "commentary": "마음의 서늘함이 어떤 더위도 이깁니다.",
+    "english": "Even in the heat of summer,\nif the mind is cool,\none is already in a refreshing world.",
+    "english_commentary": "The coolness of the mind overcomes any heat.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 220,
@@ -1977,7 +2634,10 @@
     "chapter": "",
     "original": "",
     "korean": "지혜는 배움에서 오고,\n배움은 겸손에서 온다.\n겸손한 마음이\n모든 것의 시작이다.",
-    "commentary": "겸손하게 배우는 자세가 지혜의 문을 엽니다."
+    "commentary": "겸손하게 배우는 자세가 지혜의 문을 엽니다.",
+    "english": "Wisdom comes from learning,\nand learning comes from humility.\nA humble mind\nis the beginning of everything.",
+    "english_commentary": "A humble attitude toward learning opens the gate of wisdom.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 221,
@@ -1986,7 +2646,10 @@
     "chapter": "제12분 존중정교분",
     "original": "隨說是經 乃至四句偈等",
     "korean": "이 경의 사구게라도 설하는 곳은\n천신과 인간의 공양을 받을 곳이다.",
-    "commentary": "진리의 한 구절이 있는 곳이 성지입니다."
+    "commentary": "진리의 한 구절이 있는 곳이 성지입니다.",
+    "english": "Wherever even four lines of this sutra are taught,\nthat place is worthy of offerings\nfrom gods and humans.",
+    "english_commentary": "Where a single verse of truth exists, that is a sacred place.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 222,
@@ -1995,7 +2658,10 @@
     "chapter": "제11장 늙음의 품",
     "original": "",
     "korean": "젊음에 취해 늙음을 잊지 마라.\n건강에 취해 병을 잊지 마라.\n삶에 취해 죽음을 잊지 마라.",
-    "commentary": "무상함을 기억하는 것이 현재를 소중히 하는 길입니다."
+    "commentary": "무상함을 기억하는 것이 현재를 소중히 하는 길입니다.",
+    "english": "Do not forget old age in your youth.\nDo not forget illness in your health.\nDo not forget death in your life.",
+    "english_commentary": "Remembering impermanence is the way to treasure the present.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 223,
@@ -2004,7 +2670,10 @@
     "chapter": "올바른 유행 경",
     "original": "",
     "korean": "분노하지 않고,\n교만하지 않으며,\n후회하지 않고,\n탐욕이 없는 수행자.",
-    "commentary": "분노·교만·후회·탐욕, 이 네 가지를 다스리는 것이 수행의 핵심입니다."
+    "commentary": "분노·교만·후회·탐욕, 이 네 가지를 다스리는 것이 수행의 핵심입니다.",
+    "english": "A practitioner who is not angry,\nnot arrogant,\nhas no regrets,\nand is free from greed.",
+    "english_commentary": "Mastering anger, arrogance, regret, and greed is the core of practice.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 224,
@@ -2013,7 +2682,10 @@
     "chapter": "",
     "original": "無苦集滅道 無智亦無得",
     "korean": "고집멸도도 없고\n지혜도 없고 얻음도 없다.",
-    "commentary": "구하는 것을 내려놓을 때 오히려 모든 것을 얻게 됩니다."
+    "commentary": "구하는 것을 내려놓을 때 오히려 모든 것을 얻게 됩니다.",
+    "english": "There is no path of suffering, no arising, no cessation;\nthere is no wisdom and no attainment.",
+    "english_commentary": "When what is sought is put down, paradoxically everything is gained.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 225,
@@ -2022,7 +2694,10 @@
     "chapter": "불이법문품",
     "original": "",
     "korean": "생사와 열반이 둘이 아니요,\n번뇌와 보리가 둘이 아니다.\n이것이 불이의 진리다.",
-    "commentary": "상반되어 보이는 것이 본래 하나임을 깨닫는 것이 지혜입니다."
+    "commentary": "상반되어 보이는 것이 본래 하나임을 깨닫는 것이 지혜입니다.",
+    "english": "Life-and-death and nirvana are not two;\naffliction and enlightenment are not two.\nThis is the truth of non-duality.",
+    "english_commentary": "Realizing that what appear to be opposites are originally one is wisdom.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 226,
@@ -2031,7 +2706,10 @@
     "chapter": "",
     "original": "",
     "korean": "별빛이 어둠 속에서\n더욱 빛나듯,\n지혜는 어려움 속에서\n더욱 빛난다.",
-    "commentary": "어려운 시간이 지혜를 더욱 깊게 만듭니다."
+    "commentary": "어려운 시간이 지혜를 더욱 깊게 만듭니다.",
+    "english": "Just as starlight shines brighter\nin the darkness,\nwisdom shines more brightly\nin times of difficulty.",
+    "english_commentary": "Difficult times deepen wisdom further.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 227,
@@ -2040,7 +2718,10 @@
     "chapter": "제15장 행복의 품",
     "original": "",
     "korean": "어머니와 아버지를 공경하고,\n처자식을 아끼며,\n일을 어지럽히지 않는 것,\n이것이 최상의 행복이다.",
-    "commentary": "가까운 사람을 소중히 하는 것이 진정한 행복의 근원입니다."
+    "commentary": "가까운 사람을 소중히 하는 것이 진정한 행복의 근원입니다.",
+    "english": "To revere mother and father,\nto cherish spouse and children,\nnot to disrupt one's work —\nthis is the highest blessing.",
+    "english_commentary": "Cherishing those near to you is the source of true happiness.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 228,
@@ -2049,7 +2730,10 @@
     "chapter": "제22분 무법가득분",
     "original": "是法平等 無有高下",
     "korean": "이 법은 평등하여\n높고 낮음이 없다.\n그래서 아뇩다라삼먁삼보리라 한다.",
-    "commentary": "진리 앞에 모든 존재는 평등합니다."
+    "commentary": "진리 앞에 모든 존재는 평등합니다.",
+    "english": "This Dharma is equal;\nthere is no high or low.\nThat is why it is called supreme and perfect enlightenment.",
+    "english_commentary": "Before truth, all beings are equal.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 229,
@@ -2058,7 +2742,10 @@
     "chapter": "도피안품",
     "original": "",
     "korean": "집착을 끊고\n법의 흐름에 올라타\n피안으로 건너가라.\n그곳에 두려움이 없다.",
-    "commentary": "집착을 내려놓고 진리의 흐름에 몸을 맡기세요."
+    "commentary": "집착을 내려놓고 진리의 흐름에 몸을 맡기세요.",
+    "english": "Having cut off clinging,\nriding the current of Dharma,\ncross to the other shore.\nThere is no fear there.",
+    "english_commentary": "Put down clinging and entrust yourself to the flow of truth.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 230,
@@ -2067,7 +2754,10 @@
     "chapter": "",
     "original": "三世諸佛 依般若波羅蜜多故",
     "korean": "삼세의 모든 부처님이\n반야바라밀다에 의지하여\n최상의 깨달음을 얻었다.",
-    "commentary": "지혜의 완성이 모든 깨달음의 토대입니다."
+    "commentary": "지혜의 완성이 모든 깨달음의 토대입니다.",
+    "english": "All Buddhas of the three times\nrely on prajnaparamita\nto attain supreme and perfect enlightenment.",
+    "english_commentary": "The perfection of wisdom is the foundation of all enlightenment.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 231,
@@ -2076,7 +2766,10 @@
     "chapter": "제22장 지옥의 품",
     "original": "",
     "korean": "거짓말하는 자는\n이미 지옥에 있는 것과 같다.\n진실한 말이\n가장 고귀한 보시이다.",
-    "commentary": "진실한 말 한마디가 세상을 밝힙니다."
+    "commentary": "진실한 말 한마디가 세상을 밝힙니다.",
+    "english": "One who speaks lies\nis already as if in hell.\nTruthful speech\nis the most noble generosity.",
+    "english_commentary": "One truthful word brightens the world.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 232,
@@ -2085,7 +2778,10 @@
     "chapter": "향적불품",
     "original": "",
     "korean": "밥 한 그릇의 향기가\n온 세상에 퍼지듯\n한 사람의 선행이\n세상을 바꾼다.",
-    "commentary": "한 사람의 선한 행동이 세상에 퍼져나갑니다."
+    "commentary": "한 사람의 선한 행동이 세상에 퍼져나갑니다.",
+    "english": "Just as the fragrance of a bowl of rice\nspreads through the whole world,\none person's good deed\nchanges the world.",
+    "english_commentary": "One person's good action spreads throughout the world.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 233,
@@ -2094,7 +2790,10 @@
     "chapter": "",
     "original": "",
     "korean": "수행은 거창한 것이 아니다.\n한 생각 돌이키고,\n한 번 더 참고,\n한 번 더 베푸는 것.",
-    "commentary": "거창한 수행보다 일상의 작은 실천이 더 중요합니다."
+    "commentary": "거창한 수행보다 일상의 작은 실천이 더 중요합니다.",
+    "english": "Practice is not something grand.\nIt is turning a single thought,\nbearing with patience once more,\ngiving once more.",
+    "english_commentary": "Small daily practices are more important than grand gestures.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 234,
@@ -2103,7 +2802,10 @@
     "chapter": "제33분 응화비진분",
     "original": "若人言如來若來若去若坐若臥",
     "korean": "여래가 오고 가고 앉고 눕는다고 말하는 자는\n내가 말한 뜻을 이해하지 못한 것이다.",
-    "commentary": "진리는 오고 감이 없습니다. 있는 그대로를 바라보세요."
+    "commentary": "진리는 오고 감이 없습니다. 있는 그대로를 바라보세요.",
+    "english": "One who says the Tathagata comes and goes,\nsits or lies down —\nthat one does not understand my meaning.",
+    "english_commentary": "Truth has no coming and going. See things just as they are.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 235,
@@ -2112,7 +2814,10 @@
     "chapter": "제24장 갈애의 품",
     "original": "",
     "korean": "갈애는 넝쿨처럼 자란다.\n그것을 베어내지 않으면\n온 숲을 뒤덮는다.\n지금 베어내라.",
-    "commentary": "작은 욕망이 자라기 전에 알아채고 내려놓으세요."
+    "commentary": "작은 욕망이 자라기 전에 알아채고 내려놓으세요.",
+    "english": "Craving grows like a creeper.\nIf it is not cut down,\nit overruns the entire forest.\nCut it down now.",
+    "english_commentary": "Notice small desires before they grow and put them down.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 236,
@@ -2121,7 +2826,10 @@
     "chapter": "자애 경",
     "original": "",
     "korean": "마치 어머니가\n목숨을 다해 외아들을 지키듯\n모든 존재에 대해\n무한한 자비심을 키워라.",
-    "commentary": "모든 존재를 향한 무한한 자비심이 수행의 핵심입니다."
+    "commentary": "모든 존재를 향한 무한한 자비심이 수행의 핵심입니다.",
+    "english": "Just as a mother\nwould protect her only child with her life,\ndevelop boundless loving-kindness\ntoward all beings.",
+    "english_commentary": "Boundless compassion toward all beings is the core of practice.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 237,
@@ -2130,7 +2838,10 @@
     "chapter": "",
     "original": "故知般若波羅蜜多",
     "korean": "그러므로 알라,\n반야바라밀다는\n가장 위대하고 밝은 주문이다.",
-    "commentary": "지혜의 완성은 모든 어둠을 밝히는 빛입니다."
+    "commentary": "지혜의 완성은 모든 어둠을 밝히는 빛입니다.",
+    "english": "Therefore know that prajnaparamita\nis the most wondrous and illuminating mantra.",
+    "english_commentary": "The perfection of wisdom is the light that illuminates all darkness.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 238,
@@ -2139,7 +2850,10 @@
     "chapter": "견아촉불품",
     "original": "",
     "korean": "이 세상이 청정한 불국토로 보이는 것은\n마음이 청정하기 때문이다.\n마음이 곧 세계다.",
-    "commentary": "세상을 바꾸려면 먼저 마음을 바꾸세요."
+    "commentary": "세상을 바꾸려면 먼저 마음을 바꾸세요.",
+    "english": "This world appears as a pure Buddha-land\nbecause the mind is pure.\nThe mind is the world.",
+    "english_commentary": "To change the world, first change the mind.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 239,
@@ -2148,7 +2862,10 @@
     "chapter": "",
     "original": "",
     "korean": "가을이 오기 전\n여름의 끝에서\n지나온 날들을 돌아보고\n남은 날들을 준비하라.",
-    "commentary": "지나온 것을 돌아보고 앞으로를 준비하는 것이 지혜입니다."
+    "commentary": "지나온 것을 돌아보고 앞으로를 준비하는 것이 지혜입니다.",
+    "english": "Before autumn comes,\nat the end of summer,\nlook back on the days gone by\nand prepare for the days to come.",
+    "english_commentary": "Looking back at what has passed and preparing for what is ahead is wisdom.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 240,
@@ -2157,7 +2874,10 @@
     "chapter": "제6장 지혜로운 이의 품",
     "original": "",
     "korean": "지혜로운 이는\n홍수처럼 밀려오는 것에도\n섬처럼 흔들리지 않는다.\n지혜가 섬이요, 수행이 섬이다.",
-    "commentary": "지혜와 수행이 어떤 풍랑에도 흔들리지 않는 섬이 됩니다."
+    "commentary": "지혜와 수행이 어떤 풍랑에도 흔들리지 않는 섬이 됩니다.",
+    "english": "The wise one, like an island\nunshaken even by a flood,\nis not moved.\nWisdom is the island, practice is the island.",
+    "english_commentary": "Wisdom and practice become an island unshaken by any storm.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 241,
@@ -2166,7 +2886,10 @@
     "chapter": "제26분 법신비상분",
     "original": "若以色見我 以音聲求我",
     "korean": "색으로 나를 보거나\n음성으로 나를 구하면\n이 사람은 삿된 도를 행한다.",
-    "commentary": "진리는 형상과 소리 너머에 있습니다."
+    "commentary": "진리는 형상과 소리 너머에 있습니다.",
+    "english": "If anyone perceives me through form\nor seeks me through sound,\nthat person practices a wrong path.",
+    "english_commentary": "Truth lies beyond form and sound.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 242,
@@ -2175,7 +2898,10 @@
     "chapter": "마간디야 경",
     "original": "",
     "korean": "병 없음을 최상의 이득으로 알고\n열반을 최상의 행복으로 알며\n팔정도를 최상의 길로 알라.",
-    "commentary": "건강, 열반, 팔정도, 이 세 가지가 최상의 삶입니다."
+    "commentary": "건강, 열반, 팔정도, 이 세 가지가 최상의 삶입니다.",
+    "english": "Know freedom from illness as the highest gain,\nknow nirvana as the highest happiness,\nknow the Eightfold Path as the highest road.",
+    "english_commentary": "Health, nirvana, and the Eightfold Path — these three are the highest life.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 243,
@@ -2184,7 +2910,10 @@
     "chapter": "",
     "original": "能除一切苦 眞實不虛",
     "korean": "일체의 고통을 없애니\n진실하여 거짓이 없다.",
-    "commentary": "반야바라밀다, 지혜의 완성이 모든 고통을 없앱니다."
+    "commentary": "반야바라밀다, 지혜의 완성이 모든 고통을 없앱니다.",
+    "english": "It removes all suffering.\nThis is true, not false.",
+    "english_commentary": "Prajnaparamita — the perfection of wisdom — removes all suffering.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 244,
@@ -2193,7 +2922,10 @@
     "chapter": "제20장 도의 품",
     "original": "",
     "korean": "자신을 등불로 삼고\n자신을 의지처로 삼아라.\n진리를 등불로 삼고\n진리를 의지처로 삼아라.",
-    "commentary": "스스로를 믿고 진리를 의지하는 삶이 가장 든든한 삶입니다."
+    "commentary": "스스로를 믿고 진리를 의지하는 삶이 가장 든든한 삶입니다.",
+    "english": "Be a lamp unto yourself;\nbe a refuge unto yourself.\nMake truth a lamp;\nmake truth a refuge.",
+    "english_commentary": "A life of trusting yourself and taking refuge in truth is the most steadfast life.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 245,
@@ -2202,7 +2934,10 @@
     "chapter": "",
     "original": "",
     "korean": "가을 하늘처럼\n마음을 맑게 하라.\n구름 한 점 없이\n드넓고 청명하게.",
-    "commentary": "가을 하늘처럼 맑고 드넓은 마음을 가지세요."
+    "commentary": "가을 하늘처럼 맑고 드넓은 마음을 가지세요.",
+    "english": "Like the autumn sky,\nclear the mind.\nVast and luminous,\nwithout a single cloud.",
+    "english_commentary": "Have a mind as clear and vast as the autumn sky.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 246,
@@ -2211,7 +2946,10 @@
     "chapter": "제4분 묘행무주분",
     "original": "布施不住色 布施不住聲香味觸法",
     "korean": "보시할 때 형색에 머물지 말고\n소리·향기·맛·촉감·법에도 머물지 마라.",
-    "commentary": "어디에도 집착하지 않는 보시, 그것이 가장 큰 공덕입니다."
+    "commentary": "어디에도 집착하지 않는 보시, 그것이 가장 큰 공덕입니다.",
+    "english": "When giving, do not dwell in form;\ndo not dwell in sound, smell, taste, touch, or dharmas.",
+    "english_commentary": "Giving without dwelling in anything — that is the greatest merit.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 247,
@@ -2220,7 +2958,10 @@
     "chapter": "보배 경",
     "original": "",
     "korean": "법 안에 귀한 보배가 있나니,\n이 진실로 모두가 행복하기를.\n승가 안에 귀한 보배가 있나니,\n이 진실로 모두가 행복하기를.",
-    "commentary": "불·법·승 삼보에 귀의하는 것이 행복의 근원입니다."
+    "commentary": "불·법·승 삼보에 귀의하는 것이 행복의 근원입니다.",
+    "english": "In the Dharma there is a precious jewel;\nmay all beings be well by this truth.\nIn the Sangha there is a precious jewel;\nmay all beings be well by this truth.",
+    "english_commentary": "Taking refuge in the Three Jewels — Buddha, Dharma, Sangha — is the source of happiness.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 248,
@@ -2229,7 +2970,10 @@
     "chapter": "",
     "original": "舍利子 色不異空",
     "korean": "사리자여,\n색은 공과 다르지 않고\n공은 색과 다르지 않다.",
-    "commentary": "있는 것과 없는 것이 본래 하나입니다."
+    "commentary": "있는 것과 없는 것이 본래 하나입니다.",
+    "english": "O Shariputra,\nform does not differ from emptiness;\nemptiness does not differ from form.",
+    "english_commentary": "What exists and what does not exist are originally one.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 249,
@@ -2238,7 +2982,10 @@
     "chapter": "방편품",
     "original": "",
     "korean": "유마힐이 병든 것은\n방편이다.\n중생을 위한\n자비의 방편이다.",
-    "commentary": "모든 고통도 지혜롭게 활용하면 자비의 방편이 됩니다."
+    "commentary": "모든 고통도 지혜롭게 활용하면 자비의 방편이 됩니다.",
+    "english": "Vimalakirti's illness\nis a skillful means.\nIt is a skillful means of compassion\nfor the sake of beings.",
+    "english_commentary": "Even all suffering, used wisely, becomes a skillful means of compassion.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 250,
@@ -2247,7 +2994,10 @@
     "chapter": "제3장 마음의 품",
     "original": "",
     "korean": "마음을 잘 다스린 자에게는\n기쁨이 따른다.\n마치 그림자처럼\n떠나지 않고.",
-    "commentary": "마음을 다스리면 기쁨이 그림자처럼 따라옵니다."
+    "commentary": "마음을 다스리면 기쁨이 그림자처럼 따라옵니다.",
+    "english": "One who has well governed the mind\nis followed by joy,\nlike a shadow\nthat never departs.",
+    "english_commentary": "When the mind is governed, joy follows like a shadow.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 251,
@@ -2256,7 +3006,10 @@
     "chapter": "",
     "original": "",
     "korean": "추수의 계절에\n선한 씨앗을 거둔다.\n봄에 무엇을 심었는지가\n가을을 결정한다.",
-    "commentary": "오늘 심는 씨앗이 미래의 열매를 결정합니다."
+    "commentary": "오늘 심는 씨앗이 미래의 열매를 결정합니다.",
+    "english": "In the season of harvest,\none reaps good seeds.\nWhat was planted in spring\ndetermines autumn.",
+    "english_commentary": "The seeds planted today determine tomorrow's fruit.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 252,
@@ -2265,7 +3018,10 @@
     "chapter": "제10분 장엄정토분",
     "original": "應如是生淸淨心",
     "korean": "응당 이와 같이\n청정한 마음을 내어야 한다.",
-    "commentary": "매 순간 청정한 마음을 내는 것이 수행입니다."
+    "commentary": "매 순간 청정한 마음을 내는 것이 수행입니다.",
+    "english": "One should give rise\nto a pure mind just like this.",
+    "english_commentary": "Giving rise to a pure mind in every moment is practice.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 253,
@@ -2274,7 +3030,10 @@
     "chapter": "농부 경",
     "original": "",
     "korean": "믿음이 씨앗이요,\n수행이 비이며,\n지혜가 멍에와 쟁기다.\n부끄러움이 쟁기 막대이다.",
-    "commentary": "믿음을 씨앗 삼아 수행의 밭에서 지혜를 거두세요."
+    "commentary": "믿음을 씨앗 삼아 수행의 밭에서 지혜를 거두세요.",
+    "english": "Faith is the seed,\npractice is the rain,\nwisdom is the yoke and plow.\nSense of shame is the plow shaft.",
+    "english_commentary": "With faith as seed, harvest wisdom in the field of practice.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 254,
@@ -2283,7 +3042,10 @@
     "chapter": "",
     "original": "是故空中無色 無受想行識",
     "korean": "그러므로 공 가운데\n색도 없고 수·상·행·식도 없다.",
-    "commentary": "공의 자리에는 집착할 것이 아무것도 없습니다."
+    "commentary": "공의 자리에는 집착할 것이 아무것도 없습니다.",
+    "english": "Therefore in emptiness\nthere is no form, no sensation, no perception,\nno mental formations, no consciousness.",
+    "english_commentary": "In the place of emptiness, there is nothing to cling to.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 255,
@@ -2292,7 +3054,10 @@
     "chapter": "제7장 아라한의 품",
     "original": "",
     "korean": "새들이 허공을 날아가도\n자취를 남기지 않듯,\n지혜로운 이는\n세상을 살아도 흔적이 없다.",
-    "commentary": "집착 없이 살아가는 것, 그것이 진정한 자유입니다."
+    "commentary": "집착 없이 살아가는 것, 그것이 진정한 자유입니다.",
+    "english": "Just as birds flying through the sky\nleave no tracks behind,\nthe wise one,\nliving in the world, leaves no trace.",
+    "english_commentary": "Living without attachment — that is true freedom.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 256,
@@ -2301,7 +3066,10 @@
     "chapter": "불국품",
     "original": "",
     "korean": "마음이 청정하면\n불국토가 청정하다.\n보살이 불국토를 건립하려면\n먼저 마음을 청정히 하라.",
-    "commentary": "이상적인 세계는 청정한 마음에서 시작됩니다."
+    "commentary": "이상적인 세계는 청정한 마음에서 시작됩니다.",
+    "english": "When the mind is pure,\nthe Buddha-land is pure.\nIf the bodhisattva wishes to build a Buddha-land,\nfirst purify the mind.",
+    "english_commentary": "An ideal world begins with a pure mind.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 257,
@@ -2310,7 +3078,10 @@
     "chapter": "",
     "original": "",
     "korean": "달은 물에 비치지만\n물을 적시지 않는다.\n지혜는 세상에 있지만\n세상에 물들지 않는다.",
-    "commentary": "세상 속에 있으면서도 세상에 물들지 않는 지혜를 가지세요."
+    "commentary": "세상 속에 있으면서도 세상에 물들지 않는 지혜를 가지세요.",
+    "english": "The moon is reflected in water\nbut does not moisten it.\nWisdom is in the world\nbut is not defiled by it.",
+    "english_commentary": "Have wisdom that is in the world yet unstained by it.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 258,
@@ -2319,7 +3090,10 @@
     "chapter": "제13분 여법수지분",
     "original": "是經 名爲金剛般若波羅蜜",
     "korean": "이 경의 이름은\n금강반야바라밀이다.\n이 이름으로 받아 지녀라.",
-    "commentary": "금강처럼 단단한 지혜로 모든 것을 꿰뚫어 보세요."
+    "commentary": "금강처럼 단단한 지혜로 모든 것을 꿰뚫어 보세요.",
+    "english": "The name of this sutra\nis the Diamond Prajnaparamita.\nReceive and uphold it by this name.",
+    "english_commentary": "With diamond-like wisdom, see through everything.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 259,
@@ -2328,7 +3102,10 @@
     "chapter": "제8장 천 가지의 품",
     "original": "",
     "korean": "오래 산다고 지혜롭지 않다.\n잠깐 살아도\n진리를 보고 알면\n그가 진정 지혜로운 자다.",
-    "commentary": "삶의 길이가 아닌 깊이가 중요합니다."
+    "commentary": "삶의 길이가 아닌 깊이가 중요합니다.",
+    "english": "Long life does not make one wise.\nEven one who has lived briefly,\nif they have seen and known the truth —\nthat one is truly wise.",
+    "english_commentary": "The depth of life matters more than its length.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 260,
@@ -2337,7 +3114,10 @@
     "chapter": "출가 경",
     "original": "",
     "korean": "왕국도 버리고\n재산도 버리고\n모든 것을 버린 자리에서\n진정한 자유가 시작된다.",
-    "commentary": "버릴수록 가벼워지고, 가벼울수록 자유로워집니다."
+    "commentary": "버릴수록 가벼워지고, 가벼울수록 자유로워집니다.",
+    "english": "Abandoning a kingdom,\nabandoning wealth,\nabandoning everything —\ntrue freedom begins in that place.",
+    "english_commentary": "The more you let go, the lighter you become, and the lighter, the freer.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 261,
@@ -2346,7 +3126,10 @@
     "chapter": "",
     "original": "無無明 亦無無明盡 乃至無老死",
     "korean": "무명도 없고 무명이 다함도 없으며\n나아가 늙고 죽음도 없고\n늙고 죽음이 다함도 없다.",
-    "commentary": "모든 것이 공한 자리에서 생사의 두려움도 사라집니다."
+    "commentary": "모든 것이 공한 자리에서 생사의 두려움도 사라집니다.",
+    "english": "There is no ignorance, nor any ending of ignorance,\nnor, up to, no old age and death,\nnor any ending of old age and death.",
+    "english_commentary": "In the place where all is empty, the fear of life and death too disappears.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 262,
@@ -2355,7 +3138,10 @@
     "chapter": "제자품",
     "original": "",
     "korean": "침묵이 말보다 깊을 때가 있다.\n유마힐의 침묵이\n천 마디 법문보다\n더 깊은 가르침이었다.",
-    "commentary": "때로는 침묵이 가장 깊은 진리를 전합니다."
+    "commentary": "때로는 침묵이 가장 깊은 진리를 전합니다.",
+    "english": "Silence can be deeper than words.\nVimalakirti's silence\nwas a teaching deeper\nthan a thousand dharma talks.",
+    "english_commentary": "Sometimes silence conveys the deepest truth.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 263,
@@ -2364,7 +3150,10 @@
     "chapter": "",
     "original": "",
     "korean": "억겁의 선업도\n한 순간의 분노로\n무너질 수 있다.\n분노를 다스려라.",
-    "commentary": "분노를 다스리는 것이 수행에서 가장 중요한 과제입니다."
+    "commentary": "분노를 다스리는 것이 수행에서 가장 중요한 과제입니다.",
+    "english": "Even countless eons of good karma\ncan be destroyed in a single moment of anger.\nMaster anger.",
+    "english_commentary": "Mastering anger is the most important task in practice.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 264,
@@ -2373,7 +3162,10 @@
     "chapter": "제17장 분노의 품",
     "original": "",
     "korean": "분노를 버리고\n교만을 버려라.\n어떤 속박도 넘어서라.\n이름과 몸에 집착하지 않는 자에게\n고통은 없다.",
-    "commentary": "분노와 교만을 내려놓는 것이 고통에서 벗어나는 길입니다."
+    "commentary": "분노와 교만을 내려놓는 것이 고통에서 벗어나는 길입니다.",
+    "english": "Abandon anger,\nabandon pride.\nOvercome every fetter.\nFor one who clings neither to name nor body,\nthere is no suffering.",
+    "english_commentary": "Letting go of anger and pride is the path away from suffering.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 265,
@@ -2382,7 +3174,10 @@
     "chapter": "제17분 구경무아분",
     "original": "菩薩應離一切相 發阿耨多羅三藐三菩提心",
     "korean": "보살은 일체의 상을 떠나\n최상의 깨달음을 향한 마음을 내야 한다.",
-    "commentary": "집착 없이 깨달음을 향한 마음을 내는 것이 보살입니다."
+    "commentary": "집착 없이 깨달음을 향한 마음을 내는 것이 보살입니다.",
+    "english": "The bodhisattva, apart from all marks,\nshould arouse the mind of supreme and perfect enlightenment.",
+    "english_commentary": "Giving rise to the mind of enlightenment without clinging to any mark — that is the bodhisattva.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 266,
@@ -2391,7 +3186,10 @@
     "chapter": "사리풋타 경",
     "original": "",
     "korean": "묻는 것을 두려워 말라.\n배우는 것을 부끄러워 말라.\n가르침을 구하는 것이\n수행의 시작이다.",
-    "commentary": "배움을 구하는 겸손한 마음이 지혜의 문을 엽니다."
+    "commentary": "배움을 구하는 겸손한 마음이 지혜의 문을 엽니다.",
+    "english": "Do not be afraid to ask.\nDo not be ashamed to learn.\nSeeking the teachings\nis the beginning of practice.",
+    "english_commentary": "A humble mind that seeks learning opens the gate of wisdom.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 267,
@@ -2400,7 +3198,10 @@
     "chapter": "",
     "original": "得阿耨多羅三藐三菩提",
     "korean": "최상의 깨달음을 얻었다.",
-    "commentary": "깨달음은 얻는 것이 아니라 본래 가지고 있는 것을 발견하는 것입니다."
+    "commentary": "깨달음은 얻는 것이 아니라 본래 가지고 있는 것을 발견하는 것입니다.",
+    "english": "Attained supreme and perfect enlightenment.",
+    "english_commentary": "Enlightenment is not gaining something but discovering what one originally possessed.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 268,
@@ -2409,7 +3210,10 @@
     "chapter": "제25장 수행자의 품",
     "original": "",
     "korean": "수행자여,\n홀로 앉아 홀로 눕고\n게으르지 않으며\n혼자서도 즐거운 자,\n그가 숲속의 코끼리다.",
-    "commentary": "혼자서도 충만한 내면을 가진 사람이 진정한 수행자입니다."
+    "commentary": "혼자서도 충만한 내면을 가진 사람이 진정한 수행자입니다.",
+    "english": "O practitioner,\none who sits alone and sleeps alone,\nis not lazy,\nand is joyful even alone —\nthat one is an elephant in the forest.",
+    "english_commentary": "A practitioner with a rich inner life is truly free even in solitude.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 269,
@@ -2418,7 +3222,10 @@
     "chapter": "불사의품",
     "original": "",
     "korean": "좁은 방이 넓고\n적은 것이 많으며\n없는 것이 있다.\n이것이 불가사의한 진리다.",
-    "commentary": "눈에 보이는 것이 전부가 아닙니다. 더 깊은 진실이 있습니다."
+    "commentary": "눈에 보이는 것이 전부가 아닙니다. 더 깊은 진실이 있습니다.",
+    "english": "The narrow is wide,\nthe few is many,\nthe absent is present.\nThis is the inconceivable truth.",
+    "english_commentary": "What you see is not everything. There is a deeper truth.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 270,
@@ -2427,7 +3234,10 @@
     "chapter": "",
     "original": "",
     "korean": "한 생각 악이 일어나면\n즉시 알아채고 버려라.\n한 생각 선이 일어나면\n즉시 알아채고 키워라.",
-    "commentary": "생각을 알아채는 것이 수행의 핵심입니다."
+    "commentary": "생각을 알아채는 것이 수행의 핵심입니다.",
+    "english": "When a single thought of evil arises,\nimmediately notice it and release it.\nWhen a single thought of good arises,\nimmediately notice it and nurture it.",
+    "english_commentary": "Noticing thoughts is the core of practice.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 271,
@@ -2436,7 +3246,10 @@
     "chapter": "제23분 정심행선분",
     "original": "以無我無人無衆生無壽者 修一切善法",
     "korean": "나도 없고 남도 없고\n중생도 없고 수명도 없이\n일체 선법을 닦아야 한다.",
-    "commentary": "자아에 대한 집착 없이 선을 행하는 것이 진정한 선행입니다."
+    "commentary": "자아에 대한 집착 없이 선을 행하는 것이 진정한 선행입니다.",
+    "english": "Without self, without others,\nwithout beings, without lifespan,\none should cultivate all good dharmas.",
+    "english_commentary": "Doing good without clinging to the self — that is true good action.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 272,
@@ -2445,7 +3258,10 @@
     "chapter": "제26장 바라문의 품",
     "original": "",
     "korean": "폭류를 건너고\n바다를 건너며\n악을 정복하고\n명상으로 정진하는 자가 바라문이다.",
-    "commentary": "어떤 어려움도 건너는 정진이 진정한 수행자를 만듭니다."
+    "commentary": "어떤 어려움도 건너는 정진이 진정한 수행자를 만듭니다.",
+    "english": "One who has crossed the flood,\ncrossed the ocean,\novercome evil,\nand persevered in meditation — that one is a brahman.",
+    "english_commentary": "The diligence that crosses any difficulty makes a true practitioner.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 273,
@@ -2454,7 +3270,10 @@
     "chapter": "피안도품",
     "original": "",
     "korean": "욕망의 흐름을 건너\n집착의 바다를 건너\n피안에 이른 자,\n그는 더 이상 묶이지 않는다.",
-    "commentary": "욕망과 집착을 건너 자유의 언덕에 닿으세요."
+    "commentary": "욕망과 집착을 건너 자유의 언덕에 닿으세요.",
+    "english": "Having crossed the stream of desire,\nhaving crossed the ocean of clinging,\nreaching the other shore —\nthat one is no longer bound.",
+    "english_commentary": "Cross desire and clinging and reach the shore of freedom.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 274,
@@ -2463,7 +3282,10 @@
     "chapter": "제1장 쌍품",
     "original": "",
     "korean": "선한 마음에서 선한 행동이 나오고\n선한 행동에서 선한 삶이 나온다.\n오늘 하루 선한 씨앗을\n하나씩 심어라.",
-    "commentary": "작은 선한 마음 하나가 삶 전체를 밝힙니다."
+    "commentary": "작은 선한 마음 하나가 삶 전체를 밝힙니다.",
+    "english": "Good actions come from a good heart,\nand a good life comes from good actions.\nToday, plant one good seed at a time.",
+    "english_commentary": "One small good heart brightens the whole of life.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 275,
@@ -2472,7 +3294,10 @@
     "chapter": "",
     "original": "",
     "korean": "단풍이 들듯\n마음도 깊어진다.\n계절의 변화 속에서\n삶의 깊이를 찾아라.",
-    "commentary": "변화를 두려워하지 말고, 그 안에서 깊이를 찾으세요."
+    "commentary": "변화를 두려워하지 말고, 그 안에서 깊이를 찾으세요.",
+    "english": "Just as leaves turn to autumn colors,\nso too the heart deepens.\nIn the changing seasons,\nfind the depth of life.",
+    "english_commentary": "Do not fear change; find depth within it.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 276,
@@ -2481,7 +3306,10 @@
     "chapter": "제1분 법회인유분",
     "original": "",
     "korean": "밥을 먹고 발을 씻고\n자리에 앉아 마음을 고요히 한다.\n평범한 일상이\n가장 위대한 수행이다.",
-    "commentary": "특별한 수행이 아닌 평범한 일상이 수행의 장입니다."
+    "commentary": "특별한 수행이 아닌 평범한 일상이 수행의 장입니다.",
+    "english": "After eating, washing the feet,\nand sitting down, one quiets the mind.\nOrdinary daily life\nis the greatest practice.",
+    "english_commentary": "Not a special practice, but ordinary daily life is the place of practice.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 277,
@@ -2490,7 +3318,10 @@
     "chapter": "무소의 뿔 경",
     "original": "",
     "korean": "득실에 흔들리지 않고\n칭찬과 비난에 흔들리지 않으며\n이익과 손해에 흔들리지 않는 자,\n무소의 뿔처럼 혼자서 가라.",
-    "commentary": "어떤 것에도 흔들리지 않는 마음의 힘을 키우세요."
+    "commentary": "어떤 것에도 흔들리지 않는 마음의 힘을 키우세요.",
+    "english": "Unshaken by gain and loss,\nunshaken by praise and blame,\nunshaken by benefit and harm —\nwander alone like a rhinoceros.",
+    "english_commentary": "Cultivate the strength of mind unshaken by anything.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 278,
@@ -2499,7 +3330,10 @@
     "chapter": "",
     "original": "心無罣礙",
     "korean": "마음에 걸림이 없다.",
-    "commentary": "걸림 없는 마음이 가장 가볍고 자유로운 마음입니다."
+    "commentary": "걸림 없는 마음이 가장 가볍고 자유로운 마음입니다.",
+    "english": "No hindrance in the mind.",
+    "english_commentary": "The mind with no hindrance is the lightest and most free mind.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 279,
@@ -2508,7 +3342,10 @@
     "chapter": "제5장 어리석음의 품",
     "original": "",
     "korean": "달이 구름을 벗어나듯\n지혜로운 이는\n어리석음을 벗어나\n밝게 빛난다.",
-    "commentary": "어리석음의 구름을 걷어낼 때 본래의 밝음이 드러납니다."
+    "commentary": "어리석음의 구름을 걷어낼 때 본래의 밝음이 드러납니다.",
+    "english": "Just as the moon emerges from behind clouds,\nthe wise one emerges from foolishness\nand shines brightly.",
+    "english_commentary": "When the clouds of foolishness are cleared away, the original brightness is revealed.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 280,
@@ -2517,7 +3354,10 @@
     "chapter": "보살품",
     "original": "",
     "korean": "보살은 중생의 병을 함께 앓는다.\n중생이 기뻐야 보살도 기쁘고\n중생이 슬퍼야 보살도 슬프다.",
-    "commentary": "함께 아파하고 함께 기뻐하는 마음이 보살의 마음입니다."
+    "commentary": "함께 아파하고 함께 기뻐하는 마음이 보살의 마음입니다.",
+    "english": "The bodhisattva suffers the illness of beings together.\nOnly when beings are joyful is the bodhisattva joyful;\nonly when beings grieve does the bodhisattva grieve.",
+    "english_commentary": "Sharing in others' pain and joy — that is the bodhisattva's heart.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 281,
@@ -2526,7 +3366,10 @@
     "chapter": "",
     "original": "",
     "korean": "지혜의 눈이 열리면\n모든 것이 새롭게 보인다.\n낙엽 한 장에서\n우주를 본다.",
-    "commentary": "지혜의 눈으로 보면 일상의 모든 것이 경이롭습니다."
+    "commentary": "지혜의 눈으로 보면 일상의 모든 것이 경이롭습니다.",
+    "english": "When the eye of wisdom opens,\nall things appear new.\nIn a single fallen leaf,\none sees the universe.",
+    "english_commentary": "When seen with the eye of wisdom, everything in daily life is wondrous.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 282,
@@ -2535,7 +3378,10 @@
     "chapter": "제6분 정신희유분",
     "original": "於此章句 能生信心",
     "korean": "이 구절에서 믿음을 낼 수 있다면\n그 공덕이 한량없다.",
-    "commentary": "진리를 향한 믿음 하나가 삶을 바꿉니다."
+    "commentary": "진리를 향한 믿음 하나가 삶을 바꿉니다.",
+    "english": "If one can give rise to faith in this passage,\nthe merit is immeasurable.",
+    "english_commentary": "A single faith toward truth changes a life.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 283,
@@ -2544,7 +3390,10 @@
     "chapter": "제2장 방일하지 않음의 품",
     "original": "",
     "korean": "방일하지 않음으로\n인드라는 신들의 왕이 되었다.\n방일하지 않음을 찬탄하고\n방일함을 두려워하라.",
-    "commentary": "깨어있는 삶이 모든 성취의 근본입니다."
+    "commentary": "깨어있는 삶이 모든 성취의 근본입니다.",
+    "english": "Through heedfulness\nIndra became king of the gods.\nPraise heedfulness\nand be afraid of heedlessness.",
+    "english_commentary": "An awakened life is the root of all achievement.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 284,
@@ -2553,7 +3402,10 @@
     "chapter": "전쟁 경",
     "original": "",
     "korean": "욕망이 세상을 끌고 다닌다.\n욕망에 이끌리는 자는\n죽음의 굴레를 벗어나지 못한다.",
-    "commentary": "욕망의 실체를 알아채는 것이 자유로 가는 첫걸음입니다."
+    "commentary": "욕망의 실체를 알아채는 것이 자유로 가는 첫걸음입니다.",
+    "english": "Desire drives the world.\nOne led by desire\ncannot escape the cycle of death.",
+    "english_commentary": "Recognizing the true nature of desire is the first step toward freedom.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 285,
@@ -2562,7 +3414,10 @@
     "chapter": "",
     "original": "無有恐怖 遠離顚倒夢想",
     "korean": "두려움이 없어\n전도된 꿈과 생각을 멀리 떠난다.",
-    "commentary": "두려움이 사라질 때 뒤바뀐 생각도 함께 사라집니다."
+    "commentary": "두려움이 사라질 때 뒤바뀐 생각도 함께 사라집니다.",
+    "english": "Without fear,\none has gone far from inverted and deluded thinking.",
+    "english_commentary": "When fear disappears, inverted thinking disappears along with it.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 286,
@@ -2571,7 +3426,10 @@
     "chapter": "문수사리문질품",
     "original": "",
     "korean": "아픈 것이 약이 되고\n고통이 지혜가 된다.\n병상에서 법을 설하니\n이것이 보살의 길이다.",
-    "commentary": "고통을 피하지 않고 그 안에서 지혜를 찾는 것이 보살의 길입니다."
+    "commentary": "고통을 피하지 않고 그 안에서 지혜를 찾는 것이 보살의 길입니다.",
+    "english": "Illness becomes medicine\nand suffering becomes wisdom.\nSpeaking the Dharma from a sickbed —\nthis is the bodhisattva's path.",
+    "english_commentary": "Not avoiding suffering but finding wisdom within it is the bodhisattva's way.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 287,
@@ -2580,7 +3438,10 @@
     "chapter": "",
     "original": "",
     "korean": "가을 열매는 봄 씨앗의 결실이다.\n오늘의 나는\n어제의 내가 심은\n씨앗의 결실이다.",
-    "commentary": "오늘 심는 씨앗이 미래의 나를 만듭니다."
+    "commentary": "오늘 심는 씨앗이 미래의 나를 만듭니다.",
+    "english": "The autumn fruit is the result of the spring seed.\nThe me of today\nis the result of the seeds\nplanted by yesterday's me.",
+    "english_commentary": "The seeds planted today create who I will be.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 288,
@@ -2589,7 +3450,10 @@
     "chapter": "제21장 잡다한 것의 품",
     "original": "",
     "korean": "보름달처럼 원만하게\n깨끗하고 청정하게\n업의 더미를 부수어버린 자,\n그가 수행자다.",
-    "commentary": "보름달처럼 원만하고 청정한 삶이 수행의 목표입니다."
+    "commentary": "보름달처럼 원만하고 청정한 삶이 수행의 목표입니다.",
+    "english": "Perfect and full as the full moon,\npure and clean,\nhaving shattered the heap of karma —\nthat one is a practitioner.",
+    "english_commentary": "A life as perfect and pure as the full moon is the goal of practice.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 289,
@@ -2598,7 +3462,10 @@
     "chapter": "제14분 이상적멸분",
     "original": "我應滅度一切衆生",
     "korean": "나는 모든 중생을 제도해야 한다.\n그러나 실제로는\n제도받은 중생이 없다.",
-    "commentary": "베풀되 베풀었다는 생각 없이, 구하되 구했다는 생각 없이."
+    "commentary": "베풀되 베풀었다는 생각 없이, 구하되 구했다는 생각 없이.",
+    "english": "I must liberate all beings.\nYet in truth\nthere is no being who has been liberated.",
+    "english_commentary": "Give, yet have no thought of having given; seek, yet have no thought of having sought.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 290,
@@ -2607,7 +3474,10 @@
     "chapter": "자애 경",
     "original": "",
     "korean": "살아있는 모든 존재,\n예외 없이 모두\n행복하기를,\n평안하기를.",
-    "commentary": "예외 없이 모든 존재의 행복을 바라는 마음을 키우세요."
+    "commentary": "예외 없이 모든 존재의 행복을 바라는 마음을 키우세요.",
+    "english": "All living beings,\nwithout exception,\nmay they be happy,\nmay they be at ease.",
+    "english_commentary": "Cultivate the mind that wishes for the happiness of all beings without exception.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 291,
@@ -2616,7 +3486,10 @@
     "chapter": "",
     "original": "究竟涅槃",
     "korean": "마침내 열반에 이른다.",
-    "commentary": "지금 이 순간도 열반을 향한 여정 위에 있습니다."
+    "commentary": "지금 이 순간도 열반을 향한 여정 위에 있습니다.",
+    "english": "At last, reaching nirvana.",
+    "english_commentary": "Even this very moment is on the journey toward nirvana.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 292,
@@ -2625,7 +3498,10 @@
     "chapter": "제13장 세상의 품",
     "original": "",
     "korean": "작은 선을 가볍게 여기지 마라.\n물방울이 모여\n항아리를 채우듯\n지혜로운 이는 선을 쌓는다.",
-    "commentary": "작은 선행 하나하나가 모여 위대한 삶이 됩니다."
+    "commentary": "작은 선행 하나하나가 모여 위대한 삶이 됩니다.",
+    "english": "Do not make light of small good deeds.\nJust as water drops fill a jar,\nthe wise one accumulates good.",
+    "english_commentary": "Small good deeds gathered one by one make a great life.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 293,
@@ -2634,7 +3510,10 @@
     "chapter": "불국품",
     "original": "",
     "korean": "곧은 마음이 보살의 정토요,\n깊은 마음이 보살의 정토다.\n자비심이 보살의 정토다.",
-    "commentary": "곧고 깊고 자비로운 마음이 있는 곳이 바로 정토입니다."
+    "commentary": "곧고 깊고 자비로운 마음이 있는 곳이 바로 정토입니다.",
+    "english": "A straight mind is the bodhisattva's pure land;\na deep mind is the bodhisattva's pure land;\na compassionate mind is the bodhisattva's pure land.",
+    "english_commentary": "Where there is a straight, deep, and compassionate mind — that very place is the Pure Land.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 294,
@@ -2643,7 +3522,10 @@
     "chapter": "",
     "original": "",
     "korean": "낙엽이 지는 것은\n나무가 죽는 것이 아니다.\n더 깊이 살기 위한\n준비이다.",
-    "commentary": "내려놓는 것이 끝이 아니라 더 깊은 시작입니다."
+    "commentary": "내려놓는 것이 끝이 아니라 더 깊은 시작입니다.",
+    "english": "Falling leaves do not mean\nthe tree is dying.\nIt is a preparation\nfor living more deeply.",
+    "english_commentary": "Letting go is not an end but a deeper beginning.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 295,
@@ -2652,7 +3534,10 @@
     "chapter": "제18분 일체동관분",
     "original": "過去心不可得 現在心不可得 未來心不可得",
     "korean": "과거의 마음도 얻을 수 없고\n현재의 마음도 얻을 수 없고\n미래의 마음도 얻을 수 없다.",
-    "commentary": "마음을 붙잡으려 하지 마세요. 흘러가게 두세요."
+    "commentary": "마음을 붙잡으려 하지 마세요. 흘러가게 두세요.",
+    "english": "The past mind cannot be grasped,\nthe present mind cannot be grasped,\nthe future mind cannot be grasped.",
+    "english_commentary": "Do not try to hold the mind. Let it flow.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 296,
@@ -2661,7 +3546,10 @@
     "chapter": "제9장 악의 품",
     "original": "",
     "korean": "선을 행하는 것을 서두르고\n악에서 마음을 멀리하라.\n선을 더디 행하면\n마음이 악에 물든다.",
-    "commentary": "선행은 미루지 말고, 지금 바로 실천하세요."
+    "commentary": "선행은 미루지 말고, 지금 바로 실천하세요.",
+    "english": "Be eager to do good\nand keep the mind far from evil.\nIf good is done slowly,\nthe mind is defiled by evil.",
+    "english_commentary": "Do not put off good deeds — practice them right now.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 297,
@@ -2670,7 +3558,10 @@
     "chapter": "화합 경",
     "original": "",
     "korean": "진실만을 말하고\n화내지 않으며\n요청받으면 아낌없이 주는 것,\n이 세 가지가 천상으로 이끈다.",
-    "commentary": "진실, 평온, 베풂, 이 세 가지가 행복한 삶의 토대입니다."
+    "commentary": "진실, 평온, 베풂, 이 세 가지가 행복한 삶의 토대입니다.",
+    "english": "Speak only truth,\nnot angry,\ngive what is asked without holding back —\nthese three lead to heaven.",
+    "english_commentary": "Truth, calm, and generosity — these three are the foundation of a happy life.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 298,
@@ -2679,7 +3570,10 @@
     "chapter": "",
     "original": "菩提薩埵 依般若波羅蜜多故",
     "korean": "보살은 반야바라밀다에 의지하므로\n마음에 걸림이 없다.",
-    "commentary": "지혜에 의지할 때 마음의 걸림이 사라집니다."
+    "commentary": "지혜에 의지할 때 마음의 걸림이 사라집니다.",
+    "english": "The bodhisattva, relying on prajnaparamita,\nhas no hindrance in the mind.",
+    "english_commentary": "When we rely on wisdom, the hindrances of the mind disappear.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 299,
@@ -2688,7 +3582,10 @@
     "chapter": "관중생품",
     "original": "",
     "korean": "자비는 조건이 없다.\n잘하는 사람에게도\n못하는 사람에게도\n같은 마음으로 대하라.",
-    "commentary": "조건 없는 자비가 진정한 자비입니다."
+    "commentary": "조건 없는 자비가 진정한 자비입니다.",
+    "english": "Compassion has no conditions.\nTreat those who do well\nand those who do not\nwith the same heart.",
+    "english_commentary": "Unconditional compassion is true compassion.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 300,
@@ -2697,7 +3594,10 @@
     "chapter": "",
     "original": "",
     "korean": "삼백 번 절하는 것보다\n한 번 진심으로\n자신을 돌아보는 것이\n더 깊은 수행이다.",
-    "commentary": "형식보다 진심이 담긴 수행이 더 깊습니다."
+    "commentary": "형식보다 진심이 담긴 수행이 더 깊습니다.",
+    "english": "Rather than three hundred prostrations,\none sincere moment\nof looking inward\nis deeper practice.",
+    "english_commentary": "Practice with sincere heart rather than form.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 301,
@@ -2706,7 +3606,10 @@
     "chapter": "제23장 코끼리의 품",
     "original": "",
     "korean": "코끼리가 전쟁터에서\n활과 화살을 견디듯,\n나는 남의 비난을 견딘다.\n세상에는 계율 없는 자가 많다.",
-    "commentary": "비난을 묵묵히 견디는 인내가 수행자의 덕목입니다."
+    "commentary": "비난을 묵묵히 견디는 인내가 수행자의 덕목입니다.",
+    "english": "Just as an elephant endures\narrows and bows on the battlefield,\nso I endure the criticism of others.\nThere are many in the world without morality.",
+    "english_commentary": "The patience to quietly endure criticism is a practitioner's virtue.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 302,
@@ -2715,7 +3618,10 @@
     "chapter": "제25분 화무소화분",
     "original": "若菩薩有我相人相衆生相壽者相 卽非菩薩",
     "korean": "보살에게 아상·인상·중생상·수자상이 있으면\n보살이 아니다.",
-    "commentary": "자아에 대한 집착을 내려놓을 때 진정한 보살이 됩니다."
+    "commentary": "자아에 대한 집착을 내려놓을 때 진정한 보살이 됩니다.",
+    "english": "If a bodhisattva has the notions of self,\nother, being, or lifespan —\nthat one is not a bodhisattva.",
+    "english_commentary": "When clinging to the self is released, one becomes a true bodhisattva.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 303,
@@ -2724,7 +3630,10 @@
     "chapter": "도피안품",
     "original": "",
     "korean": "지혜로운 자는\n선악을 모두 버린다.\n이분법의 굴레에서 벗어나\n자유로이 산다.",
-    "commentary": "선악의 이분법을 넘어설 때 진정한 자유가 있습니다."
+    "commentary": "선악의 이분법을 넘어설 때 진정한 자유가 있습니다.",
+    "english": "The wise one abandons both good and evil.\nFreed from the bonds of duality,\nthat one lives freely.",
+    "english_commentary": "When the duality of good and evil is transcended, there is true freedom.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 304,
@@ -2733,7 +3642,10 @@
     "chapter": "",
     "original": "諸法空相",
     "korean": "모든 법의 공한 모습.\n이것이 반야의 핵심이다.",
-    "commentary": "모든 것이 공하다는 것을 알 때 집착에서 벗어납니다."
+    "commentary": "모든 것이 공하다는 것을 알 때 집착에서 벗어납니다.",
+    "english": "The empty character of all dharmas.\nThis is the core of Prajna.",
+    "english_commentary": "Knowing that all is empty — from that knowing, we are freed from clinging.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 305,
@@ -2742,7 +3654,10 @@
     "chapter": "제1장 쌍품",
     "original": "",
     "korean": "마음이 근원이다.\n모든 것은 마음에서 비롯된다.\n맑은 마음으로 말하고 행동하면\n기쁨이 그림자처럼 따른다.",
-    "commentary": "마음을 맑게 하는 것, 그것이 모든 수행의 시작입니다."
+    "commentary": "마음을 맑게 하는 것, 그것이 모든 수행의 시작입니다.",
+    "english": "The mind is the forerunner.\nAll things arise from the mind.\nWhen speaking and acting with a clear mind,\njoy follows like a shadow.",
+    "english_commentary": "Clarifying the mind — that is the beginning of all practice.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 306,
@@ -2751,7 +3666,10 @@
     "chapter": "",
     "original": "",
     "korean": "겨울을 앞두고\n나무는 모든 것을 내려놓는다.\n내려놓음 속에서\n더 깊은 생명이 숨 쉰다.",
-    "commentary": "내려놓는 것이 오히려 더 깊은 생명력을 키웁니다."
+    "commentary": "내려놓는 것이 오히려 더 깊은 생명력을 키웁니다.",
+    "english": "Before winter comes,\nthe tree releases everything.\nWithin the releasing,\na deeper life breathes.",
+    "english_commentary": "Letting go in fact cultivates a deeper vitality.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 307,
@@ -2760,7 +3678,10 @@
     "chapter": "제7분 무득무설분",
     "original": "如來所說法 皆不可取不可說",
     "korean": "여래가 설한 법은\n취할 수도 없고 말할 수도 없다.",
-    "commentary": "진리는 말과 개념을 초월합니다. 직접 체험하세요."
+    "commentary": "진리는 말과 개념을 초월합니다. 직접 체험하세요.",
+    "english": "All dharmas expounded by the Tathagata\ncannot be grasped and cannot be spoken.",
+    "english_commentary": "Truth transcends words and concepts. Experience it directly.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 308,
@@ -2769,7 +3690,10 @@
     "chapter": "파라마타까 경",
     "original": "",
     "korean": "어느 것도 최상이라 집착하지 않는 자,\n그는 세상 어느 것에도\n얽매이지 않고\n평화롭다.",
-    "commentary": "어느 것에도 집착하지 않는 평화로운 마음을 가지세요."
+    "commentary": "어느 것에도 집착하지 않는 평화로운 마음을 가지세요.",
+    "english": "One who clings to nothing as supreme\nis not bound by anything in the world\nand is at peace.",
+    "english_commentary": "Have a peaceful mind that clings to nothing.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 309,
@@ -2778,7 +3702,10 @@
     "chapter": "",
     "original": "照見五蘊皆空",
     "korean": "오온이 모두 공함을 비추어 본다.",
-    "commentary": "깊이 들여다볼 때 집착할 실체가 없음을 알게 됩니다."
+    "commentary": "깊이 들여다볼 때 집착할 실체가 없음을 알게 됩니다.",
+    "english": "One illuminates that all five aggregates are empty.",
+    "english_commentary": "When we look deeply, we find there is no substance to cling to.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 310,
@@ -2787,7 +3714,10 @@
     "chapter": "제4장 꽃의 품",
     "original": "",
     "korean": "많은 꽃을 모아\n화환을 만들듯,\n많은 선행을 모아\n복덕을 쌓아라.",
-    "commentary": "작은 선행들을 모아 아름다운 삶의 화환을 만드세요."
+    "commentary": "작은 선행들을 모아 아름다운 삶의 화환을 만드세요.",
+    "english": "Just as one gathers many flowers\nto make a garland,\ngather many good deeds\nand accumulate merit.",
+    "english_commentary": "Gather small good deeds to make the beautiful garland of a life.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 311,
@@ -2796,7 +3726,10 @@
     "chapter": "불이법문품",
     "original": "",
     "korean": "문수가 물었다.\n유마힐이 답했다, 침묵으로.\n그 침묵이\n가장 완전한 불이법문이었다.",
-    "commentary": "때로는 침묵이 모든 말보다 완전한 진리를 전합니다."
+    "commentary": "때로는 침묵이 모든 말보다 완전한 진리를 전합니다.",
+    "english": "Manjushri asked.\nVimalakirti answered with silence.\nThat silence\nwas the most complete non-dual teaching.",
+    "english_commentary": "Sometimes silence is the most complete truth.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 312,
@@ -2805,7 +3738,10 @@
     "chapter": "",
     "original": "",
     "korean": "보살의 원은\n중생이 다할 때까지 다하지 않는다.\n끝없는 원을 세워\n끝없이 나아가라.",
-    "commentary": "끝없이 나아가는 원력이 보살의 삶을 이끕니다."
+    "commentary": "끝없이 나아가는 원력이 보살의 삶을 이끕니다.",
+    "english": "The bodhisattva's vow\ndoes not end until beings are exhausted.\nMake a vow without end\nand advance without end.",
+    "english_commentary": "The endless vow power is what guides the bodhisattva's life.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 313,
@@ -2814,7 +3750,10 @@
     "chapter": "제11분 무위복승분",
     "original": "此福德勝前福德",
     "korean": "이 복덕이 앞의 복덕보다 수승하다.",
-    "commentary": "진리를 전하는 공덕이 세상의 어떤 공덕보다 큽니다."
+    "commentary": "진리를 전하는 공덕이 세상의 어떤 공덕보다 큽니다.",
+    "english": "This merit surpasses the former merit.",
+    "english_commentary": "The merit of transmitting truth is greater than any merit in the world.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 314,
@@ -2823,7 +3762,10 @@
     "chapter": "제16장 애착의 품",
     "original": "",
     "korean": "사랑하는 것과 만나지 않는 것도 괴롭고\n미워하는 것과 만나는 것도 괴롭다.\n그러므로 사랑하는 것을 만들지 마라.",
-    "commentary": "집착 없는 마음에서 진정한 평화가 옵니다."
+    "commentary": "집착 없는 마음에서 진정한 평화가 옵니다.",
+    "english": "Not meeting those you love is also suffering,\nand meeting those you hate is also suffering.\nTherefore do not make loved ones.",
+    "english_commentary": "From a heart without clinging, true peace comes.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 315,
@@ -2832,7 +3774,10 @@
     "chapter": "마간디야 경",
     "original": "",
     "korean": "집착이 없는 자에게\n결박이 없고,\n지혜로운 자에게\n미혹이 없다.",
-    "commentary": "집착을 내려놓을 때 결박도 사라지고 지혜가 빛납니다."
+    "commentary": "집착을 내려놓을 때 결박도 사라지고 지혜가 빛납니다.",
+    "english": "For one without clinging,\nthere is no bondage;\nfor one with wisdom,\nthere is no delusion.",
+    "english_commentary": "When clinging is released, bondage too disappears and wisdom shines.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 316,
@@ -2841,7 +3786,10 @@
     "chapter": "",
     "original": "無色聲香味觸法",
     "korean": "형상도 소리도 향기도\n맛도 촉감도 법도 없다.",
-    "commentary": "감각이 만든 세계 너머를 볼 때 진정한 자유가 있습니다."
+    "commentary": "감각이 만든 세계 너머를 볼 때 진정한 자유가 있습니다.",
+    "english": "No form, no sound, no smell,\nno taste, no touch, no dharmas.",
+    "english_commentary": "When we see beyond the world created by the senses, there is true freedom.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 317,
@@ -2850,7 +3798,10 @@
     "chapter": "보살행품",
     "original": "",
     "korean": "보살은 이익을 위해\n법을 설하지 않는다.\n순수하게 진리를 나누는 것,\n그것이 보살의 법시다.",
-    "commentary": "순수하게 진리를 나누는 것이 가장 큰 보시입니다."
+    "commentary": "순수하게 진리를 나누는 것이 가장 큰 보시입니다.",
+    "english": "The bodhisattva does not teach the Dharma\nfor gain.\nSharing truth purely —\nthat is the bodhisattva's dharma-gift.",
+    "english_commentary": "Sharing truth purely is the greatest generosity.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 318,
@@ -2859,7 +3810,10 @@
     "chapter": "",
     "original": "",
     "korean": "서리 내린 아침,\n모든 것이 고요하다.\n고요함 속에서\n진리의 소리를 들어라.",
-    "commentary": "고요함 속에서 진리는 더 또렷하게 들립니다."
+    "commentary": "고요함 속에서 진리는 더 또렷하게 들립니다.",
+    "english": "On a morning of frost,\nall is still.\nIn the stillness,\nhear the voice of truth.",
+    "english_commentary": "In stillness, truth sounds even more clearly.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 319,
@@ -2868,7 +3822,10 @@
     "chapter": "제15장 행복의 품",
     "original": "",
     "korean": "베풀기를 좋아하고\n법을 사랑하며\n진리를 보는 것,\n이것이 최상의 행복이다.",
-    "commentary": "베풀고 배우고 진리를 탐구하는 삶이 가장 행복한 삶입니다."
+    "commentary": "베풀고 배우고 진리를 탐구하는 삶이 가장 행복한 삶입니다.",
+    "english": "Delight in giving,\nlove the Dharma,\nsee the truth —\nthis is the highest blessing.",
+    "english_commentary": "A life of giving, learning, and seeking truth is the happiest life.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 320,
@@ -2877,7 +3834,10 @@
     "chapter": "제16분 능정업장분",
     "original": "先世罪業 應墮惡道",
     "korean": "전생의 죄업으로\n마땅히 악도에 떨어질 것이나,\n이 경을 지니면\n죄업이 소멸된다.",
-    "commentary": "진리를 가까이하면 과거의 어둠도 밝아집니다."
+    "commentary": "진리를 가까이하면 과거의 어둠도 밝아집니다.",
+    "english": "Due to past-life evil karma\none should fall into evil realms,\nbut by upholding this sutra\nthe karmic hindrance is dissolved.",
+    "english_commentary": "Drawing close to truth brightens even the darkness of the past.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 321,
@@ -2886,7 +3846,10 @@
     "chapter": "팔게송품",
     "original": "",
     "korean": "욕망을 탐내는 자는\n모두와 다투고,\n욕망이 없는 자는\n누구와도 다투지 않는다.",
-    "commentary": "욕망을 내려놓으면 다툼도 사라집니다."
+    "commentary": "욕망을 내려놓으면 다툼도 사라집니다.",
+    "english": "One who craves desire\ndisputes with everyone;\none without desire\ndisputes with no one.",
+    "english_commentary": "When desire is released, disputes too disappear.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 322,
@@ -2895,7 +3858,10 @@
     "chapter": "",
     "original": "無眼耳鼻舌身意",
     "korean": "눈·귀·코·혀·몸·뜻이 없다.",
-    "commentary": "감각기관에 끌려다니지 않을 때 본래의 고요함을 만납니다."
+    "commentary": "감각기관에 끌려다니지 않을 때 본래의 고요함을 만납니다.",
+    "english": "No eye, no ear, no nose, no tongue,\nno body, no mind.",
+    "english_commentary": "When not dragged about by the sense organs, we meet the original stillness.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 323,
@@ -2904,7 +3870,10 @@
     "chapter": "제19장 법에 머무는 이의 품",
     "original": "",
     "korean": "법을 지키는 자는\n법이 지켜준다.\n진리 안에서 살면\n진리가 보호한다.",
-    "commentary": "진리에 따라 사는 삶이 가장 안전하고 든든한 삶입니다."
+    "commentary": "진리에 따라 사는 삶이 가장 안전하고 든든한 삶입니다.",
+    "english": "One who upholds the Dharma\nis protected by the Dharma.\nOne who lives within truth\nis guarded by truth.",
+    "english_commentary": "A life lived according to truth is the safest and most steadfast life.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 324,
@@ -2913,7 +3882,10 @@
     "chapter": "견아촉불품",
     "original": "",
     "korean": "마음이 곧 부처요,\n부처가 곧 마음이다.\n마음 밖에서 부처를 찾지 마라.",
-    "commentary": "부처는 멀리 있지 않습니다. 지금 이 마음 속에 있습니다."
+    "commentary": "부처는 멀리 있지 않습니다. 지금 이 마음 속에 있습니다.",
+    "english": "Mind is Buddha itself,\nand Buddha is mind itself.\nDo not seek the Buddha outside the mind.",
+    "english_commentary": "The Buddha is not far away. It is here, within this very mind.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 325,
@@ -2922,7 +3894,10 @@
     "chapter": "",
     "original": "",
     "korean": "겨울 나무는 잎을 다 떨어뜨리고도\n죽지 않는다.\n비움이 또 다른 충만이다.",
-    "commentary": "완전히 비울 수 있어야 완전히 채울 수 있습니다."
+    "commentary": "완전히 비울 수 있어야 완전히 채울 수 있습니다.",
+    "english": "A winter tree, though it drops all its leaves,\ndoes not die.\nEmptying is another form of fullness.",
+    "english_commentary": "Only by completely emptying can one completely fill.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 326,
@@ -2931,7 +3906,10 @@
     "chapter": "제19분 법계통화분",
     "original": "若福德有實 如來不說得福德多",
     "korean": "복덕이 실체가 있다면\n여래는 복덕이 많다고 하지 않는다.",
-    "commentary": "집착 없이 베푸는 복덕이 진정한 복덕입니다."
+    "commentary": "집착 없이 베푸는 복덕이 진정한 복덕입니다.",
+    "english": "If merit had substance,\nthe Tathagata would not say merit is great.",
+    "english_commentary": "Merit given without clinging is true merit.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 327,
@@ -2940,7 +3918,10 @@
     "chapter": "제25장 수행자의 품",
     "original": "",
     "korean": "비우고, 고요하고, 청정한 자,\n그는 이미 피안에 있다.\n이 몸으로 열반을 살고 있다.",
-    "commentary": "비움과 고요함과 청정함, 이 세 가지가 열반입니다."
+    "commentary": "비움과 고요함과 청정함, 이 세 가지가 열반입니다.",
+    "english": "One who is empty, still, and pure\nis already on the other shore.\nThat one is living nirvana in this very body.",
+    "english_commentary": "Emptiness, stillness, and purity — these three are nirvana.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 328,
@@ -2949,7 +3930,10 @@
     "chapter": "전쟁 경",
     "original": "",
     "korean": "승리는 원한을 낳는다.\n패배는 고통을 낳는다.\n승패를 버린 자만이\n진정으로 평화롭다.",
-    "commentary": "이기고 지는 것을 내려놓을 때 진정한 평화가 옵니다."
+    "commentary": "이기고 지는 것을 내려놓을 때 진정한 평화가 옵니다.",
+    "english": "Victory breeds enmity;\nthe defeated lie in sorrow.\nOnly one who has abandoned victory and defeat\nis truly at peace.",
+    "english_commentary": "When winning and losing are released, true peace comes.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 329,
@@ -2958,7 +3942,10 @@
     "chapter": "",
     "original": "依般若波羅蜜多故",
     "korean": "반야바라밀다에 의지하므로\n마침내 열반에 이른다.",
-    "commentary": "지혜에 의지하는 삶이 열반으로 가는 길입니다."
+    "commentary": "지혜에 의지하는 삶이 열반으로 가는 길입니다.",
+    "english": "Relying on prajnaparamita,\none reaches nirvana at last.",
+    "english_commentary": "A life relying on wisdom is the path to nirvana.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 330,
@@ -2967,7 +3954,10 @@
     "chapter": "불도품",
     "original": "",
     "korean": "번뇌를 없애는 것이 수행이 아니다.\n번뇌를 지혜로 바꾸는 것이\n진정한 수행이다.",
-    "commentary": "번뇌를 피하지 말고 지혜로 바꾸는 연금술을 배우세요."
+    "commentary": "번뇌를 피하지 말고 지혜로 바꾸는 연금술을 배우세요.",
+    "english": "True practice is not eliminating afflictions.\nTransforming afflictions into wisdom —\nthat is true practice.",
+    "english_commentary": "Learn the alchemy of transforming afflictions into wisdom rather than fleeing them.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 331,
@@ -2976,7 +3966,10 @@
     "chapter": "",
     "original": "",
     "korean": "감사하는 마음이\n가장 큰 공덕이다.\n받은 것을 알고\n갚으려 하는 것이 보살심이다.",
-    "commentary": "감사함을 아는 마음이 모든 수행의 토대입니다."
+    "commentary": "감사함을 아는 마음이 모든 수행의 토대입니다.",
+    "english": "A grateful heart\nis the greatest merit.\nKnowing what one has received\nand wishing to repay it — that is the bodhisattva heart.",
+    "english_commentary": "A mind that knows gratitude is the foundation of all practice.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 332,
@@ -2985,7 +3978,10 @@
     "chapter": "제26장 바라문의 품",
     "original": "",
     "korean": "두 가지 극단을 알고\n중간에 때 묻지 않은 자,\n그를 바라문이라 한다.\n위대한 현자라 한다.",
-    "commentary": "극단을 피하고 중도를 걷는 것이 지혜로운 삶입니다."
+    "commentary": "극단을 피하고 중도를 걷는 것이 지혜로운 삶입니다.",
+    "english": "One who knows both extremes\nand is unsullied in the middle —\nthat one is called a brahman,\na great sage.",
+    "english_commentary": "Knowing the extremes and walking the middle way is a wise life.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 333,
@@ -2994,7 +3990,10 @@
     "chapter": "제28분 불수불탐분",
     "original": "菩薩所作福德 不應貪著",
     "korean": "보살이 지은 복덕에\n탐착하지 않아야 한다.",
-    "commentary": "선행을 하되 그 결과에 집착하지 않는 것이 보살의 마음입니다."
+    "commentary": "선행을 하되 그 결과에 집착하지 않는 것이 보살의 마음입니다.",
+    "english": "The bodhisattva should not be\ngreedy and attached to the merit performed.",
+    "english_commentary": "Doing good without clinging to the results — that is the bodhisattva's heart.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 334,
@@ -3003,7 +4002,10 @@
     "chapter": "무소의 뿔 경",
     "original": "",
     "korean": "욕망을 버린 자는\n두려움이 없다.\n두려움이 없는 자는\n자유롭다.",
-    "commentary": "욕망을 내려놓는 자리에 두려움 없는 자유가 있습니다."
+    "commentary": "욕망을 내려놓는 자리에 두려움 없는 자유가 있습니다.",
+    "english": "One who has abandoned desire\nhas no fear.\nOne who has no fear\nis free.",
+    "english_commentary": "Where desire is released, there is fearless freedom.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 335,
@@ -3012,7 +4014,10 @@
     "chapter": "제1장 쌍품",
     "original": "",
     "korean": "한 해의 끝에서\n지나온 길을 돌아보라.\n얼마나 선을 심었는가,\n얼마나 마음을 닦았는가.",
-    "commentary": "한 해를 돌아보며 선하게 살았는지 점검하는 것이 수행입니다."
+    "commentary": "한 해를 돌아보며 선하게 살았는지 점검하는 것이 수행입니다.",
+    "english": "At the end of a year,\nlook back on the road you have walked.\nHow much good have you planted,\nhow much have you cultivated the mind?",
+    "english_commentary": "Looking back over the year to see if you have lived well — that is practice.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 336,
@@ -3021,7 +4026,10 @@
     "chapter": "",
     "original": "",
     "korean": "눈이 내려\n온 세상을 하얗게 덮듯,\n자비가 온 세상을\n고르게 덮기를.",
-    "commentary": "눈처럼 고르고 순수한 자비심이 세상을 덮기를."
+    "commentary": "눈처럼 고르고 순수한 자비심이 세상을 덮기를.",
+    "english": "Just as snow falls\nand covers the whole world white,\nmay compassion cover the whole world\nevenly.",
+    "english_commentary": "May compassion, as even and pure as snow, cover the world.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 337,
@@ -3030,7 +4038,10 @@
     "chapter": "제29분 위의적정분",
     "original": "如來者 無所從來 亦無所去",
     "korean": "여래는 오는 곳도 없고\n가는 곳도 없다.\n그래서 여래라 한다.",
-    "commentary": "오고 감이 없는 본래의 자리, 그 자리에서 쉬세요."
+    "commentary": "오고 감이 없는 본래의 자리, 그 자리에서 쉬세요.",
+    "english": "The Tathagata comes from nowhere\nand goes nowhere.\nThat is why he is called the Tathagata.",
+    "english_commentary": "The original place of neither coming nor going — rest in that place.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 338,
@@ -3039,7 +4050,10 @@
     "chapter": "자애 경",
     "original": "",
     "korean": "온 세상에 자애를 퍼뜨려라.\n위로, 아래로, 옆으로.\n경계 없이, 끝없이,\n원한 없이, 적대 없이.",
-    "commentary": "모든 경계를 넘어서는 자애의 마음을 키우세요."
+    "commentary": "모든 경계를 넘어서는 자애의 마음을 키우세요.",
+    "english": "Spread loving-kindness to all the world.\nUpward, downward, sideways.\nWithout boundary, without end,\nwithout enmity, without hostility.",
+    "english_commentary": "Cultivate a loving heart that crosses all boundaries.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 339,
@@ -3048,7 +4062,10 @@
     "chapter": "",
     "original": "色卽是空 空卽是色",
     "korean": "색이 곧 공이요\n공이 곧 색이다.",
-    "commentary": "있는 것과 없는 것이 본래 둘이 아닙니다."
+    "commentary": "있는 것과 없는 것이 본래 둘이 아닙니다.",
+    "english": "Form is emptiness itself\nand emptiness is form itself.",
+    "english_commentary": "What exists and what does not exist are originally not two.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 340,
@@ -3057,7 +4074,10 @@
     "chapter": "제2장 방일하지 않음의 품",
     "original": "",
     "korean": "지혜로운 이는\n탑 위에서 어리석은 자들을 내려다보듯,\n방일하지 않음으로\n슬픔 없는 자들을 내려다본다.",
-    "commentary": "깨어있는 삶이 어리석음의 구렁텅이에서 벗어나게 합니다."
+    "commentary": "깨어있는 삶이 어리석음의 구렁텅이에서 벗어나게 합니다.",
+    "english": "Just as the wise one looks down from a hilltop\nupon those who are foolish,\nthrough heedfulness\none looks down upon the sorrowful.",
+    "english_commentary": "An awakened life lifts us out of the pit of foolishness.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 341,
@@ -3066,7 +4086,10 @@
     "chapter": "보살행품",
     "original": "",
     "korean": "끝을 알기에\n처음이 더 소중하다.\n한 해의 끝에서\n새 시작을 준비하라.",
-    "commentary": "끝이 있기에 시작이 소중합니다. 마무리와 시작을 함께 준비하세요."
+    "commentary": "끝이 있기에 시작이 소중합니다. 마무리와 시작을 함께 준비하세요.",
+    "english": "Knowing the end,\nthe beginning is more precious.\nAt the end of a year,\nprepare for a new beginning.",
+    "english_commentary": "Because there is an end, a beginning is precious. Prepare both closure and beginning.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 342,
@@ -3075,7 +4098,10 @@
     "chapter": "",
     "original": "",
     "korean": "부처님이 성도하신 날,\n새벽별을 보고 깨달으셨다.\n오늘도 새벽의 별처럼\n마음의 빛을 밝혀라.",
-    "commentary": "성도절을 맞아 내면의 깨달음의 빛을 밝혀보세요."
+    "commentary": "성도절을 맞아 내면의 깨달음의 빛을 밝혀보세요.",
+    "english": "On the day of the Buddha's enlightenment,\nhe awakened upon seeing the morning star.\nToday too, like the morning star,\nlight the lamp of the mind.",
+    "english_commentary": "On Bodhi Day, illuminate the light of inner awakening.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 343,
@@ -3084,7 +4110,10 @@
     "chapter": "제30분 일합이상분",
     "original": "微塵衆 卽非微塵衆",
     "korean": "미진의 무리는\n곧 미진의 무리가 아니다.",
-    "commentary": "이름이 붙은 것에 집착하지 마세요. 실체는 이름 너머에 있습니다."
+    "commentary": "이름이 붙은 것에 집착하지 마세요. 실체는 이름 너머에 있습니다.",
+    "english": "The assembly of particles\nis not really an assembly of particles.",
+    "english_commentary": "Do not cling to names. The real substance is beyond the name.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 344,
@@ -3093,7 +4122,10 @@
     "chapter": "제6장 지혜로운 이의 품",
     "original": "",
     "korean": "지혜로운 이는\n황금을 돌 보듯 하고\n돌을 황금 보듯 한다.\n집착이 없기 때문이다.",
-    "commentary": "어떤 것에도 특별히 집착하지 않는 평등한 마음을 가지세요."
+    "commentary": "어떤 것에도 특별히 집착하지 않는 평등한 마음을 가지세요.",
+    "english": "The wise one regards gold as a stone\nand a stone as gold.\nBecause there is no clinging.",
+    "english_commentary": "Have an equanimous mind that does not cling specially to any one thing.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 345,
@@ -3102,7 +4134,10 @@
     "chapter": "피안도품",
     "original": "",
     "korean": "강을 건너는 뗏목처럼\n법도 결국 버려야 한다.\n법에 집착하는 것도\n또 다른 집착이다.",
-    "commentary": "진리조차 집착의 대상이 되어서는 안 됩니다."
+    "commentary": "진리조차 집착의 대상이 되어서는 안 됩니다.",
+    "english": "Like a raft for crossing a river,\nthe Dharma too must eventually be abandoned.\nClinging to the Dharma\nis yet another clinging.",
+    "english_commentary": "Even truth should not become an object of clinging.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 346,
@@ -3111,7 +4146,10 @@
     "chapter": "",
     "original": "無受想行識",
     "korean": "느낌도 없고\n생각도 의지도 의식도 없다.",
-    "commentary": "모든 것이 공한 자리에서 진정한 자유가 빛납니다."
+    "commentary": "모든 것이 공한 자리에서 진정한 자유가 빛납니다.",
+    "english": "No sensation,\nno perception, no mental formations, no consciousness.",
+    "english_commentary": "In the place where all is empty, true freedom shines.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 347,
@@ -3120,7 +4158,10 @@
     "chapter": "불사의품",
     "original": "",
     "korean": "크고 작음이\n본래 없다.\n마음이 열리면\n작은 방이 우주가 된다.",
-    "commentary": "마음을 열면 무한한 공간이 생깁니다."
+    "commentary": "마음을 열면 무한한 공간이 생깁니다.",
+    "english": "Large and small\nare originally not there.\nWhen the mind opens,\na small room becomes the universe.",
+    "english_commentary": "When the mind opens, infinite space is created.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 348,
@@ -3129,7 +4170,10 @@
     "chapter": "",
     "original": "",
     "korean": "한 해를 마무리하며\n감사할 것들을 세어보라.\n감사가 많을수록\n마음이 풍요로워진다.",
-    "commentary": "감사하는 마음이 가장 큰 수행의 열매입니다."
+    "commentary": "감사하는 마음이 가장 큰 수행의 열매입니다.",
+    "english": "As you bring the year to a close,\ncount the things you are grateful for.\nThe more gratitude there is,\nthe richer the mind becomes.",
+    "english_commentary": "A grateful heart is the greatest fruit of practice.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 349,
@@ -3138,7 +4182,10 @@
     "chapter": "제15장 행복의 품",
     "original": "",
     "korean": "많은 신을 섬기는 것보다\n마음을 잘 다스리는 것이 낫다.\n마음이 청정한 자에게\n행복이 따른다.",
-    "commentary": "외부를 향하기 전에 내면을 먼저 청정하게 하세요."
+    "commentary": "외부를 향하기 전에 내면을 먼저 청정하게 하세요.",
+    "english": "Better than worshipping many gods\nis governing the mind well.\nHappiness follows\none whose mind is pure.",
+    "english_commentary": "Before turning outward, first make the inner self pure.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 350,
@@ -3147,7 +4194,10 @@
     "chapter": "제31분 지견불생분",
     "original": "知一切法無我",
     "korean": "일체의 법에 아가 없음을 알면\n이것이 인욕의 완성이다.",
-    "commentary": "자아가 없음을 알 때 모든 것을 참을 수 있습니다."
+    "commentary": "자아가 없음을 알 때 모든 것을 참을 수 있습니다.",
+    "english": "When one knows that in all dharmas there is no self,\nthis is the perfection of patient endurance.",
+    "english_commentary": "When one knows there is no self, one can endure all things.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 351,
@@ -3156,7 +4206,10 @@
     "chapter": "화합 경",
     "original": "",
     "korean": "함께 모인 자리에서\n서로를 존중하고\n화합하라.\n이것이 법의 정신이다.",
-    "commentary": "서로를 존중하고 화합하는 것이 법의 정신입니다."
+    "commentary": "서로를 존중하고 화합하는 것이 법의 정신입니다.",
+    "english": "In the place of gathering,\nrespect one another\nand live in harmony.\nThis is the spirit of the Dharma.",
+    "english_commentary": "Respecting each other and living in harmony is the spirit of the Dharma.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 352,
@@ -3165,7 +4218,10 @@
     "chapter": "",
     "original": "不生不滅",
     "korean": "나지도 않고\n멸하지도 않는다.",
-    "commentary": "본래의 자리는 생사가 없습니다. 그 자리에서 쉬세요."
+    "commentary": "본래의 자리는 생사가 없습니다. 그 자리에서 쉬세요.",
+    "english": "Neither arising\nnor ceasing.",
+    "english_commentary": "The original place has no birth and death. Rest in that place.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 353,
@@ -3174,7 +4230,10 @@
     "chapter": "제24장 갈애의 품",
     "original": "",
     "korean": "갈애를 뿌리째 뽑아낸 자,\n그는 강을 건넌 자다.\n이 언덕도 저 언덕도 없이\n자유로이 산다.",
-    "commentary": "갈애에서 완전히 자유로울 때 어느 언덕에도 머물지 않습니다."
+    "commentary": "갈애에서 완전히 자유로울 때 어느 언덕에도 머물지 않습니다.",
+    "english": "One who has uprooted craving entirely\nhas crossed the river.\nWithout this shore or that shore,\none lives freely.",
+    "english_commentary": "When completely free from craving, one does not dwell on either shore.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 354,
@@ -3183,7 +4242,10 @@
     "chapter": "불국품",
     "original": "",
     "korean": "보살은 이 땅을\n정토로 만들기 위해\n지금 이 자리에서\n수행한다.",
-    "commentary": "지금 이 자리를 정토로 만드는 것이 보살의 수행입니다."
+    "commentary": "지금 이 자리를 정토로 만드는 것이 보살의 수행입니다.",
+    "english": "The bodhisattva practices\nright here and now\nin order to make this land\na Pure Land.",
+    "english_commentary": "Practicing to make this very place a Pure Land is the bodhisattva's practice.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 355,
@@ -3192,7 +4254,10 @@
     "chapter": "",
     "original": "",
     "korean": "동지의 긴 밤,\n어둠이 가장 짙을 때\n빛은 다시 자란다.\n절망에서 희망이 싹튼다.",
-    "commentary": "가장 어두운 밤이 지나면 빛이 돌아옵니다. 희망을 잃지 마세요."
+    "commentary": "가장 어두운 밤이 지나면 빛이 돌아옵니다. 희망을 잃지 마세요.",
+    "english": "On the long night of the winter solstice,\nwhen the darkness is deepest,\nthe light begins to grow again.\nHope sprouts from despair.",
+    "english_commentary": "After the darkest night, light returns. Do not lose hope.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 356,
@@ -3201,7 +4266,10 @@
     "chapter": "제32분 응화비진분",
     "original": "如露亦如電 應作如是觀",
     "korean": "이슬과 같고 번개와 같다.\n마땅히 이와 같이 관하라.",
-    "commentary": "이슬처럼 덧없고 번개처럼 순간적인 것들에 집착하지 마세요."
+    "commentary": "이슬처럼 덧없고 번개처럼 순간적인 것들에 집착하지 마세요.",
+    "english": "It is like dew, it is like lightning.\nRegard it thus.",
+    "english_commentary": "Do not cling to things as fleeting as dew and as momentary as lightning.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 357,
@@ -3210,7 +4278,10 @@
     "chapter": "제20장 도의 품",
     "original": "",
     "korean": "스스로 악을 행하지 않으면\n스스로 청정해진다.\n청정함과 불청정함은\n오직 자신에게 달려 있다.",
-    "commentary": "삶의 질은 외부가 아닌 자신에게 달려 있습니다."
+    "commentary": "삶의 질은 외부가 아닌 자신에게 달려 있습니다.",
+    "english": "By not doing evil oneself,\none becomes pure by oneself.\nPurity and impurity depend\non oneself alone.",
+    "english_commentary": "The quality of life depends not on the outside but on oneself.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 358,
@@ -3219,7 +4290,10 @@
     "chapter": "자애 경",
     "original": "",
     "korean": "잠들 때도 깨어날 때도\n자애의 마음을 잃지 마라.\n이것이 가장 숭고한 삶이다.",
-    "commentary": "자는 동안에도 깨어있는 동안에도 자애로운 마음을 간직하세요."
+    "commentary": "자는 동안에도 깨어있는 동안에도 자애로운 마음을 간직하세요.",
+    "english": "Even when falling asleep and waking up,\nnever lose the loving heart.\nThis is the most noble life.",
+    "english_commentary": "Keep a loving heart even while sleeping and waking.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 359,
@@ -3228,7 +4302,10 @@
     "chapter": "",
     "original": "菩提薩埵",
     "korean": "보리살타,\n깨달음을 향해 나아가는 존재.",
-    "commentary": "우리 모두가 깨달음을 향해 나아가는 보살입니다."
+    "commentary": "우리 모두가 깨달음을 향해 나아가는 보살입니다.",
+    "english": "Bodhisattva —\na being journeying toward awakening.",
+    "english_commentary": "We are all bodhisattvas advancing toward enlightenment.",
+    "source_en": "Heart Sutra"
   },
   {
     "id": 360,
@@ -3237,7 +4314,10 @@
     "chapter": "관중생품",
     "original": "",
     "korean": "중생을 보되\n있는 그대로 보라.\n판단하지 말고\n자비로 보라.",
-    "commentary": "판단 없이 자비로운 눈으로 모든 존재를 바라보세요."
+    "commentary": "판단 없이 자비로운 눈으로 모든 존재를 바라보세요.",
+    "english": "See beings\njust as they are.\nWithout judgment,\nsee with compassion.",
+    "english_commentary": "Look upon all beings with compassionate eyes, free of judgment.",
+    "source_en": "Vimalakirti Sutra"
   },
   {
     "id": 361,
@@ -3246,7 +4326,10 @@
     "chapter": "",
     "original": "",
     "korean": "한 해가 저무는 이 시간,\n모든 인연에 감사하라.\n만남도 헤어짐도\n모두 깨달음의 스승이었다.",
-    "commentary": "한 해 동안의 모든 인연에 감사하는 마음을 가지세요."
+    "commentary": "한 해 동안의 모든 인연에 감사하는 마음을 가지세요.",
+    "english": "As the year draws to its close,\nbe grateful for all your connections.\nBoth meetings and partings\nwere all teachers of enlightenment.",
+    "english_commentary": "Hold a heart of gratitude for all the connections of the past year.",
+    "source_en": "Avatamsaka Sutra"
   },
   {
     "id": 362,
@@ -3255,7 +4338,10 @@
     "chapter": "제26장 바라문의 품",
     "original": "",
     "korean": "과거에도 집착하지 않고\n미래도 바라지 않으며\n현재도 붙들지 않는 자,\n그가 자유로운 자다.",
-    "commentary": "과거·현재·미래 어디에도 집착하지 않는 자유를 찾으세요."
+    "commentary": "과거·현재·미래 어디에도 집착하지 않는 자유를 찾으세요.",
+    "english": "Not clinging to the past,\nnot longing for the future,\nnot holding onto the present —\nthat one is free.",
+    "english_commentary": "Find the freedom of not clinging to past, present, or future.",
+    "source_en": "Dhammapada"
   },
   {
     "id": 363,
@@ -3264,7 +4350,10 @@
     "chapter": "제1분 법회인유분",
     "original": "",
     "korean": "발우를 들고\n성 안으로 들어가\n밥을 빌고\n돌아와 앉는다.\n이 평범함이 법이다.",
-    "commentary": "특별할 것 없는 일상이 바로 법입니다."
+    "commentary": "특별할 것 없는 일상이 바로 법입니다.",
+    "english": "Taking up the bowl,\nentering the city,\nbegging for food,\nreturning and sitting down.\nThis ordinariness is the Dharma.",
+    "english_commentary": "There is nothing special — ordinary daily life is the Dharma itself.",
+    "source_en": "Diamond Sutra"
   },
   {
     "id": 364,
@@ -3273,7 +4362,10 @@
     "chapter": "피안도품",
     "original": "",
     "korean": "한 해의 끝에서\n피안을 향한 발걸음을 돌아보라.\n멈추지 않고 걸어온 것,\n그것이 수행이다.",
-    "commentary": "멈추지 않고 걸어온 것 자체가 이미 훌륭한 수행입니다."
+    "commentary": "멈추지 않고 걸어온 것 자체가 이미 훌륭한 수행입니다.",
+    "english": "At the end of a year,\nlook back on the steps\ntaken toward the other shore.\nNever stopping — that is practice.",
+    "english_commentary": "The very act of never stopping is already excellent practice.",
+    "source_en": "Sutta Nipata"
   },
   {
     "id": 365,
@@ -3282,6 +4374,9 @@
     "chapter": "제21장 잡다한 것의 품",
     "original": "",
     "korean": "한 해가 지나도\n진리는 변하지 않는다.\n내일도 오늘처럼\n마음을 맑게 하고 선을 행하라.",
-    "commentary": "새해를 맞이하는 마음으로, 내일도 오늘처럼 선하게 살아가세요."
+    "commentary": "새해를 맞이하는 마음으로, 내일도 오늘처럼 선하게 살아가세요.",
+    "english": "Though the year passes,\ntruth does not change.\nTomorrow too, as today,\nclear the mind and do good.",
+    "english_commentary": "With the heart of welcoming a new year, live as goodly tomorrow as today.",
+    "source_en": "Dhammapada"
   }
 ]

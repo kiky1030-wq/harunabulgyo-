@@ -4,7 +4,9 @@ export interface Sutra {
   id: number;
   date: string;
   source: string;
+  source_en?: string;
   chapter: string;
+  chapter_en?: string;
   original: string;
   korean: string;
   commentary: string;

@@ -51,7 +51,8 @@ export default function SutraDisplay({ sutra, lang = "ko", actions, left, badge,
       <footer className="px-4 sm:px-8 pb-10 sm:pb-12 flex-shrink-0">
         <div className="text-center mb-8 sm:mb-10">
           <p className="text-[12px] text-[#1a1a1a] tracking-[0.2em] uppercase mb-3">
-            {sutra.source}{sutra.chapter ? `  ·  ${sutra.chapter}` : ""}
+            {lang === "en" ? (sutra.source_en ?? sutra.source) : sutra.source}
+            {sutra.chapter ? `  ·  ${lang === "en" ? (sutra.chapter_en ?? sutra.chapter) : sutra.chapter}` : ""}
           </p>
           <p className="text-[14px] sm:text-[15px] text-[#1a1a1a] leading-relaxed max-w-md mx-auto">
             {note}
