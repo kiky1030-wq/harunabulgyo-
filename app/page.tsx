@@ -5,6 +5,7 @@ import PushNotificationButton from "@/components/PushNotificationButton";
 import AudioButton from "@/components/AudioButton";
 import SutraDisplay from "@/components/SutraDisplay";
 import StreakBadge from "@/components/StreakBadge";
+import SachaNote from "@/components/SachaNote";
 import Link from "next/link";
 import type { Metadata } from "next";
 
@@ -87,6 +88,8 @@ export default function Home() {
           </>
         }
       />
+
+      <SachaNote sutra={sutra.korean} dateKey={sutra.date} />
 
     </div>
   );
